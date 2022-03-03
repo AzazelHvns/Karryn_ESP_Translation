@@ -18,7 +18,7 @@ Finalizado:
   - RemEff.json [-]
 Trabajando:
   Azazel:
-    - RemMap_EN.json [0-1000]
+    - RemMap_EN.json [0-957]
 
 Terminologia:
   - Fort Ganon = Fuerte Ganon

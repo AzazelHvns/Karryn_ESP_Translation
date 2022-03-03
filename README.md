@@ -2,14 +2,19 @@
 Spanish Fan Translation of Karryn's Prison 
 Traducción de fans de Karryn's Prison en español
 
-Para los que quieran colaborar voy a dejar marcado en este github:
-  - En que partes trabajo en el momento
+Para los que quieran colaborar en este github:
+  - En que partes se esta trabajando en el momento
   - Terminos para mantener una coherencia
-  - contacto: @Azazel en el discord de Remtairy https://discord.gg/Zb7gG3u
-  - Si colaboras marcare en las partes que trabajes tu también
+  - contacto dudas (terminos,...): @Azazel en el discord de Remtairy https://discord.gg/Zb7gG3u
 
+Finalizado:
+  - RemMap_EN.json [0-233]
+  - RemDesc_EN.json [-]
+  - RemLines.json [-]
+  - RemEff.json [-]
 Trabajando:
-  - RemMap_EN.json
+  Azazel:
+    - RemMap_EN.json [0-1000]
 
 Terminologia:
   - Fort Ganon = Fuerte Ganon
@@ -18,7 +23,8 @@ Terminologia:
   - Titjob = Titjob/Cubana
   - spank = azote
   - deputy Yasu = lugarteniente
-  - chief warde = jefa de guardia
+  - chief warden = jefa de guardia
+  - chose = seleccionar
 
 
 Colaboradores:

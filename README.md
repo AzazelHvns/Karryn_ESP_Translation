@@ -7,6 +7,9 @@ Para los que quieran colaborar en este github:
   - Terminos para mantener una coherencia
   - contacto dudas (terminos,...): @Azazel en el discord de Remtairy https://discord.gg/Zb7gG3u
 
+INF:
+  - Original-Eng tiene los archivos originales de Rem si no los tienes a mano usalos tambien para ir traduciendo
+
 Finalizado:
   - RemMap_EN.json [0-233]
   - RemDesc_EN.json [-]

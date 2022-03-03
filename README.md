@@ -1,5 +1,6 @@
 # Karryn_ESP_Transaltion
-Spanish Fan Translation of Karryn's Prison 
+Spanish Fan Translation of Karryn's Prison
+
 Traducción de fans de Karryn's Prison en español
 
 Para los que quieran colaborar en este github:

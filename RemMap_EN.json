@@ -206,7 +206,7 @@
 "commonevent108_yasu_office1":{
 "text":[
 "¡Aquí el lugarteniente Yasu!",
-"Jefa de guardia Karryn, ¿puede oírme? ¡Corto!"
+"Jefa de guardia Karryn, ¿Puede oírme? ¡Corto!"
 ]},
 "commonevent108_yasu_outside1":{
 "text":[
@@ -217,8 +217,8 @@
 "commonevent108_karryn_2":{
 "text":[
 "Aquí la jefa de guardia Karryn.",
-"Yasu...... ¿Por qué me llamas tan pronto en la mañana?",
-"Y no hace falta que me grites al oido. Corto."
+"Yasu...... ¿Por qué me llama tan pronto en la mañana?",
+"Y no hace falta que me grite al oido. Corto."
 ]},
 "commonevent108_yasu_2":{
 "text":[
@@ -233,528 +233,528 @@
 ]},
 "commonevent108_yasu_3":{
 "text":[
-"Y-Yes Madam!",
-"Prison Level \\V[35] has started \\C[10]Rioting\\C[0]!!",
+"¡S-Sí Señora!",
+"En el Nivel \\V[35] de la prisión empezaron una \\C[10]Revuelta\\C[0]!!",
 "",
-"Some of the inmates have thrown off their chains,",
-"and started wrecking havoc again!!",
+"¡¡Algunos de los presos se han liberado,",
+"y han empezado a sembrar el caos de nuevo!!",
 "",
-"We need your help to suppress the rioters!",
-"It pains me to say this, but our guards can no longer",
-"contain the current situation by themselves! Over!"
+"¡Necesitamos su ayuda para detener a los presos!",
+"¡Me duele decir esto, pero los guardias no pueden",
+"detener la situación por ellos mismos! ¡Corto!"
 ]},
 "commonevent108_karryn_4":{
 "text":[
-"WHAT?! I already subjugated Level \\V[35]...",
-"How did you manage to lose control of a subjugated Level",
-"while I was taking a short rest?!",
-"What in The Emperor's name have the guards been doing?!",
-"This is a prank, isn't it.",
-"If it is, I'm not laughing here, Yasu. Over."
+"¡¿QUÉ?! Ya sometí el Nivel \\V[35]...",
+"¡¿Como lograrono perder el control de un Nivel sometido",
+"mientras me tomaba un descanso?!",
+"¡¿Qué diablos andaban haciendo los guardias?!",
+"Es una broma, ¿no es así?.",
+"Si lo es, yo no me rio Yasu. ¡Corto!"
 ]},
 "commonevent108_yasu_4":{
 "text":[
-"A thousand apologies, Chief Warden!!",
-"But this is no prank...",
+"¡Mil disculpas, Jefa de guardia!",
+"Pero no es una broma...",
 "",
-"The guards moved in to keep control of the Level after ",
-"you've subjugated it. And they kept control of it up ",
-"until last night...",
-"When all of a sudden, with renewed fury, the inmates",
-"overwhelmed the guards in the middle of the night.",
+"Los guardias se adentraron para mantener el control del Nivel",
+"despues de someterlo. Y mantuvieron el control hasta",
+"la pasada noche...",
+"De pronto, los presos asaltaron los guardias",
+"violentamente en medio de la noche.",
 "",
-"Right now, our guards are helpless to stop them.",
-"Over..."
+"En el momento, nuestros guardias estan desesperados por detenerlos.",
+"Corto..."
 ]},
 "commonevent108_karryn_5":{
 "text":[
-"......*Sigh*...",
-"I was a fool to place even the smallest of faith in you people.",
-"Over."
+"......*Haaa*...",
+"Fui una idiota al confiar lo más mínimo en ustedes.",
+"Corto."
 ]},
 "commonevent108_yasu_5":{
 "text":[
-"I can't express the shame that I'm feeling for failing",
-"to meet your expectations......",
+"No puedo decir la vergüenza que siento por fallar",
+"y no cumplir sus expectativas......",
 "",
-"However, if I may say something first,",
-"it is inevitable that these events are going to continue",
-"to occur around here.........",
-"Which is precisely the reason why, or rather,",
-"one of the major reasons why I asked for your help. Over."
+"Aun así, si me permite decir primero,",
+"era inevitable que estas situaciones sigan",
+"ocurriendo en este lugar.........",
+"Que es precisamente la razón, o mejor,",
+"una de las mayores razones por las que pedí su ayuda. Corto."
 ]},
 "commonevent108_karryn_6":{
 "text":[
-"Well, you do have a point there......",
-"And it's also why His Imperial Majesty stationed me here..."
+"Bueno, tiene razón en eso......",
+"Y también es la razón por la que su Majestad me designo aquí..."
 ]},
 "commonevent108_karryn_7":{
 "text":[
-"......All right.",
-"As long as I'm here, I'm not going to let anyone undo my work!",
-"I'm taking over the situation!! Over!"
+"......Así pues.",
+"¡Mientras esté aquí, no dejaré que entorpezcan mi trabajo!",
+"¡¡Tomaré el control de nuevo!! ¡Corto!"
 ]},
 "commonevent108_yasu_6":{
 "text":[
-"Thank you, Chief Warden Karryn!",
-"Please allow me to explain the current situation!!",
+"¡Gracias, jefa de guardia Karryn!",
+"¡¡Permitame explicarle la sitación!!",
 "",
-"Currently, the inmates have taken control of certain parts ",
-"of Level \\V[35]. \\C[10]The facilities occupied by the",
-"rioters will not be able to provide any of their benefits.",
-"\\C[0]Furthermore, \\C[10]the Order of the prison will steadily drop",
-"daily depending on the size of the remaining rioters.\\C[0]",
-"Our guards are losing control over the prison. Over."
+"Actualmente, los presos tomaron control de ciertas partes",
+"del Nivel \\V[35]. \\C[10]Las $salas ocupadas por los",
+"presos no serán capaces de producir beneficios.",
+"\\C[0]Además, \\C[10]el Orden de la prision bajará diariamente",
+"dependiendo de la cantidad de presos sueltos.\\C[0]",
+"Nuestros guradias están perdiendo el control de la prision. Corto."
 ]},
 "commonevent108_karryn_8":{
 "text":[
-"I see. Okay, I got the full picture now.",
-"I'll handle blowing out the rioters from the area.",
+"Bien, ya se como está la situación",
+"Me encargaré de patear a los presos del area.",
 "",
-"And while I'm doing that,",
-"I order you to command the guards to secure the areas that I take back!",
-"Over!"
+"Y mientras tanto,",
+"¡Le ordeno comandar a los guardias que aseguren las zonas que recupere!",
+"¡Corto!"
 ]},
 "commonevent108_yasu_7":{
 "text":[
-"Yes, Madam!",
+"Sí, Señora!",
 "",
 "",
-"I promise that once every rioter in the Level has been ",
-"subdued, \\C[11]the Level's status will go from Rioting ",
-"back to Subjugated! \\C[0]Over!"
+"¡Le prometo que cuando todos los presos del Nivel sean",
+"sometidos, \\C[11]el estado del Nivel volverá de Revuelta a",
+"Sometido de nuevo! \\C[0]¡Cotro!"
 ]},
 "commonevent108_karryn_9":{
 "text":[
-"I'm going to hold you to those words, Yasu.",
-"But still, in the end, I have to do just about everything myself around here.", 
-"Over."
+"Le tomaré la palabra, Yasu",
+"Pero, al final, tube que hacer todo sola de nuevo.", 
+"Corto."
 ]},
 "commonevent108_yasu_8":{
 "text":[
-"Yes... I can't deny that statement.",
-"It shames me, but I'm well aware of how much ",
-"I'm asking you to do for us..."
+"Sí...No puedo negarlo.",
+"Me avergüenza, pero entiendo cuanto",
+"te pido que hagas por nosotros..."
 ]},
 "commonevent108_karryn_10":{
 "text":[
-"Have you forgotten who I am?",
-"I am Karryn the Imperial Secretary, the Chief Warden of Fort Ganon.",
-"The word incapable does not exist anywhere in my personal records.",
-"Oh, and in the future, ",
-"you don't need to call me just to tell me that there's a riot.",
-"I'll take care of any riots that pop up. Over."
+"¿Olvidas quién soy?",
+"Soy Karryn, la Secretaria Imperial, y la Jefa de Guardia del Fuerte Ganon.",
+"No conozco la palabra incapaz.",
+"Ah, para la próxima, ",
+"No es necesario que me llame, solo digame que hay una Revuelta.",
+"Me encargaré de cualquier Revuelta que aparezca. Corto."
 ]},
 "commonevent108_yasu_9":{
 "text":[
-"Roger that! ",
-"Good luck, Chief Warden! Over."
+"¡Entendido! ",
+"¡Buena suerte, Jefa de Guardia! Corto."
 ]},
 "commonevent108_karryn_11":{
 "text":[
-"('All of sudden, with renewed fury,",
-"the inmates overwhelmed the guards......')",
+"De pronto, los presos asaltaron los guardias",
+"violentamente en medio de la noche....",
 "",
-"(This feels like someone is pulling the strings......",
-"I have to proceed carefully......)"
+"(Parece que alguien maneja los hilos......",
+"Tengo que avanzar con cuidado......)"
 ]},
 
 "commonevent109_karryn_today_1":{
 "text":[
 "Haa...... Haa......",
-"I wasn't expecting those bastards...",
-"to gang up on me like that......"
+"No esperaba que esos bastardos...",
+"me atacaran todos juntos así......"
 ]},
 "commonevent109_karryn_yesterday_1":{
 "text":[
-"Nrgh...... Yesterday was terrible......",
-"I wasn't expecting those bastards...",
-"to gang up on me like that......"
+"Ngh...... Ayer fue terrible......",
+"No esperaba que esos bastardos...",
+"me atacaran todos juntos así......"
 ]},
 "commonevent109_karryn_2":{
 "text":[
-"I need to be more careful from now on...",
-"Or the situation in here is just going to keep getting worse."
+"Tengo que tener más cuidado...",
+"O la situación aquí solo empeorará"
 ]},
 "commonevent109_karryn_3":{
 "text":[
-"But well, this type of stuff isn't enough to put me down that easily!",
-"......Hmm.........?"
+"¡$idk$ Pero bueno, esto no es suficiente para detenerme!",
+"¿......Hmm.........?"
 ]},
 "commonevent109_karryn_4":{
 "text":[
-"Wha?! You're kidding me!!",
-"My Secretary Halberd...... they... they......",
-"URGH...... This is disgusting!!",
-"Those primates defiled my halberd!!",
-"\\C[10]I can't use my halberd in its current condition!!\\C[0]",
+"¡¿QUÉ?! ¡¡Estás bromeando!!",
+"Mi Alabarda de Secretaria...... ellos... ellos......",
+"URGH...... ¡¡Es asqueroso!!",
+"¡¡Esos bastardos violaron mi alabarda!!",
+"\\C[10]¡¡No puedo usar mi alabarda en este estado!!\\C[0]",
 "",
 "Grr......",
-"I'll need to spend a night in my office or a guard station",
-"to thoroughly wipe down my halberd before I can use it again..."
+"Tendré que pasar una noche en al oficina una estación de guardia",
+"para limpiarla y usar mi alabarda de nuevo..."
 ]},
 "commonevent109_karryn_office_5":{
 "text":[
-"Alright, enough grumbling...",
-"Time to begin the day.",
-"I'll fight those inmates unarmed if I have to."
+"Bien, basta de quejas...",
+"Hora de comenzar.",
+"Me pelearé con los presos desarmada si hace falta."
 ]},
 "commonevent109_karryn_outside_5":{
 "text":[
-"Oh well...",
-"I'll try to avoid running into any inmates until then.",
-"Worst comes to the worst, I'll just fend them off unarmed."
+"Oh Vaya...",
+"Intentaré evitar a los presos hasta entonces.",
+"En el peor caso, los derrotaré desarmada."
 ]},
 
 "commonevent110_karryn_exp1_1":{
 "text":[
 "(Nnh...... nngk.........",
-"......H-Huh? My clothes... aren't returning back to normal......?!",
-"Hnggkkkk...... What is going on...?!)"
+"......¿E-Eeh? ¡¿Mi ropa... No vuelve a la normalidad......?!",
+"Hnggkkkk...... ¡¿Qué sucede...?!)"
 ]},
 "commonevent110_karryn_exp1_2":{
 "text":[
-"(Those brutes! They've used too much strength pulling my clothes",
-"around here and there! I suppose at least they didn't tear off anything,",
-"but still!! And they keep spraying me with their filth too...... Argh~!!)"
+"(¡Esos bastardos! ¡Usaron mucha fuerza tirando de mi ropa",
+"aquí y allá! Supongo que no rompieron nada,",
+"¡¡pero aun así!! Y continuan ensuciandome con sus $cosas...... Argh~!!)"
 ]},
 "commonevent110_karryn_exp1_3":{
 "text":[
-"(I can't do anything about this situation here!",
-"To repair this damage, ",
-"\\C[11]I need to do it after retiring to a bed for the day\\C[0].)"
+"(¡No puedo hacer nada por la situación aquí!",
+"$Para repararlo,",
+"\\C[11]Necesito hacerlo despues de pasar la noche en la cama\\C[0].)"
 ]},
 "commonevent110_karryn_exp1_4":{
 "text":[
-"(And more importantly, ",
-"right now in the point of view of those lecherous pigs, ",
-"I'm currently in a \\C[1]scandalous state\\C[0]......)",
-"(In other words, it's as if I'm inviting them all to have their way",
-"with me right now! Like I'm standing on top of a plate ready",
-"to be served to all the men in this prison!)"
+"(Sobretodo, ",
+"ahora en el punto de vista de esos cerdos obscenos, ",
+"Estoy en un \\C[1]estado escandaloso\\C[0]......)",
+"(¡De otro modo, es como decirle que hagan lo que quieran",
+"conmigo ahora! ¡Como en un plato esperando lista para",
+"que me sirvan a todos los hombres de la prision!)"
 ]},
 "commonevent110_karryn_exp1_5":{
 "text":[
-"(This is why I hate working in places full of men!",
-"Sigh...... No point crying about spilled milk now......",
-"I'll try to avoid everyone as much as possible......)"
+"(¡Por esto odio trabjar con hombres!",
+"Haaa...... $Porque llorar por la leche derramada......",
+"Intentaré evitar a todos como sea posible......)"
 ]},
 "commonevent110_karryn_exp2_1":{
 "text":[
-"(Huh?",
-"That's strange......",
-"My clothes won't return back to normal......)"
+"(¿Eh?",
+"Extraño......",
+"Mi ropa no vuelve a su estado normal......)"
 ]},
 "commonevent110_karryn_exp2_2":{
 "text":[
-"(The men in here really have no concept of delicacy......",
-"I can sympathize with their desires to see me naked,",
-"but I really wish they'd learn how to treat a lady better.)"
+"(Los hambres aquí no conocen la delicadez......",
+"Entiendo que me quieran ver desnuda,",
+"pero realmente deseo que aprendieran a tratar a una dama.)"
 ]},
 "commonevent110_karryn_exp2_3":{
 "text":[
-"(Hmmm, oh well.",
-"I can't do anything about this here,",
-"\\C[11]I'll fix it after I retire to my bed for the day\\C[0].)"
+"(Hmmm, oh vaya.",
+"No puedo hacer nada con esto,",
+"\\C[11]Lo arreglaré despues de dormir en la cama\\C[0].)"
 ]},
 "commonevent110_karryn_exp2_4":{
 "text":[
-"(Also, I wonder if I look like I'm in a \\C[1]scandalous state\\C[0]",
-"to the men right now? That might actually be pretty interesting if so......",
-"It's cute to watch men get all excited and turned on when they see me.)"
+"(También, me pregunto si me veo en un \\C[1]estado escandaloso\\C[0]",
+"para ellos ahora? Puede ser algo intersante si es así......",
+"Es lindo ver a hombre excitarse cuando me ven.)"
 ]},
 "commonevent110_karryn_exp2_5":{
 "text":[
-"(I don't know what will happen,",
-"so I suppose I'll try to be careful for now.)"
+"(No sé que sucederá,",
+"trataré de tener cuidado ahora.)"
 ]},
 "commonevent110_karryn_exp3_1":{
 "text":[
-"Huh? I can't return my clothes back to normal.",
-"Fufu♥ I guess everyone pulled on my clothes way too hard.♥"
+"¿Eh? No puedo devolver mi ropa a su estado normal.",
+"Fufu♥ Supongo que todos estiraron de mi ropa muy fuerte.♥"
 ]},
 "commonevent110_karryn_exp3_2":{
 "text":[
-"But this might actually be a good thing.♥",
-"In fact, walking around like this in such a \\C[1]scandalous state\\C[0]",
-"is probably more proper for me as the female warden of Fort Ganon.♥♥",
-"Plus, if I want to fix this,",
-"then all I have to do is to just \\C[11]do it after I retire",
-"to my bed for the night\\C[0]......"
+"Pero esto puede ser algo bueno.♥",
+"De hecho, caminar así en un \\C[1]estado escandaloso\\C[0]",
+"es probablemente más propio como la mujer guardiana del Fuerte Ganon.♥♥",
+"Además, si quiero arreglar esto,",
+"todo lo que debo hacer es \\C[11]retirarme",
+"a mi cama por una noche\\C[0]......"
 ]},
 "commonevent110_karryn_exp3_3":{
 "text":[
-"But ohh...... uhhh......♥",
-"Let's forget about that now.♥",
-"I'm starting to get horny from just thinking about......♥",
-"How if I walk around like this in front of everyone......♥",
-"Ufufufu.....♥ They will then need someone to help calm down",
-"their hard cocks trying to explode out of their pants......♥"
+"Pero ohh...... uhhh......♥",
+"Olvidemos eso por ahora.♥",
+"Me pongo caliente solo pensando como......♥",
+"Como si camino así delante de todos......♥",
+"$Ufufufu.....♥ Entonces necesitaran ayuda para relajar",
+"sus duros penes apretados en sus pantalones......♥"
 ]},
 "commonevent110_karryn_exp3_4":{
 "text":[
-"Sniff sniff♥ Kyaa♥ Amazing♥", 
-"I can already smell their stinky, ripe semen from here.♥",
+"Sniff sniff♥ Kyaa♥ Increible♥", 
+"Puedo oler su apestoso semen maduro desde aquí.♥",
 "",
-"Everyone's balls are reacting to my pheromone,",
-"and are trying to release all the man juice that they've",
-"been saving up for me...♥ Time for me help them out~♥♥ "
+"Las bolas de todos reaccionan a mis feromonas,",
+"y tratan de liberar todos sus jugos que guardaban",
+"para mi...♥ Hora de darles una mano~♥♥ "
 ]},
 
 "commonevent150_tachiename_1":{
-"text":["Stairs Guard"]},
+"text":["Guardia de las Escaleras"]},
 
 "commonevent150_guard_1":{
 "text":[
-"Hello, Chief Warden Karryn.",
-"Would you like to be escorted back to your Office?"
+"Hola, Jefa de Guardia Karryn.",
+"¿Quiere que la escoltemos de vuelta a su oficina?"
 ]},
 "commonevent150_choice_1":{
 "text":[
-"No, I can walk on my own."
+"No, puedo caminar por mi cuenta."
 ]},
 "commonevent150_choice_2":{
 "text":[
-"Take me to my Office."
+"Llevenme a mi oficina."
 ]},
 
 "commonevent150_tachiename_2":{
-"text":["Frustrated Guard"]},
+"text":["Guardia Frustrado"]},
 
 "commonevent150_guard_2":{
 "text":[
-"Damn where is she...... Hm? Whoa! Heh heh...",
-"HEY SON! Are you about to take the Chief Warden back to her office?",
-"It's okay, I'll handle it from here, you just go back to your post, hehe... "
+"Demonios, dónde está...... Hm? Whoa! Heh heh...",
+"EH CHICO! ¿Iban a llevar a la Jefa de Guardia Karryn a su oficina?",
+"$Está bien, yo me encargo, volved a vuestro puesto, hehehe... "
 ]},
 
 "commonevent151_choice_1":{
 "text":[
-"Start Custom Battle"
+"$$$Start Custom Battle"
 ]},
 "commonevent151_description_1":{
 "text":[
-"Current battler setup: \\REM_CUSTOM_BATTLERS[0]",
-"\\}\\I[25]Start a battle against the selected battlers!",
-"\\I[25]Each battler will cost \\C[3]100 gold\\C[0] to pay for."
+"$$$Organización de luchadores actual: \\REM_CUSTOM_BATTLERS[0]",
+"\\}\\I[25]$$$¡Comenzar la batalla!",
+"\\I[25]Cada luchador costará \\C[3]100 oro\\C[0] por pagar."
 ]},
 "commonevent151_choice_2":{
 "text":[
-"Reset Custom Battlers"
+"$$$Reset Custom Battlers"
 ]},
 "commonevent151_description_2":{
 "text":[
-"Current battler setup: \\REM_CUSTOM_BATTLERS[0]",
-"\\}\\I[25]Resets the battler setup."
+"$$$Organización de luchadores actual: \\REM_CUSTOM_BATTLERS[0]",
+"\\}\\I[25]$$$Reinicia los luchadores."
 ]},
 "commonevent151_choice_3":{
 "text":[
-"Change Custom Battlers"
+"$$$Change Custom Battlers"
 ]},
 "commonevent151_description_3":{
 "text":[
-"Current battler setup: \\REM_CUSTOM_BATTLERS[0]",
-"\\}\\I[25]Change the battler setup."
+"$$$Organización de luchadores actual: \\REM_CUSTOM_BATTLERS[0]",
+"\\}\\I[25]Cambiar la organización."
 ]},
 "commonevent151_choice_4":{
 "text":[
-"Go Back"
+"$$$Go Back"
 ]},
 "commonevent151_description_4":{
 "text":[
-"Current battler setup: \\REM_CUSTOM_BATTLERS[0]"
+"$$$Organización de luchadores actual: \\REM_CUSTOM_BATTLERS[0]"
 ]},
 
 "commonevent151_changebattler_choice_1":{
 "text":[
-"Remove Last Battler"
+"Retirar último luchador"
 ]},
 "commonevent151_changebattler_description_1":{
 "text":[
-"Current battler setup: \\REM_CUSTOM_BATTLERS[0]"
+"$$$Organización de luchadores actual: \\REM_CUSTOM_BATTLERS[0]"
 ]},
 "commonevent151_changebattler_choice_2":{
 "text":[
-"Add a Prisoner"
+"Añadir un Prisionero"
 ]},
 "commonevent151_changebattler_choice_3":{
 "text":[
-"Add a Thug"
+"Añadir un Matón"
 ]},
 "commonevent151_changebattler_choice_4":{
 "text":[
-"Add a Goblin"
+"Añadir un Goblin"
 ]},
 "commonevent151_changebattler_choice_5":{
 "text":[
-"Add a Nerd"
+"Añadir un Empollon"
 ]},
 "commonevent151_changebattler_choice_6":{
 "text":[
-"Add a Rogue"
+"Añadir un Ladrón"
 ]},
 "commonevent151_changebattler_choice_7":{
 "text":[
-"Add a Lizardman"
+"Añadir un Hombre Lagarto"
 ]},
 "commonevent151_changebattler_choice_8":{
 "text":[
-"Add a Hobo"
+"Añadir un Vagabundo"
 ]},
 "commonevent151_changebattler_choice_9":{
 "text":[
-"Add an Orc"
+"Añadir un Orco"
 ]},
 "commonevent151_changebattler_choice_10":{
 "text":[
-"Add a Slime"
+"Añadir un Slime"
 ]},
 "commonevent151_changebattler_choice_11":{
 "text":[
-"Add a Werewolf"
+"Añadir un Hombre Lobo"
 ]},
 "commonevent151_changebattler_choice_12":{
 "text":[
-"Add a Yeti"
+"Añadir un Yeti"
 ]},
 "commonevent151_changebattler_choice_13":{
 "text":[
-"Add a Guard"
+"Añadir un Guardia"
 ]},
 "commonevent151_changebattler_choice_14":{
 "text":[
-"Go Back"
+"Volver"
 ]},
 
 "commonevent152_choice_1":{
 "text":[
-"Random"
+"Aleatorio"
 ]},
 "commonevent152_choice_2":{
 "text":[
-"Level 1"
+"Nivel 1"
 ]},
 "commonevent152_choice_3":{
 "text":[
-"Level 2"
+"Nivel 2"
 ]},
 "commonevent152_choice_4":{
 "text":[
-"Level 3"
+"Nivel 3"
 ]},
 "commonevent152_choice_5":{
 "text":[
-"Level 4"
+"Nivel 4"
 ]},
 "commonevent152_choice_6":{
 "text":[
-"Level 5"
+"Nivel 5"
 ]},
 "commonevent152_choice_7":{
 "text":[
-"Go Back"
+"Volver"
 ]},
 "commonevent152_description_1":{
 "text":[
-"Set the defeat setting to Random.",
-"\\}\\I[25]Karryn will be moved to a random Level after being defeated in Level 5."
+"Marca la configuración de derrota en Aleatorio.",
+"\\}\\I[25]$$$Llevarán a Karryn a un Nivel Aleatorio al ser derrotada en el Nivel 5."
 ]},
 "commonevent152_description_2":{
 "text":[
-"Set the defeat setting to Level 1.",
-"\\}\\I[25]Karryn will be moved to Level 1 after being defeated in Level 5."
+"Marca la configuración de derrota en Nivel 1.",
+"\\}\\I[25]Llevarán a Karryn al Nivel 1 al ser derrotada en el Nivel 5."
 ]},
 "commonevent152_description_3":{
 "text":[
-"Set the defeat setting to Level 2.",
-"\\}\\I[25]Karryn will be moved to Level 2 after being defeated in Level 5."
+"Marca la configuración de derrota en Nivel 2.",
+"\\}\\I[25]Llevarán a Karryn al Nivel 2 al ser derrotada en el Nivel 5."
 ]},
 "commonevent152_description_4":{
 "text":[
-"Set the defeat setting to Level 3.",
-"\\}\\I[25]Karryn will be moved to Level 3 after being defeated in Level 5."
+"Marca la configuración de derrota en Nivel 2.",
+"\\}\\I[25]Llevarán a Karryn al Nivel 3 al ser derrotada en el Nivel 5."
 ]},
 "commonevent152_description_5":{
 "text":[
-"Set the defeat setting to Level 4.",
-"\\}\\I[25]Karryn will be moved to Level 4 after being defeated in Level 5."
+"Marca la configuración de derrota en Nivel 4.",
+"\\}\\I[25]Llevarán a Karryn al Nivel 4 al ser derrotada en el Nivel 5."
 ]},
 "commonevent152_description_6":{
 "text":[
-"Set the defeat setting to Level 5.",
-"\\}\\I[25]Karryn will be moved to Level 5 after being defeated in Level 5."
+"Marca la configuración de derrota en Nivel 5.",
+"\\}\\I[25]Llevarán a Karryn al Nivel 5 al ser derrotada en el Nivel 5."
 ]},
 "commonevent152_description_7":{
 "text":[
-"\\}\\I[25]Karryn will be moved to \\REM_FREE_BATTLE_DEFEAT_SETTING[0] after being defeated in Level 5."
+"\\}\\I[25]Llevarán a Karryn al Nivel \\REM_FREE_BATTLE_DEFEAT_SETTING[0] al ser derrotada en el Nivel 5."
 ]},
 
 "commonevent153_choice_1":{
 "text":[
-"Start Endless Prison Battle"
+"$$$Comenzar Batalla de Prision Infinita"
 ]},
 "commonevent153_description_1":{
 "text":[
-"\\}Try to survive as long as possible against 50 Waves for fun!",
-"\\}\\I[25]Cheats will be disabled during Endless Prison.",
-"\\I[25]High score: \\C[3]Wave \\REM_ENDLESS_PRISON_SCORE[0]\\C[0]  All-time: \\C[29]\\REM_ENDLESS_PRISON_SCORE[1] (Secretary Mode)  \\C[12]\\REM_ENDLESS_PRISON_SCORE[2] (Warden Mode)  \\C[10]\\REM_ENDLESS_PRISON_SCORE[3] (Prisoner Mode)"
+"\\}Intenta sobrevivir lo maximo durante 50 rondas!",
+"\\}\\I[25]Los Trucos estarán desactivados en este modo.",
+"\\I[25]$$Max Puntuación: \\C[3]Ronda \\REM_ENDLESS_PRISON_SCORE[0]\\C[0]  Todos los tiempos: \\C[29]\\REM_ENDLESS_PRISON_SCORE[1] (Modo Secretaria)  \\C[12]\\REM_ENDLESS_PRISON_SCORE[2] (Modo Guardiana)  \\C[10]\\REM_ENDLESS_PRISON_SCORE[3] (Modo Prisionera)"
 ]},
 "commonevent153_choice_2":{
 "text":[
-"Start Endless Hell Battle"
+"Comenzar Batalla Infinita Infernal"
 ]},
 "commonevent153_description_2":{
 "text":[
-"\\}Beat \\C[3]Wave 10\\C[0] on Endless Prison to unlock Endless Hell Battles.",
-"\\}\\I[25]Cheats will be disabled during Endless Hell but a random Cheat will be activated every 5 Waves.\\{",
-"\\I[25]High score: \\C[3]Wave \\REM_ENDLESS_HELL_SCORE[0]\\C[0]  All-time: \\C[29]\\REM_ENDLESS_HELL_SCORE[1] (Secretary Mode)  \\C[12]\\REM_ENDLESS_HELL_SCORE[2] (Warden Mode)  \\C[10]\\REM_ENDLESS_HELL_SCORE[3] (Prisoner Mode)"
+"\\}Vence \\C[3]Ronda 10\\C[0] en Batalla de Prision Infinita para desbloquear Batalla Infinita Infernal.",
+"\\}\\I[25]Los Trucos estarán desactivados en este modo, pero un truco aleatorio se activará cada 5 Rondas.\\{",
+"\\I[25]$$Max Puntuación: \\C[3]Wave \\REM_ENDLESS_HELL_SCORE[0]\\C[0]  Todos los tiempos: \\C[29]\\REM_ENDLESS_HELL_SCORE[1] (Modo Secretaria)  \\C[12]\\REM_ENDLESS_HELL_SCORE[2] (Modo Guardiana)  \\C[10]\\REM_ENDLESS_HELL_SCORE[3] (Modo Prisionera)"
 ]},
 "commonevent153_choice_3":{
 "text":[
-"Custom Battle"
+"Batalla Personalizada"
 ]},
 "commonevent153_description_3":{
 "text":[
-"\\}Beat \\C[3]Wave 3\\C[0] on Endless Prison to unlock Custom Battles.",
-"\\}\\I[25]Fight against the chosen battlers for fun!",
-"\\I[25]Current battler setup: \\{\\REM_CUSTOM_BATTLERS[0]"
+"\\}Vence \\C[3]Ronda 3\\C[0] en Batalla de Prision Infinita para desbloquear Batalla Personalizada.",
+"\\}\\I[25]Pelea con los luchadores que selecciones por diversión!",
+"\\I[25]Organización de luchadores actual: \\{\\REM_CUSTOM_BATTLERS[0]"
 ]},
 "commonevent153_choice_4":{
 "text":[
-"Change Defeat Setting"
+"Configuración de Derrota"
 ]},
 "commonevent153_description_4":{
 "text":[
-"\\}Beat \\C[3]Wave 5\\C[0] on Endless Prison to unlock this option.",
-"\\}\\I[25]Change where Karryn will go after being defeated in Level 5.",
-"\\I[25]Karryn will be moved to \\REM_FREE_BATTLE_DEFEAT_SETTING[0] after being defeated in Level 5."
+"\\}Vence \\C[3]Ronda 5\\C[0] en Batalla de Prision Infinita para desbloquear la opción.",
+"\\}\\I[25]Cambia donde llevarán a Karryn al ser derrotada en el Nivel 5.",
+"\\I[25]Llevarán a Karryn al Nivel \\REM_FREE_BATTLE_DEFEAT_SETTING[0] al ser derrotada en el Nivel 5."
 ]},
 "commonevent153_choice_5":{
 "text":[
-"Leave Level 5"
+"Dejar el Nivel 5"
 ]},
 "commonevent153_description_5":{
 "text":[
-"\\}Return to Level 4."
+"\\}Volver al Nivel 4."
 ]},
 
 "commonevent154_text_1":{
 "text":[
-"\\#\\{\\{\\{\\{\\C[5]Welcome to Free Play Mode!"
+"\\#\\{\\{\\{\\{\\C[5]Bienvenido al Modo Libre!"
 ]},
 "commonevent154_text_2":{
 "text":[
 "",
-"You can play around in the prison for as long as you like here!",
-"There is no game over condition during Free Play Mode.",
-"All the Cheats in the Settings work during Free Play Mode",
-"even if you're not in Secretary Mode.",
+"¡Aquí puedes jugar en la prision el tiempo que quieras!",
+"No hay condiciones de Fin del Juego en el Modo Libre.",
+"Todos los Trucos funcionan durante el Modo Libre",
+"Incluso sin el Modo Secretaria.",
 "",
-"If you want to start a new playthrough in New Game Plus,",
-"just head Outside and leave Fort Ganon!",
+"Si quieres iniciar la historia de nuevo en Nueva Partida +,",
+"dirigite a la salida del Fuerte Ganon!",
 "",
-"You can review this info anytime you want,",
-"as well as other new notes at the desk in the Office!"
+"¡Puedes ver esta información de nuevo,",
+"como cualquier otra nota, en el escritorio de la Oficina!"
 ]},
 
 "commonevent155_rem_1":{
@@ -1120,33 +1120,33 @@
 
 "commonevent211_karryn_1":{
 "text":[
-"(I can't get through here ",
-"because there \\V[29] in the way......)"
+"(No puedo pasar por aquí ",
+"$porque hay \\V[29] en el camino......)"
 ]},
 "commonevent212_karryn_1":{
 "text":[
-"(That door leads to \\V[31].",
-"I have no reason to go there right now.)"
+"(Esa puerta lleva a \\V[31].",
+"No tengo motivos para ir allá.)"
 ]},
 "commonevent217_karryn_1":{
 "text":[
-"(My senses are telling me that",
-"this isn't the right direction...)"
+"(Mis sentidos me dicen que ",
+"esta no es la dirección...)"
 ]},
 "commonevent219_karryn_1":{
 "text":[
-"(The door to \\V[31] is locked.",
-"Looks like it is closed for the day.)"
+"(La puerta hacia \\V[31] está bloqueada.",
+"Parece que han cerrado por el día.)"
 ]},
 
 "commonevent222_msg_1":{
 "text":[
-"\\#Are you running the game on a display monitor",
-"\\#with a refresh rate faster than 60Hz?"
+"\\#Estas ejecutando el juego en una pantalla",
+"\\#con una tasa de refresco mayor a 60Hz?"
 ]},
 "commonevent222_choice_1":{
 "text":[
-"Yes"
+"Sí"
 ]},
 "commonevent222_choice_2":{
 "text":[
@@ -1154,14 +1154,14 @@
 ]},
 "commonevent222_msg_2":{
 "text":[
-"\\#The 'Force 60 FPS' setting is now turned ON.",
-"\\#※You can turn this OFF any time in the Settings.",
-"\\#※Please turn it off and lower your monitor refresh rate to 60Hz if your game gets laggy."
+"\\#La opción 'Forzar 60 FPS' está activada.",
+"\\#※Puedes desactivar esta opcion en la Configuración.",
+"\\#※Por favor desactivalo y baja tu tasa de refresco a 60Hz si tu juego se corta."
 ]},
 "commonevent222_msg_3":{
 "text":[
-"\\#The 'Force 60 FPS' setting is now turned OFF.",
-"\\#You can turn this ON any time in the Settings."
+"\\#La opción 'Forzar 60 FPS' está desactivada..",
+"\\#※Puedes activar esta opcion en la Configuración."
 ]},
 
 

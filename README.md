@@ -16,7 +16,6 @@ Finalizado:
   - RemMap_EN.json [0 - 1167]
   - RemDesc_EN.json [0 - 681]
   - RemLines.json [-]
-  - RemEff.json [-]
 
 Trabajando:
 

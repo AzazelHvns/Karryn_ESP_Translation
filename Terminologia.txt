@@ -45,6 +45,7 @@ Secreaty Mode = Modo Secretaria
 Warde Mode = Modo Guardiana
 Prisoner Mode = Modo Prisionera
 New Game Plus = Nueva Partida +
+Settings = Configuración
 ------------------------
 
 --------Etc----------

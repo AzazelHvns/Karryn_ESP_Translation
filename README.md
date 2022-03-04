@@ -9,6 +9,7 @@ Para los que quieran colaborar en este github:
   - contacto dudas (terminos,...): @Azazel en el discord de Remtairy https://discord.gg/Zb7gG3u
 
 INF:
+  - If you have any idea about how to cooperate and transalte at the same files, any help is welcomed
   - Original-Eng tiene los archivos originales de Rem si no los tienes a mano usalos tambien para ir traduciendo
 
 Finalizado:

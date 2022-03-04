@@ -40,6 +40,11 @@ Spank = Azote
 
 ----Terminos 1-----------
 Game Over = Fin del Juego
+Cheats = Trucos
+Secreaty Mode = Modo Secretaria
+Warde Mode = Modo Guardiana
+Prisoner Mode = Modo Prisionera
+New Game Plus = Nueva Partida +
 ------------------------
 
 --------Etc----------

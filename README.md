@@ -22,6 +22,8 @@ Trabajando:
 
   - Azazel:
     - RemMap_EN.json [0-10 000]
-
+  - OnlyHentai:
+    - []
 Colaboradores:
   - Azazel
+  - OnlyHentai

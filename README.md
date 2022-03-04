@@ -22,16 +22,5 @@ Trabajando:
   - Azazel:
     - RemMap_EN.json [0-957]
 
-Terminologia:
-  - Fort Ganon = Fuerte Ganon
-  - Goblin = Goblin
-  - Footjob = Footjob
-  - Titjob = Titjob/Cubana
-  - spank = azote
-  - deputy Yasu = lugarteniente
-  - chief warden = jefa de guardia
-  - chose = seleccionar
-
-
 Colaboradores:
   - Azazel

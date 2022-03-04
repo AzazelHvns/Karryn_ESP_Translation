@@ -33,11 +33,11 @@ Tongue = Lengua
 --------------------
 
 -----Deseos----------
-Cock Desire = Pasion Penes
-Mouth Desire = Pasion Boca
-Boobs Desire = Pasion Pechos
-Pussy Desire = Pasion Vagina
-Butt Desire = Pasion Culo
+Cock Desire = Deseo Penes
+Mouth Desire = Deseo Oral
+Boobs Desire = Deseo Pechos
+Pussy Desire = Deseo Vaginal
+Butt Desire = Deseo Culo
 ()
 ---------------
 

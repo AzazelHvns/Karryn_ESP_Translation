@@ -9,16 +9,16 @@ Para los que quieran colaborar en este github:
   - Discord: https://discord.gg/AryPgxnxA8
 
 Finalizado:
-  - RemMap_EN.json [0 - 1167]
-  - RemDesc_EN.json [0 - 681]
+  - RemMap_EN.json [-]
+  - RemDesc_EN.json [-]
   - RemLines.json [-]
 
 Trabajando:
 
   - Azazel:
-    - RemMap_EN.json [0 - 10 000]
+    - RemMap_EN.json [0 - 2036]
   - OnlyHentai:
-    - RemDesc_EN.json[0 - 2 000]
+    - RemDesc_EN.json[0 - 687]
   
 Colaboradores:
   - Azazel

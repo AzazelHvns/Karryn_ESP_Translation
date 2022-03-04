@@ -22,6 +22,7 @@ Yeti  = Yeti
 --------------
 
 ------Partes Cuerpo---------
+Cock = Pene/s
 Breasts = Pechos
 Nipples = Pezones
 Clitoris = Clítoris
@@ -31,6 +32,18 @@ Anus = (Anal/Ano)
 Tongue = Lengua
 --------------------
 
+-----Deseos----------
+Cock Desire =
+Mouth Desire = 
+Boobs Desire = 
+Pussy Desire =
+Butt Desire = 
+---------------
+
+-----Acciones--------
+Mental Phase = Fase Mental
+Willpower = Voluntad
+------------------
 
 ------Acciones Sexuales---------
 Footjob = Footjob

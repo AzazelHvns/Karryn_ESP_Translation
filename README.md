@@ -19,8 +19,7 @@ Finalizado:
 
 Trabajando:
 
-  Azazel:
-  
+  - Azazel:
     - RemMap_EN.json [0-957]
 
 Terminologia:

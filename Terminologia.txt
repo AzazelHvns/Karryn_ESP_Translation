@@ -33,11 +33,12 @@ Tongue = Lengua
 --------------------
 
 -----Deseos----------
-Cock Desire = Pasion por Penes
-Mouth Desire = Pasion Oral
-Boobs Desire = Pasion 
-Pussy Desire = Pasion
-Butt Desire = Pasion
+Cock Desire = Pasion Penes
+Mouth Desire = Pasion Boca
+Boobs Desire = Pasion Pechos
+Pussy Desire = Pasion Vagina
+Butt Desire = Pasion Culo
+()
 ---------------
 
 -----Acciones--------
@@ -46,8 +47,9 @@ Willpower = Voluntad
 ------------------
 
 ------Acciones Sexuales---------
-Footjob = Footjob
-Titjob = Titjob/Cubana
+Fingering = (Tocar)
+Footjob = (Footjob)
+Titjob = (Titjob/Cubana)
 Spank = Azote
 ----------------
 
@@ -68,7 +70,11 @@ inmates = presos
 rioters = (presos)
 subjugate = someter
 --------------------
+
+----Sonidos---------
 *sighs* = *Haaa*
+(la mayoria igual)
+----------
 
 -----------
 aquí (aca no)

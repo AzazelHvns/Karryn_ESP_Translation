@@ -8,3 +8,9 @@ spank = azote
 deputy (Yasu) = lugarteniente
 chief warden = jefa de guardia
 chose = seleccionar
+riot = revuelta
+inmates = presos
+rioters = (presos)
+subjugated = sometí
+
+*sighs* = *Haaa*

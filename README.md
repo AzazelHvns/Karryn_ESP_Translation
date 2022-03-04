@@ -13,7 +13,7 @@ INF:
   - Original-Eng tiene los archivos originales de Rem si no los tienes a mano usalos tambien para ir traduciendo
 
 Finalizado:
-  - RemMap_EN.json [0-233]
+  - RemMap_EN.json [0-720]
   - RemDesc_EN.json [-]
   - RemLines.json [-]
   - RemEff.json [-]

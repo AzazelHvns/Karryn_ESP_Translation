@@ -10,9 +10,9 @@ Chief Warden = Directora
 
 ----- Enemigos------
 Goblin = Goblin
-Thug = Maton
-Nerd = Empollon
-Rogue = Ladron
+Thug = Matón
+Nerd = Empollón
+Rogue = Ladrón
 Lizardman = Hombre Lagarto
 Hobo = Vagabundo
 Orc = Orco

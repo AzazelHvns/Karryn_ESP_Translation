@@ -21,9 +21,9 @@ Finalizado:
 Trabajando:
 
   - Azazel:
-    - RemMap_EN.json [0-10 000]
+    - RemMap_EN.json [0 - 10 000]
   - OnlyHentai:
-    - RemDesc_EN.json[0-2 000]
+    - RemDesc_EN.json[0 - 2 000]
   
 Colaboradores:
   - Azazel

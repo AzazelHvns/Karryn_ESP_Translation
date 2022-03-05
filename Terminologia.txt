@@ -22,7 +22,7 @@ Yeti  = Yeti
 --------------
 
 ------Partes Cuerpo---------
-Cock = Pene/s
+Cock = Pene/s (Karryn puede usar el término que quiera)
 Breasts = Pechos
 Nipples = Pezones
 Clitoris = Clítoris
@@ -66,6 +66,19 @@ Settings = Configuración
 Order = Orden
 Cockiness = Arrogancia
 Hot/Horny = Caliente
+Challenge Run = Partida de desafío
+Slut Level = Nivel de Puta
+Warden Level = Nivel de Directora
+Stamina = Vigor
+Strenght = Fuerza
+Agility = Agilidad
+Mind = Mente
+Corruption = Corrupción
+Energy = Energía
+Dexterity = Destreza
+Endurance = Agüante
+Charm = Encanto
+
 ------------------------
 
 --------Etc----------

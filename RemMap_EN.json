@@ -3520,8 +3520,8 @@
 "",
 "",
 
-"¡Su humilde servidor se siente honrado de que Su Majestad Imperial haya venido desde ",
-"la capital para agraciar las tierras fronterizas con su presencia!"
+"¡Su humilde servidor se siente honrado de que Su Majestad Imperial haya venido ",
+"desde la capital para agraciar las tierras fronterizas con su presencia!"
 ]},
 
 "map17_ev13_p1_emperor_4":{
@@ -3647,7 +3647,7 @@
 "map17_ev13_p1_emperor_6":{
 "text":[
 "Hmmm.........",
-"Así que los prisioneros están pleaneando un motín...",
+"Así que los prisioneros están planeando un motín...",
 "Parece que no podemos dejar este asunto como está.",
 
 "Karryn.",
@@ -3804,7 +3804,7 @@
 "map17_ev13_p3_yasu_3":{
 "text":[
 "Si... Lo es, pero......",
-"Cómo ha salido por la entrada,",
+"Cómo ha salido por la entrada...",
 "¡Esto debe significar......!"
 ]},
 
@@ -4089,7 +4089,7 @@
 "map17_ev13_p5_karryn_5":{
 "text":[
 "Espera... ¡¡¡¡Por favor, reconsidéralo, Su Majestad Imperial!!!! ",
-"¡Y si me pasara algo! ",
+"¿¡Y si me pasara algo!? ",
 "Digamos que me convierto en la nueva Directora... ¡¿Quién le protegerá?!",
 
 "¡¡Y por favor, piénselo por un momento!!",
@@ -4122,12 +4122,12 @@
 "map17_ev13_p5_emperor_7":{
 "text":[
 "¿No has dicho hace un momento algo así como,",
-"\"esto afectará al prestigio e integridad de nuestro imperio,\" si no hacemos nada? "
+"\"esto afectará al prestigio e integridad del imperio\" si no hacemos nada? "
 ]},
 
 "map17_ev13_p5_yasu_7":{
 "text":[
-"¡¡¡Te lo imploro, Señorita Karryn!!!",
+"¡¡¡Se lo imploro, Señorita Karryn!!!",
 "Tú eres la única que puede salvar este fuerte, no......",
 "¡¡¡LA ÚNICA QUE PUEDE SALVAR NUESTRO IMPERIO!!!"
 ]},
@@ -4215,7 +4215,7 @@
 "map17_ev13_p6_yasu_3":{
 "text":[
 "¡¡Ahora que esto está resuelto, debemos actuar rápidamente!! ",
-"¡¡La prisión sigue en un estado de anarquía!! Perdone mi presentación, ",
+"¡¡La prisión sigue en un estado de anarquía!! Perdóneme por mi presentación ",
 "¡¡¡Pero espero ser de alguna ayuda para ti, nueva Directora!!!"
 ]},
 
@@ -4251,7 +4251,7 @@
 "map17_ev13_p6_karryn_10":{
 "text":[
 "¡¡Por favor, déjemelo a mi, Su Majestad Imperial!!",
-"Yo, Karryn...... ¡¡Estaré de vuelta a tu lado en cuanto ponga orden en este fuerte!!",
+"Yo, Karryn...... ¡¡Estaré de vuelta con usted en cuanto ponga orden en este fuerte!!",
 "",
 
 "Por favor, tome todas las precauciones posibles en su viaje de vuelta."

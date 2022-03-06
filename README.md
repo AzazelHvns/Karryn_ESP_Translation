@@ -1,4 +1,4 @@
-# Karryn_ESP_Transaltion
+# Karryn_ESP_Translation
 Spanish Fan Translation of Karryn's Prison
 
 Traducción de fans de Karryn's Prison en español

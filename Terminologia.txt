@@ -76,7 +76,7 @@ Mind = Mente
 Corruption = Corrupción
 Energy = Energía
 Dexterity = Destreza
-Endurance = Agüante
+Endurance = Aguante
 Charm = Encanto
 
 ------------------------

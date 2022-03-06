@@ -4350,8 +4350,8 @@
 "map17_ev9_p1_1":{
 "text":[
 "Te doy la bienvenida al Fuerte Ganon.",
-"Ahora mismo se está usando como una prisión.",
-"Si vienes a hacer una visita, por favor, entra por la puerta de enfrente."
+"Ahora mismo se está usando como una prisión. Si vienes",
+"a hacer una visita, por favor, entra por la puerta de enfrente."
 ]},
 
 
@@ -4364,9 +4364,12 @@
 "Siempre dice lo mismo sin importar lo que ocurra.",
 "De hecho, nunca le he visto moverse de ese sitio...",
 
-"De todas formas, no puedes entrar al Centro de Visitantes por la puerta principal",
-"porque los presos han bloqueado la entrada principal. El centro",
-"de Visitantes necesitará ser reparado una vez el Nivel Uno haya sido sometido."
+"De todas formas, no puedes entrar al Centro de Visitantes",
+"por la puerta principal porque los presos han bloqueado ",
+"la entrada principal. ",
+
+"El centro de Visitantes necesitará ser reparado ",
+"una vez el Nivel Uno haya sido sometido..."
 ]},
 
 "map17_ev10_p1_b_1":{
@@ -4395,8 +4398,8 @@
 
 "map17_ev23_p1_1":{
 "text":[
-"Meow! ",
-"Vine aquí porque escuché que esto era un festival de salchichas,",
+"¡Meow! Vine aquí porque",
+"escuché que esto era un festival de salchichas,",
 "pero todo lo que veo es un montón de tios, meow!",
 
 "Oh hola, meow~.",
@@ -4457,7 +4460,7 @@
 "mucho de las pasivas que tengas, ¡meow!",
 "¡Sin embargo! ¡Meow!",
 "Puedo decirte si ahora mismo eres lo suficientemente puta para alcanzar",
-"el Final Feliz, Así que siéntete libre de usarme para comprobar tu estado, ¡meow!",
+"el Final Feliz, Así que siéntete libre de preguntarme, ¡meow!",
 "Yyyyy ahora... Dame un segundo...",
 "Sniff sniff... sniff......",
 "¡MEOW!"

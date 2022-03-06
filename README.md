@@ -10,7 +10,7 @@ Para los que quieran colaborar en este github:
 
 Finalizado:
   - RemMap_EN.json [-]
-  - RemDesc_EN.json [-]
+  - RemDesc_EN.json [3298-4798]
   - RemLines.json [-]
 
 Trabajando:
@@ -23,4 +23,6 @@ Trabajando:
 Colaboradores:
   - Azazel
   - OnlyHentai
-  - BarrancO
+  - Barranco
+  - Kiyuno
+  - Esp007

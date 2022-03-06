@@ -4475,145 +4475,145 @@
 "¡Parece que vas de camino al Final Feliz!",
 "¡Felicidades, meow!",
 "",
-"O si intentabas ver el Final de Emperatiz, no estés triste ¡Meow!",
+"Pero si intentabas ver el Final de Emperatiz, no estés triste ¡Meow!",
 "Siempre puedes empezar una nueva partida + ¡Meow!"
 ]},
 
 "map17_ev23_p2_challenge_1":{
 "text":[
-"Each Challenge Run gives you one of two Titles as a reward, meow!",
-"And which Title you get depends on if you're in Warden Mode",
-"or if you're in Prisoner Mode, meow!",
-"The Prisoner Mode reward is better than the Warden Mode reward, meow!",
-"And the Prisoner Mode reward will replace the Warden Mode reward",
-"if you've gotten the Warden Mode reward, meow!",
-"You also won't get a reward for beating the challenge in Warden Mode",
-"if you already have the Prisoner Mode reward, meow.",
+"Cada Partida de Desafío te da uno de dos títulos posibles como recompensa",
+"Y el título que obtienes depende de si estás en Modo Directora",
+"O en Modo Prisionera, ¡Meow!",
+"La recompensa del Modo Prisionera es mejor, ¡Meow!",
+"Y la recompensa del Modo Prisionera reemplazará a la del Modo Directora",
+"si has obtenido la recompensa de Modo Directora, ¡Meow!",
+"Tampoco recibirás una recompensa por completar el desafío en Modo Directora",
+"si ya lo has completado en Modo Prisionera, meow.",
 "",
-"But don't worry, meow!",
-"You won't lose your Prisoner Mode reward if you decide to",
-"do the same Challenge Run again in Warden Mode for fun, meow!",
-"And here's a secret tip, meow. Although you can't change",
-"your Title if you want to complete the challenge,",
-"the Passive effects from all your other Titles still help you, meow!",
-"So it's totally up to you if you want to attempt Challenge Runs",
-"when you have collected a ton of Titles to make the challenge easier,",
-"or do them as earlier as possible for extra difficulty, meow!"
+"Pero no te preocupes, ¡Meow!",
+"No perderás tu recompensa de Modo Prisionera si",
+"repites el mismo desafío en Modo Directora, ¡Meow!",
+"Te cuento un secreto, meow. Aunque no puedas cambiar",
+"tu Título si quieres completar el desafío,",
+"las Pasivas del resto de Títulos te seguirán ayudando, ¡Meow!",
+"Así que depende de ti si quieres intentar Partidas de Desafío",
+"cuando hayas conseguido muchos títutlos, para que sea más fácil,",
+"o hacerlos lo antes posibles para añadir dificultad, ¡Meow!"
 ]},
 "map17_ev23_p2_challenge_2":{
 "text":[
 "Sniff sniff...",
-"Oh, meow!",
-"It looks like you're in the middle of a Challenge Run right meow!",
-"Do you want me to help you abandon your Challenge Run?",
-"I'll make it so that you can change your Title again.",
-"There's no reversing this decision for this playthrough, meow!"
+"Oh, ¡Meow!",
+"Parece que estás en mitad de una Partida de Desafío ahora mismo ¡Meow!",
+"¿Quieres que te ayude a abandonar tu Partida de Desafío?",
+"Haré que puedas cambiarte el Título otra vez.",
+"Pero no podrás cambiar esta decisión para esta partida, ¡Meow!"
 ]},
 
 "map17_ev23_p2_choice_keep_challenge":{
 "text":[
-"There's no need, I'm fine."
+"No hace falta, estoy bien."
 ]},
 "map17_ev23_p2_choice_abandon_challenge":{
 "text":[
-"I want to abandon the Challenge Run."
+"Quiero abandonar esta Partida de Desafío."
 ]},
 
 "map17_ev23_p2_keep_challenge_1":{
 "text":[
-"No problem, meow!",
-"I'll be here if you ever change your mind!",
-"Good luck inside, meow!"
+"Sin problema, ¡Meow!",
+"¡Estaré aquí si cambias de parecer!",
+"¡Buena suerte dentro, meow!"
 ]},
 "map17_ev23_p2_abandon_challenge_1":{
 "text":[
-"Aaaaand it's done, meow!",
-"You can change your Title again, meow.",
+"¡Yyyyy listo, meow!",
+"Ya puedes volver a cambiar tu Título, meow.",
 "",
-"As soon as you change your Title,",
-"your Challenge Run will be considered abandoned, meow!"
+"En cuanto te cambies el Título,",
+"tu Partida de Desafío será abandonada, ¡Meow!"
 ]},
 
 
 "map17_ev23_p2_choice_pet":{
 "text":[
-"Pet the kitty."
+"Acariciar al gatito."
 ]},
 "map17_ev23_p2_choice_thankyou":{
 "text":[
-"Thank you!"
+"¡Gracias!"
 ]},
 "map17_ev23_p2_pet_1":{
 "text":[
 "MEOW~~~♥",
-"You're too kind, meow!"
+"¡Eres muy amable, meow!"
 ]},
 "map17_ev23_p2_thankyou_1":{
 "text":[
-"You're very welcome, meow~!"
+"¡De nada, meow~!"
 ]},
 
 "map17_ev24_tachiename_1":{
-"text":["Guard on Smoke Break"]},
+"text":["Guardia en Descanso para Fumar"]},
 "map17_ev24_p1_1":{
 "text":[
-"Apparently the Chief Warden can get up to 3 Titles",
-"for letting Fort Ganon fall into bankruptcy.",
+"Aparentemente la Directora puede conseguir hasta 3 Títulos",
+"por dejar que el Fuerte Ganon caiga en bancarrota.",
 "",
-"But I hope she won't let the prison get bankrupted...",
-"Cuz if I ain't getting paid, then I sure as hell",
-"ain't gonna be helping keep this place under Control..."
+"Pero espero que no deje a la prisión caer en bancarrota...",
+"Porque si no me pagan, ni de coña voy a ayudar",
+"a mantener este sitio bajo Control..."
 ]},
 
 "map17_ev63_p2_emperor_1":{
 "text":[
 "Karryn.",
-"You took me by surprise when you said",
-"you wanted the wedding ceremony to be held here.",
-"That just means how much this place meant to you, didn't it?"
+"Me tomaste por sorpresa cuando dijsite",
+"que querías casarte aquí.",
+"Esto significa que este sitio significa mucho para ti, ¿Verdad?"
 ]},
 "map17_ev63_p2_karryn_1":{
 "text":[
-"Yes, Your Imperial Majesty!",
-"Here in Fort Ganon, I've experienced irreplaceable memories...",
-"as well obtained what I could call dear companions to me.",
-"And it was all thanks to Your Imperial Majesty!",
-"Thank you."
+"¡Si, Su Majestad Imperial!",
+"Aquí en el Fuerte Ganon, he experimentado recuerdos inolvidables...",
+"y he obtenido lo que podría llamar, compañeros muy queridos.",
+"¡Y ha sido todo gracias a Su Majestad Imperial!",
+"Gracias."
 ]},
 "map17_ev63_p2_tonkin_1":{
 "text":[
-"OINK--!! Miss Karryn!! You're so pretty~~~!!",
-"It feels like that day when I first met you here was so long ago......"
+"¡¡OINK--!! ¡¡Señorita Karryn!! ¡¡Estás muy guapa~~~!!",
+"Se siente como si hubiese pasado mucho tiempo desde aquel día que nos conocimos aquí......"
 ]},
 "map17_ev63_p2_cargill_1":{
 "text":[
-"Karryn!!",
-"If you ever feel sick, come pay a visit to me!",
-"I'll fill out any prescription you need!!"
+"¡¡Karryn!!",
+"¡Si alguna vez te encuentras mal, hazme una visita!",
+"¡¡Te recetaré lo que quieras!!"
 ]},
 "map17_ev63_p2_aron_1":{
 "text":[
-"While you're gone, I'm gonna remodel the club",
-"to look even better than before!",
+"¡Mientras no estés, voy a remodelar el club",
+"para que sea incluso mejor que antes!",
 "",
-"Until the remodeling is finished,",
-"kick back and have fun at the capital!"
+"Hasta que termine la remodelación,",
+"¡Relájate y pásatelo bien en la capital!"
 ]},
 "map17_ev63_p2_noinim_1":{
 "text":[
-"Mighty woman...............",
-"Even once you're moved on from here......",
-"Never forget to keep honing that body...............",
-"The next time we meet, I will be the victor.........!!"
+"Mujer poderosa...............",
+"Incluso cuando te hayas ido de aquí......",
+"No te olvides de seguir perfeccionando ese cuerpo...............",
+"¡¡La próxima vez que nos encontremos, saldré victorioso.........!!"
 ]},
 "map17_ev63_p2_gobriel_1":{
 "text":[
-"Prison no Karryn SAD!! Goblin SAD!!"
+"¡¡Prisión sin Karryn TRISTE!!, ¡¡Goblin TRISTE!!"
 ]},
 "map17_ev63_p2_gobriel_2":{
 "text":[
-"......HUH?! What's going on, what happened to me?!",
-"Wh-Why am I outside?!"
+"¡¿......HUH?! ¡¿Qué está pasando?! ¡¿Qué me ha pasado?!",
+"¡¿Por qué estoy fuera?!"
 ]},
 "map17_ev63_p2_yasu_1":{
 "text":[
@@ -4621,55 +4621,55 @@
 ]},
 "map17_ev63_p2_yasu_2":{
 "text":[
-"E-Excuse me, Y-Your Imperial Majesty......",
-"Has Miss Karryn graced your ears about me......?"
+"D-Discúlpeme, S-Su Majestad Imperial......",
+"¿Le ha hablado la Señorita Karryn gratamente sobre me......?"
 ]},
 "map17_ev63_p2_emperor_2":{
 "text":[
-"Oh that. Yeah. There's no problem.",
-"It's thanks to you that we're presently here like this.",
-"I'm deeply grateful to you.",
-"Now for that matter pertaining to your father......",
-"I offer you my condolences...",
+"Oh, si claro. No hay ningún problema.",
+"Es gracias a ti que estamos así ahora mismo.",
+"Estoy profundamente agradecido contigo.",
+"Respecto a tu padre......",
+"Te ofrezco mis condolencias...",
 "",
-"As compensation, I pledge to secure Fort Ganon's future!",
-"We should be able to support Fort Ganon more than ever before",
-"by using the information reported by Karryn."
+"Como compensación ¡Me comprometo a asegurar el futuro del Fuerte Ganon!",
+"Deberiamos poder apoyar mejor el Fuerte",
+"usando la información que nos ha proporcionado Karryn."
 ]},
 "map17_ev63_p2_yasu_3":{
 "text":[
-"Thank you, so so much......!"
+"T¡Muchas Gracias......!"
 ]},
 "map17_ev63_p2_karryn_2":{
 "text":[
 "Yasu.",
-"It's not just going to be me and His Imperial Majesty.",
-"Everyone here would be helping you make Fort Ganon a better place."
+"No solo vamos a ayudar Su Majestad Imperial y yo.",
+"Todos aquí te ayudarían a hacer del Fuerte Ganon un lugar mejor."
 ]},
 "map17_ev63_p2_karryn_3":{
 "text":[
-"It's me we're talking about that here,",
-"I haven't been wrong yet."
+"No olvides que te lo estoy diciendo yo,",
+"Y no me he equivocado todavía."
 ]},
 "map17_ev63_p2_yasu_4":{
 "text":[
-"Yes madam...... thank you...!",
-"As presumptuous as it may be,",
-"I will now be fulfilling the role of the priest."
+"Si señora...... ¡Gracias...!",
+"Aunque suene muy presuntuoso,",
+"A partir de ahora tomaré el papel de sacerdote."
 ]},
 "map17_ev63_p2_yasu_5":{
 "text":[
-"If I may be so bold to ask,",
-"will the two dearly beloved please exchange their vows with a kiss."
+"Si me permite el atrevimiento,",
+"¿Podrían los enamorados intercambiar sus votos con un beso?"
 ]},
 "map17_ev63_p2_emperor_3":{
 "text":[
-"Fufu... This is a bit embarrassing.",
-"Are you ready? Karryn."
+"Fufu... Me da un poco de vergüenza.",
+"¿Estás lista, Karryn?."
 ]},
 "map17_ev63_p2_karryn_4":{
 "text":[
-"Of course, Your Imperial Majesty......"
+"Por supuesto, Su Majestad Imperial......"
 ]},
 "map17_ev63_p2_karryn_5":{
 "text":[
@@ -4677,64 +4677,64 @@
 ]},
 "map17_ev63_p2_emperor_4":{
 "text":[
-"So this is how it feels like to kiss you......",
-"It's as if I'm filled with feelings of happiness......!"
+"Así que esto es lo que se siente al besarte......",
+"¡Es como si me llenase de sentimientos de felicidad......!"
 ]},
 "map17_ev63_p2_karryn_6":{
 "text":[
-"I-Is that so......"
+"¿D-De verdad......?"
 ]},
 "map17_ev63_p2_karryn_7":{
 "text":[
-"(I'm happy and all to be able to kiss His Imperial Majesty......",
-"But maybe because of that, a different urge is starting to come out......)"
+"(Estoy feliz de poder besar a Su Majestad Imperial......",
+"Pero por culpa de eso, un impulso distinto ha empezado a florecer...)"
 ]},
 "map17_ev63_p2_karryn_8":{
 "text":[
-"E-Excuse me! Your Imperial Majesty!"
+"¡P-Perdóneme! ¡Su Majestad Imperial!"
 ]},
 "map17_ev63_p2_emperor_5":{
 "text":[
-"Hm? Is something the matter?"
+"¿Hm? ¿Ocurre algo?"
 ]},
 "map17_ev63_p2_karryn_9":{
 "text":[
-"I'm really sorry......",
-"But will you please allow me to fix my makeup",
-"and go powder my nose for a moment?"
+"Lo siento mucho pero......",
+"¿Me permitiría ir a arreglarme el maquillaje",
+"y empolvar mi nariz un momento?"
 ]},
 "map17_ev63_p2_emperor_6":{
 "text":[
-"Err? Right now?",
-"You look perfectly beautiful enough to me already......",
-"W-Well, I don't mind."
+"¿Err? ¿Tiene que ser ahora?",
+"A mi parece estás perfectamente preciosa......",
+"B-Bueno, no me importa."
 ]},
 "map17_ev63_p2_karryn_10":{
 "text":[
-"Please wait here for a moment then.",
-"Now if you will excuse me."
+"Por favor, espere aquí un momento.",
+"Ahora, si me disculpa."
 ]},
 "map17_ev63_p2_karryn_11":{
 "text":[
-"Can you help me out?"
+"¿Puedes ayudarme?"
 ]},
 "map17_ev63_p2_karryn_12":{
 "text":[
-"Thank you for waiting."
+"Gracias por esperar."
 ]},
 "map17_ev63_p2_emperor_7":{
 "text":[
-"Are you good now?"
+"¿Ya estás bien?"
 ]},
 "map17_ev63_p2_karryn_13":{
 "text":[
-"Yes......♪",
-"Oh, umm, Your Imperial Majesty......",
-"Can you kiss me one more time?"
+"Si......♪",
+"Oh, umm, Su Majestad Imperial......",
+"¿Puede besarme una vez más?"
 ]},
 "map17_ev63_p2_emperor_8":{
 "text":[
-"Sure, of course."
+"Claro, por supuesto."
 ]},
 "map17_ev63_p2_karryn_14":{
 "text":[
@@ -4742,55 +4742,55 @@
 ]},
 "map17_ev63_p2_karryn_15":{
 "text":[
-"......So, I've been thinking......",
-"Will you allow me to stay here a little longer as the Chief Warden?"
+"......He estado pensando......",
+"¿Me permitiría estar aquí un poco más como Directora?"
 ]},
 "map17_ev63_p2_emperor_9":{
 "text":[
-"Th-That was not what I was expecting...... at all."
+"N-No me esperaba eso...... Para nada."
 ]},
 "map17_ev63_p2_karryn_16":{
 "text":[
-"You won't let me?"
+"¿No me va a dejar?"
 ]},
 "map17_ev63_p2_emperor_10":{
 "text":[
-"I would never do that.",
-"You have my full support for anything you desire."
+"Jamás haría eso.",
+"Tienes todo mi apoyo para lo que quieras."
 ]},
 "map17_ev63_p2_karryn_17":{
 "text":[
-"Yay!♥ Thank you♥",
-"Please don't forget to keep the subsidies up, okay?♥"
+"¡Yay!♥ Gracias♥",
+"Por favor no te olvides de mantener los subsidios, ¿Vale?♥"
 ]},
 "map17_ev63_p2_emperor_11":{
 "text":[
-"Yeah. Of course. Ha ha ha......"
+"Si, claro. Ha ha ha......"
 ]},
 "map17_ev63_p2_karryn_18":{
 "text":[
-"Is something wrong?"
+"¿Ocurre algo?"
 ]},
 "map17_ev63_p2_emperor_12":{
 "text":[
-"No...... No, it's just that",
-"you really have changed since you came here.",
-"Of course I mean that in a good way."
+"No...... No, es solo que",
+"has cambiado desde que viniste aquí.",
+"A mejor, quiero decir."
 ]},
 "map17_ev63_p2_karryn_19":{
 "text":[
-"Fufu♪ I figured Your Imperial Majesty would say something like that.",
-"Things are going to be lively again starting tomorrow.♪"
+"Fufu♪ Sabía que Su Majestad Imperial diría algo así.",
+"Las cosas van a estar animadas de nuevo a partir de mañana.♪"
 ]},
 "map17_ev63_p2_karryn_20":{
 "text":[
-"So you heard it everyone!",
-"I'll be in your care once again♥"
+"¡Ya habeis oído chicos!",
+"Estaré a vuestro cargo otra vez♥"
 ]},
 "map17_ev63_p2_narration_1":{
 "text":[
 "",
-"            \\#\\{\\C[1]HAPPY END",
+"            \\#\\{\\C[1]FINAL FELIZ",
 ""
 ]},
 

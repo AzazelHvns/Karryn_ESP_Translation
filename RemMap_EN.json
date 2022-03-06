@@ -3459,7 +3459,7 @@
 "map17_ev13_p1_karryn_1":{
 "text":[
 "Si, Su Majestad Imperial...",
-"Esta es la infame prisión cuyos antiguos presos se refieren a ella como su paraíso... ",
+"Esta es la infame prisión a la que antiguos presos se refieren como un paraíso... ",
 "\\C[4]Fuerte Ganon\\C[0]."
 ]},
 
@@ -3494,7 +3494,7 @@
 "¡Esto no es cosa de risa!",
 "",
 
-"¡Si dejamos este sitio a sus anchas, afectará al prestigio e integridad de nuestro gran imperio! ",
+"¡Si dejamos este sitio a sus anchas, afectará al prestigio e integridad del imperio! ",
 "¡¡Debemos erradicar todas las fuentes de corrupción!!"
 ]},
 
@@ -3549,7 +3549,7 @@
 
 "map17_ev13_p1_karryn_7":{
 "text":[
-"Su Majestad Imperial, este es.",
+"Su Majestad Imperial, este es a quien buscamos.",
 "Este es el tipo que me mandó un mensaje anoche pidiendo su presencia aquí..."
 ]},
 
@@ -3587,7 +3587,7 @@
 "map17_ev13_p1_karryn_8":{
 "text":[
 "¡¿QUÉ?!",
-"...¡¡Cómo te atreves a comportarte como un sucio perro en frente de Su Majestad Imperial...!! ",
+"¡¡Cómo te atreves a comportarte como un sucio perro frente a Su Majestad Imperial!! ",
 "¡Cónoce tu lugar, plebeyo paleto!"
 ]},
 
@@ -3634,7 +3634,7 @@
 "",
 
 "Y ese rumor es",
-"que los prisioneros están tramando un plan."
+"que los prisioneros están tramando revelarse."
 ]},
 
 "map17_ev13_p1_karryn_12":{
@@ -3651,7 +3651,7 @@
 "Parece que no podemos dejar este asunto como está.",
 
 "Karryn.",
-"Debe de tener una razón para haberme pedido que viniese.",
+"Este hombre debe de tener una razón para haberme pedido que viniese.",
 "",
 
 "Yasu, continúa.",
@@ -3717,7 +3717,7 @@
 "map17_ev13_p1_yasu_12":{
 "text":[
 "No puede ser...",
-"!¿Eso me preocupaba está pasando ya......?!"
+"¡¿Ya ha empezado......?!"
 ]},
 
 
@@ -3735,7 +3735,8 @@
 "map17_ev13_p3_guard_2":{
 "text":[
 "¡Todos los presos han unido fuerzas para llevar a cabo una insurrección en la prisión! ",
-"¡Ya han sobrepasado a los guardias y nos encontramos ahora mismo en un estado de anarquía!"
+"¡Ya han sobrepasado a los guardias y nos encontramos ",
+"ahora mismo en un estado de anarquía!"
 ]},
 
 "map17_ev13_p3_yasu_1":{
@@ -3746,8 +3747,8 @@
 "map17_ev13_p3_karryn_1":{
 "text":[
 "¡¿Sois todos y cada uno de vosotros completamente incompetentes?!",
-"No puedo creerme que todos esos rumores acerca de los guardias del Fuerte Ganon siendo incapaces de controlar ",
-"a sus prisioneros acabase siendo verdad......",
+"No puedo creerme que todos esos rumores acerca de los guardias del Fuerte Ganon ",
+"siendo incapaces de controlar a sus prisioneros acabase siendo verdad......",
 
 "¿Una prisión imperial? ¡HAH!",
 "¡¡Más bien una reunión de aficionados sin talento y escoria!!"
@@ -4014,8 +4015,8 @@
 "map17_ev13_p5_karryn_2":{
 "text":[
 "¡Pues claro que es por eso!",
-"......Dios santo...... ",
-"No me puedo creer que tu negligencia casi ha puesto en peligro a Su Majestad Imperial......"
+"......Dios santo...... No me puedo creer que tu negligencia ",
+" casi ha puesto en peligro a Su Majestad Imperial......"
 ]},
 
 "map17_ev13_p5_emperor_3":{
@@ -4025,8 +4026,8 @@
 "",
 
 "No debería haber discusión alguna después de lo que acaba de pasar.",
-"Antes de que la situación se haya deteriorado de esta forma, debiste haberte centrado en",
-"arreglar todos los problemas y fallos en este fuerte."
+"Antes de que la situación se haya deteriorado de esta forma, debiste haberte centrado",
+"en arreglar todos los problemas y fallos en este fuerte."
 ]},
 
 "map17_ev13_p5_yasu_4":{
@@ -4042,7 +4043,7 @@
 
 "map17_ev13_p5_yasu_5":{
 "text":[
-"¡Espera! No, ¡Lo tengo! ¡¡¡SU MAJESTAD IMPERIAL!!!",
+"¡Espera! No ¡Lo tengo! ¡¡¡SU MAJESTAD IMPERIAL!!!",
 "¡¡Tengo una sugerencia!!",
 "¡¡La Señorita Karryn debería ser la nueva Directora!!"
 ]},
@@ -4059,7 +4060,8 @@
 "",
 
 "Soy la secretaria de Su Majestad Imperial,",
-"Es una posición más importante que ser la Directora de una prisión dejada de la mano de Dios."
+"Es una posición más importante que ser la Directora de una prisión ",
+"dejada de la mano de Dios."
 ]},
 
 "map17_ev13_p5_emperor_4":{
@@ -4120,7 +4122,7 @@
 "map17_ev13_p5_emperor_7":{
 "text":[
 "¿No has dicho hace un momento algo así como,",
-"\"esto afectará al prestigio e integridad de nuestro gran imperio,\" si no hacemos nada? "
+"\"esto afectará al prestigio e integridad de nuestro imperio,\" si no hacemos nada? "
 ]},
 
 "map17_ev13_p5_yasu_7":{
@@ -4184,7 +4186,8 @@
 
 "map17_ev13_p6_karryn_5":{
 "text":[
-"Su Majestad Imperial... Así que de verdad estás hablando en serio sobre seguir adelante con todo esto..."
+"Su Majestad Imperial... Así que de verdad estás hablando en serio sobre ",
+"seguir adelante con todo esto..."
 ]},
 
 "map17_ev13_p6_emperor_2":{
@@ -4204,15 +4207,15 @@
 
 "map17_ev13_p6_yasu_2":{
 "text":[
-"¡Ohhhh! ¡A-Alabado sea su nombre!!",
-"Los subsidios financieros de Su Majestad imperial más la presencia imponente de la Señorita Karryn...",
+"¡Ohhhh! ¡A-Alabado sea su nombre!! Los subsidios financieros de",
+"Su Majestad imperial más la presencia imponente de la Señorita Karryn...",
 "¡¡Esto es el equivalente a cien hombres de mano de obra!!"
 ]},
 
 "map17_ev13_p6_yasu_3":{
 "text":[
-"¡¡Ahora que esto está resuelto, debemos actuar rápidamente!! ¡¡La prisión sigue en un estado de anarquía!!",
-"Perdone mi presentación tan tardía, ",
+"¡¡Ahora que esto está resuelto, debemos actuar rápidamente!! ",
+"¡¡La prisión sigue en un estado de anarquía!! Perdone mi presentación, ",
 "¡¡¡Pero espero ser de alguna ayuda para ti, nueva Directora!!!"
 ]},
 
@@ -4269,8 +4272,8 @@
 
 "map17_ev13_p6_karryn_12":{
 "text":[
-"(Supongo que debería abstenerme de mostrarle al emperador lo asombrosamente talentosa que soy ",
-"por un tiempo......",
+"(Supongo que debería abstenerme de mostrarle al emperador lo asombrosamente ",
+"talentosa que soy por un tiempo......",
 "Es duro ser una mujer perfecta.........)"
 ]},
 
@@ -4362,8 +4365,8 @@
 "De hecho, nunca le he visto moverse de ese sitio...",
 
 "De todas formas, no puedes entrar al Centro de Visitantes por la puerta principal",
-"porque los presos han bloqueado la entrada principal.",
-"El centro de Visitantes necesitará ser reparado una vez el Nivel Uno haya sido sometido."
+"porque los presos han bloqueado la entrada principal. El centro",
+"de Visitantes necesitará ser reparado una vez el Nivel Uno haya sido sometido."
 ]},
 
 "map17_ev10_p1_b_1":{
@@ -4582,8 +4585,8 @@
 ]},
 "map17_ev63_p2_tonkin_1":{
 "text":[
-"¡¡OINK--!! ¡¡Señorita Karryn!! ¡¡Estás muy guapa~~~!!",
-"Se siente como si hubiese pasado mucho tiempo desde aquel día que nos conocimos aquí......"
+"¡¡OINK--!! ¡¡Señorita Karryn!! ¡¡Estás muy guapa~~~!! Se siente como ",
+"si hubiese pasado mucho tiempo desde aquel día que nos conocimos aquí......"
 ]},
 "map17_ev63_p2_cargill_1":{
 "text":[

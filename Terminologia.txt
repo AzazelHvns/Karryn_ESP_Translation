@@ -22,23 +22,22 @@ Yeti  = Yeti
 --------------
 
 ------Partes Cuerpo---------
-Cock = Pene/s (Karryn puede usar el término que quiera)
+Cock = Pene/s (Karryn puede usar el término que quiera en diálogos)
 Breasts = Pechos
 Nipples = Pezones
 Clitoris = Clítoris
 Pussy = Vagina
-Butt = (Culo)
-Anus = (Anal/Ano)
+Butt = Culo
+Anus = Ano
 Tongue = Lengua
 --------------------
 
 -----Deseos----------
-Cock Desire = Deseo Penes
-Mouth Desire = Deseo Oral
-Boobs Desire = Deseo Pechos
-Pussy Desire = Deseo Vaginal
-Butt Desire = Deseo Culo
-()
+Cock Desire = Deseo de pollas
+Mouth Desire = Deseo de la boca
+Boobs Desire = Deseo del Pecho
+Pussy Desire = Deseo de la vagina
+Butt Desire = Deseo del culo
 ---------------
 
 -----Acciones--------
@@ -47,11 +46,12 @@ Willpower = Voluntad
 ------------------
 
 ------Acciones Sexuales---------
-Fingering = (Tocar)
-Footjob = (Footjob)
-Titjob = (Titjob/Cubana)
+Fingering = Tocar
+petting/pet = manosear/manoseo
+Footjob = (Footjob en los menús, habilidades y títulos, paja con los pies en los diálogos)
+Titjob = Cubana
 Spank = Azote
-Creampie = Creampie
+Creampie = (Creampie en menús, habilidades y títulos, corrida intera u otra cosa en diálogos)
 Fuck = Coger
 ----------------
 
@@ -65,7 +65,7 @@ New Game Plus = Nueva Partida +
 Settings = Configuración
 Order = Orden
 Cockiness = Arrogancia
-Hot/Horny = Caliente
+Horny = Cachondo/a 
 Challenge Run = Partida de desafío
 Slut Level = Nivel de Puta
 Warden Level = Nivel de Directora
@@ -78,6 +78,13 @@ Energy = Energía
 Dexterity = Destreza
 Endurance = Aguante
 Charm = Encanto
+Accuracy = Precisión
+Evasion = Evasión
+Overblown protection = robustez
+Talk (resist) = (resistencia al) Acoso verbal
+Strip resist = Resistencia al desnudo
+Stripper = Stripper
+Striptease = Striptease
 
 ------------------------
 

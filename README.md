@@ -26,3 +26,5 @@ Colaboradores:
   - Barranco
   - Kiyuno
   - Esp007
+  - Totti
+  - Nox

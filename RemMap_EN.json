@@ -14173,329 +14173,329 @@
 ]},
 
 "map76_ev57_tachiename_gobriel_1":{
-"text":["\\C[24]Composed Voice"]
+"text":["\\C[24]Voz tranquila"]
 },
 "map76_ev57_tachiename_gobriel_2":{
 "text":["\\C[24]???"]
 },
 "map76_ev57_tachiename_noinim_1":{
-"text":["\\C[8]Noinim's Voice"]
+"text":["\\C[8]Voz de Noinim"]
 },
 "map76_ev57_tachiename_aron_1":{
-"text":["\\C[18]Aron's Voice"]
+"text":["\\C[18]Voz de Aron"]
 },
 
 "map76_ev57_p1_narration_1":{
 "text":[
-"\\#Men's voices can be heard deep from within the darkness.",
-"\\#However feeling Karryn's presence, one person stopped."
+"\\#Se escuchan voces de hombres en la oscuridad.",
+"\\#Sin embargo, sintiendo la presencia de Karryn, alguien se detuvo."
 ]},
 "map76_ev57_p1_gobriel_1":{
 "text":[
-"...Noinim, let's end the conversation here."
+"...Noinim, hablemos en otro momento."
 ]},
 "map76_ev57_p1_noinim_1":{
 "text":[
-"B-...... But, that strong woman's might is not fake.........!",
-"On this current course, our plan to correct the injustices",
-"of the dark empire will turn to dust........."
+"P-...Pero... ¡El poder de esa mujer no es moco de pavo.........!",
+"A este paso, nuestro plan para corregir las injusticias",
+"del oscuro imperio se irá al garete........."
 ]},
 "map76_ev57_p1_gobriel_2":{
 "text":[
-"Have you not realized it yet? We have a guest.",
-"Let's welcome her with our reception."
+"¿No te has dado cuenta todavía? Tenemos compañía.",
+"Démosle la bienvenida."
 ]},
 "map76_ev57_p1_noinim_2":{
 "text":[
-".........?!"
+"¡¿.........?!"
 ]},
 "map76_ev57_p1_noinim_3":{
 "text":[
 "Nrrgh............",
-"The fearless champion of the dark empire.........",
-"To so boldy march by your lonesome self into our territory......!!"
+"La valiente campeona del oscuro imperio.........",
+"¡¡Siendo tan atrevida como para entrar sola en nuestro territorio...!!"
 ]},
 "map76_ev57_p1_karryn_1":{
 "text":[
-"So this is the lowest floor, Level 5?",
-"Not only is there a lack of lighting,",
-"this is a pretty dull looking place too."
+"¿Así que este es el piso más bajo, El Nivel 5?",
+"No solo no hay luz,",
+"además tiene pinta de aburrido."
 ]},
 "map76_ev57_p1_gobriel_3":{
 "text":[
-"Can you move out of the way, Noinim.",
-"I would like to greet our guest."
+"¿Puedes echarte a un lado, Noinim?",
+"Me gustaría dar la bienvenida a nuestra invitada."
 ]},
 "map76_ev57_p1_gobriel_4":{
 "text":[
-"Pleased to meet you.",
-"My name is Gobriel.",
-"The inmates also like to refer to me as Captain."
+"Encantado de conocerte.",
+"Me llamo Gobriel.",
+"A los presos también les gusta llamarme Capitán."
 ]},
 "map76_ev57_p1_karryn_2":{
 "text":[
-"You're... a goblin?!"
+"Eres... ¡¿Un goblin?!"
 ]},
 "map76_ev57_p1_gobriel_5":{
 "text":[
-"Are you surprised that a goblin can stand on the top?",
-"...Or maybe you're surprised that a goblin",
-"can speak so fluently?"
+"¿Te sorprendre que un goblin llegue a lo más alto?",
+"...¿O quizás te sorprende que un goblin pueda",
+"hablar de forma tan fluida?"
 ]},
 "map76_ev57_p1_karryn_3":{
 "text":[
-"Well, a little bit from column A and column B...",
-"More importantly, it's only proper that I introduce",
-"myself too since you've told me your name."
+"Bueno, un poco de cada...",
+"Más importante aún, es apropiado que me presente",
+"también ya que me has dicho tu nombre."
 ]},
 "map76_ev57_p1_karryn_4":{
 "text":[
-"I'm Karryn.",
-"His Imperial Majesty's personal secretary, and also......",
-"the temporary Chief Warden of Fort Ganon." 
+"Soy Karryn.",
+"La secretaria personal de Su Majestad Imperial, y también......",
+"la Directora temporal del Fuerte Ganon." 
 ]},
 "map76_ev57_p1_gobriel_6":{
 "text":[
-"It's a pleasure to meet you, Karryn..."
+"Un placer conocerte, Karryn..."
 ]},
 "map76_ev57_p1_gobriel_7":{
 "text":[
-"............Oh?"
+"¿............Oh?"
 ]},
 
 "map76_ev57_p1_if_a_gobriel_1":{
 "text":[
-"Fufufu, aren't you in a rush,",
-"to think that you would reach here already.",
-"How about you enjoy the prison life a little longer?"
+"Fufufu, ¿No vas demasiado rápido?",
+"Y pensar que ya has llegado hasta aquí.",
+"¿Por qué no disfrutas la vida en la prisión un poco más?"
 ]},
 "map76_ev57_p1_if_b_gobriel_1":{
 "text":[
-"Hmph, so this is already attempt number \\V[14]...",
-"I bet you've been enjoying living among the inmates."
+"Hmph, así que este ya es el intento número \\V[14]...",
+"Seguro que has estado disfrutando vivir entre los presos."
 ]},
 "map76_ev57_p1_if_c_gobriel_1":{
 "text":[
-"I see, so this is why Noinim can not beat you.",
-"Fufufu... And this is attempt number \\V[14] as well...",
-"You're a fearsome woman."
+"Ya veo, así que por esto Noinim no pudo derrotarte.",
+"Fufufu... Y además este es el intento número \\V[14]...",
+"Eres una mujer temible."
 ]},
 "map76_ev57_p1_if_c_gobriel_2":{
 "text":[
-"However, all this means is that my plans for",
-"an ideal world is completed.",
+"Sin embargo, todo esto significa que mi plan para",
+"mundo ideal está terminado.",
 "",
-"Welcome back Karryn.",
-"You're already an inmate of this prison."
+"Bienvenida de vuelta, Karryn.",
+"Ya eres una presa de esta prisión."
 ]},
 
 "map76_ev57_p1_karryn_5":{
 "text":[
-"Oh great, another guy full of hot air and nonsense......",
-"Listen up! I do not intend to play along with you inmates",
-"and your megalomania!"
+"Oh genial, otro tío lleno de arrogancia y tonterías......",
+"¡Escuchame! ¡No pretendo seguirles el juego ni a tus presos",
+"ni a tus delirios de grandeza!"
 ]},
 "map76_ev57_p1_karryn_6":{
 "text":[
-"So surrender!! It's all over, Gobriel!!",
-"You're guilty of orchestrating riots, overthrowing authority,",
-"and conspiring to overthrow the empire!!"
+"¡¡Ríndete!! ¡¡Estás acabado Gobriel!!",
+"¡¡Eres culpable de organizar revueltas, derrocar a la autoridad,",
+"y conspirar para derrocar al imperio!!"
 ]},
 
 "map76_ev57_p1_if_a_gobriel_2":{
 "text":[
-"That blind loyalty... You really are a wonderful specimen.",
-"I can see why you're the missing key element for this place..."
+"Esa lealtad ciega... Eres un espécimen fascinante.",
+"Ya veo porque eres el elemento clave que falta en este lugar..."
 ]},
 "map76_ev57_p1_if_b_gobriel_2":{
 "text":[
-"Don't fret. I won't run away from you.",
-"I'm actually really, really interested in you.",
-"The emperor is not who you should be following."
+"No te preocupes. No voy a huir de ti.",
+"Estoy muy muy interesado en ti.",
+"El emperador no es a quien deberías estar siguiendo."
 ]},
 "map76_ev57_p1_if_c_gobriel_3":{
 "text":[
-"Me? Surrender?",
-"Fufufu, how laughable...",
-"Do you really deep down want me to do that?"
+"¿Yo? ¿Rendirme?",
+"Fufufu, que gracioso...",
+"¿Realmente quieres que haga eso?"
 ]},
 "map76_ev57_p1_if_c_gobriel_4":{
 "text":[
 "Karryn..........",
-"Is this not your prison?",
-"This is Fort Ganon... your paradise. Am I wrong?"
+"¿No es esta tu prisión?",
+"Esto es el Fuerte Ganon... Tu paraiso. ¿Me equivoco?"
 ]},
 
 "map76_ev57_p1_karryn_7":{
 "text":[
-"Wh-what are you talking about......"
+"¿D-de qué estás hablando......?"
 ]},
 
 "map76_ev57_p1_if_a_gobriel_3":{
 "text":[
-"You'll understand one day."
+"Algún día entenderás."
 ]},
 "map76_ev57_p1_if_a_karryn_1":{
 "text":[
-"There will never be a day where I understand an insurgent like you.",
-"The only thing that will happen is that I arrest you,",
-"and return back to His Imperial Majesty's side as the Imperial Secretary."
+"Nunca habrá un día en el que entienda a un rebelde como tú.",
+"Lo único que pasará es que te arrestaré y volveré,",
+"al lado de Su Majestad Imperial como su Secretaria Imperial."
 ]},
 "map76_ev57_p1_if_b_gobriel_3":{
 "text":[
-"You're an inmate.",
-"And the only person that all inmates should follow......",
-"is none other than me."
+"Eres una presa.",
+"Y la única persona a la que todos los presos deben seguir......",
+"No es nadie más que yo."
 ]},
 "map76_ev57_p1_if_b_karryn_1":{
 "text":[
-"What an unfunny joke!",
-"You goblins really do have a different sense of humor~",
+"¡Vaya broma sin gracia!",
+"Los goblins realmente teneis un sentido del humor distinto~",
 "",
-"To go and shamelessly say a rotten joke like that",
-"after being cornered like this...",
-"Hmph, I would rather be a mutt's pet first."
+"Para decir una broma como esa sin un ápice de verguenza",
+"tras ser acorralado de esta manera...",
+"Hmph, Antes preferiría ser la mascota de un papanatas."
 ]},
 "map76_ev57_p1_if_c_gobriel_5":{
 "text":[
-"I can tell......",
-"You have no intentions at all of stopping me.",
-"Wake up, and be honest with yourself, Karryn."
+"Puedo saber......",
+"Que no tienes intención de detenerme.",
+"Despierta y se honesta contigo misma, Karryn."
 ]},
 "map76_ev57_p1_if_c_gobriel_6":{
 "text":[
-"Even if you've forgotten,",
-"your body should still remember."
+"Aunque te hayas olvidado,",
+"tu cuerpo todavía debería acordarse."
 ]},
 "map76_ev57_p1_if_c_karryn_1":{
 "text":[
-"(This goblin......",
-"How can he tell what my secret curiosity is?!",
-"He's talking like he really does know something......!)"
+"(Este goblin......",
+"¡¿Cómo puede saber acerca de curiosidad?!",
+"¡Habla como si realmente supiera algo......!)"
 ]},
 
 "map76_ev57_p1_gobriel_8":{
 "text":[
-"How about this approach then......",
-"I'm the same as you, Karryn.",
-"I'm a prisoner infringed by Fort Ganon's curse." 
+"Que tal si te lo explico de esta manera...",
+"Soy igual que tú, Karryn.",
+"Soy un prisionero afligido por la maldición del Fuerte Ganon." 
 ]},
 "map76_ev57_p1_karryn_8":{
 "text":[
-"Fort Ganon's curse...? Hmph, what a dunce.",
-"Did you think a bedtime story like that would scare me?",
+"¿La maldición del Fuerte Ganon...? Hmph, que estúpido.",
+"¿Creías que un cuento como ese me iba a asustar?",
 "",
-"I thought you had something meaningful to say so I listened.",
-"And all I get in return is something a nanny would say",
-"to get kids to go to bed. What a disappointment you are."
+"Creía que tenías algo importante que decir así que te escuché.",
+"Y todo lo que recibo es algo que contaría una abuelita para",
+"que los niños se vayan a dormir. Que decepción."
 ]},
 "map76_ev57_p1_gobriel_9":{
 "text":[
-"Well, I think this is enough talking.",
-"I am finished with my greeting."
+"Bueno, basta de cháchara.",
+"He acabado con mi bienvenida."
 ]},
 "map76_ev57_p1_gobriel_10":{
 "text":[
-"...Noinim. She will now fight me.",
-"You're allowed to do anything you deem neccessary.",
-"Will you aid me with everything you have?"
+"...Noinim. Ella va a luchar contra mi.",
+"Puedes hacer lo que veas necesario.",
+"¿Me ayudarás con todo lo que tienes?"
 ]},
 "map76_ev57_p1_noinim_4":{
 "text":[
-"With all my being...............!!"
+"¡¡Con todo mi ser...............!!"
 ]},
 "map76_ev57_p1_karryn_9":{
 "text":[
-"So you're finally going to resist......"
+"Así que finalmente te vas a resistir..."
 ]},
 "map76_ev57_p1_karryn_10":{
 "text":[
-"Crap!! It's a trap!!"
+"¡¡Mierda!! ¡¡Es una trampa!!"
 ]},
 "map76_ev57_p1_gobriel_11":{
 "text":[
-"Welcome, Karryn!!",
-"Welcome to your prison!!"
+"¡¡Bienvenida, Karryn!!",
+"¡¡Bienvenida a tu prisión!!"
 ]},
 
 "map76_ev57_p2_gobriel_1":{
 "text":[
-"You can not escape from this prison's cycle.",
-"Now come forward,",
-"and enjoy this eternity of pleasure with me."
+"No puedes escapar del ciclo de esta prisión.",
+"Ahora da un paso adelante,",
+"y disfruta esta eternidad de placer conmigo."
 ]},
 
 "map76_ev57_p3_gobriel_0":{
 "text":[
-"The time has come.",
-"Take this pitiful sycophant of the empire away,",
-"and implant an unforgetable memory into her."
+"Ha llegado la hora.",
+"Llevadse a esta lamentable sicofante del imperio,",
+"e implantadle un recuerdo que no podrá olvidar."
 ]},
 "map76_ev57_p3_gobriel_1":{
 "text":[
-"You raise your hand knowing your fate......",
-"You struggle knowing you won't defeat us.",
-"It's quite the talent if you're doing it unconsciously."
+"Te rebelas sabiendo tu destino...",
+"Te resistes sabiendo que no nos derrotarás.",
+"Es un gran talento si lo estás haciendo inconscientemente."
 ]},
 "map76_ev57_p3_gobriel_2":{
 "text":[
-"Go on and begin.",
-"Everything is ready."
+"Vamos, empieza.",
+"Todo está listo."
 ]},
 "map76_ev57_p3_gobriel_3":{
 "text":[
-"Naturally this is the result...",
-"How many more times do you intend to play this farce?",
-"...No, sorry, it was pointless of me to ask."
+"Naturalmente este es el resultado...",
+"¿Cuántas veces más planeas hacer esta farsa?",
+"...No, perdona, es inútil que pregunte."
 ]},
 "map76_ev57_p3_gobriel_4":{
 "text":[
-"Never look down on the emperor's underling.",
-"She's been defeated so many times",
-"and yet here she is again back for more......",
+"Nunca desprecies a un subordinado del emperador.",
+"Ha sido derrotada tantas veces",
+"y aún así vuelve a por más......",
 "",
-"Karryn. Is it...... because you're special?",
-"...Fufufu, why did I bother to ask that."
+"¿Karryn. Es porque eres...especial?",
+"...Por qué me molesto en preguntar eso."
 ]},
 "map76_ev57_p3_gobriel_5":{
 "text":[
-"Everyone, her body and soul are our prisoner.",
-"She's an hungry beast who can only falsely bark.",
-"She's really here just to satisfy her own sexual urges."
+"Escuchad, su cuerpo y alma son nuestro prisionero.",
+"Es una bestia hambrienta que solo puede ladrar falsamente.",
+"Está aquí solo para satisfacer sus necesidades sexuales."
 ]},
 
 "map76_ev57_p3_gobriel_21":{
 "text":[
-"Everyone! This woman is a gift from the empire to us!!",
-"Show your respects, and leave no holes empty!!",
-"Unleash every drop of your desire, right here right now!!"
+"¡Escuchad! ¡¡Esta mujer es un regalo del imperio!!",
+"¡¡Mostrad vuestros respetos y no dejeis agujeros sin llenar!!",
+"¡¡Desatad hasta la última gota de vuestros deseos aquí y ahora!!"
 ]},
 "map76_ev57_p3_gobriel_22":{
 "text":[
-"Now is the time to allow everybody to satisfy those desires!",
-"Give this sex slave a dicking that is deeper",
-"then this underground!!"
+"¡Ahora es el momento de que todos satisfagan esos deseos!",
+"¡¡Dadle a esta esclava sexual una follada tan profunda",
+"como este sótano!!"
 ]},
 
 
 "map76_ev57_p4_karryn_1":{
 "text":[
-"HAAAAAAH!!"
+"¡¡HAAAAAAH!!"
 ]},
 "map76_ev57_p4_gobriel_1":{
 "text":[
 "Urgk......",
-"NOINIM!! WHAT ARE YOU DOING?!",
-"HURRY UP AND AID ME!!"
+"¡¡NOINIM!! ¡¿QUÉ ESTÁS HACIENDO?!",
+"¡¡DATE PRISA Y AYÚDAME!!"
 ]},
 "map76_ev57_p4_karryn_2":{
 "text":[
-"Too slow!!"
+"¡¡Demasiado lento!!"
 ]},
 "map76_ev57_p4_karryn_3":{
 "text":[
-"Clench your teeth, Captain, no, Gobriel!!",
-"Your ambitions are now over!"
+"¡¡Aprieta los dientes, Capitán, no, Gobriel!!",
+"¡Tus ambiciones acaban aquí!"
 ]},
 "map76_ev57_p4_gobriel_2":{
 "text":[
@@ -14503,17 +14503,17 @@
 ]},
 "map76_ev57_p4_gobriel_3":{
 "text":[
-"Is that really what will happen?",
+"¿Realmente pasará eso?",
 "",
 "",
-"You do not know the truth.",
-"And as long you remain ignorant,",
-"nothing will change even if you subdue me."
+"No sabes la verdad.",
+"Y mientras permanezcas en la ignorancia,",
+"nada cambiará aunque me derrotes."
 ]},
 "map76_ev57_p4_karryn_4":{
 "text":[
-"Hmph! What a sore loser!!",
-"You're still acting mysterious to resist me!"
+"¡Hmph! ¡¡Qué mal perdedor!!",
+"¡Sigues actuando de forma misteriosa para resistirte!"
 ]},
 "map76_ev57_p4_gobriel_4":{
 "text":[
@@ -14521,33 +14521,33 @@
 ]},
 "map76_ev57_p4_gobriel_5":{
 "text":[
-"\\{\\{MY COMRADES!!!"
+"\\{\\{¡¡¡CAMARADAS!!!"
 ]},
 "map76_ev57_p4_gobriel_6":{
 "text":[
-"My strategy was a success!!",
-"Thanks to everyone's actions,",
-"The greatest prodigy of the empire, Karryn, is trapped down here!!",
-"There is nothing left to fear in the empire!!",
-"Now is the time to pay back all the injustices!!",
-"There is no longer any need to stay imprisoned!!",
-"Today,",
-"I will become the king of the new world!!"
+"¡¡Mi estrategia fue un éxito!!",
+"¡¡Gracias a las acciones de todos,",
+"la mayor prodigio del imperio, Karryn, está atrapada aquí abajo!!",
+"¡¡No hay nada más que temer en el imperio!!",
+"¡¡Ahora es el momento de hacer pagar todas las injusticias!!",
+"¡¡No hay necesidad de seguir encerrados!!",
+"Hoy.",
+"¡¡Me convertiré en el rey del nuevo mundo!!"
 ]},
 "map76_ev57_p4_karryn_5":{
 "text":[
-"Crap!!",
-"It was a plan all from the start to lure me in here......!"
+"¡¡Mierda!!",
+"¡Todo era un plan para atraerme aquí......!"
 ]},
 "map76_ev57_p4_gobriel_7":{
 "text":[
-"Everyone!! March out from the fort!!",
-"My comrades!! We will step onto a new stage!!",
-"A new prison to overthrow! A prison known as an empire!!"
+"¡¡Todo el mundo!! ¡¡Marchad fuera del fuerte!!",
+"¡¡Mis camaradas!! ¡¡Caminaremos hacia una nueva etapa!!",
+"¡Una nueva prisión que derrocar! ¡¡Una prisión llamada imperio!!"
 ]},
 "map76_ev57_p4_karryn_6":{
 "text":[
-".........Argh, what should I do........."
+".........Argh, que debería hacer........."
 ]},
 "map76_ev57_p4_gobriel_8":{
 "text":[
@@ -14555,80 +14555,80 @@
 ]},
 "map76_ev57_p4_gobriel_9":{
 "text":[
-"...Why are your feet not moving?",
-"THIS IS THE CAPTAIN'S ORDERS!!"
+"...¿Por qué no os estais moviendo?",
+"¡¡ESTO SON ÓRDENES DEL CAPITÁN!!"
 ]},
 "map76_ev57_p4_gobriel_10":{
 "text":[
-"Everyone.......",
-"C-Comrades, you must march!",
-"Have I not always said not to miss your opportunities?!"
+"Escuchadme.......",
+"¡C-Camaradas, teneis que marchar!",
+"¡¿No he dicho siempre que no debeis perder oportunidades?!"
 ]},
 "map76_ev57_p4_aron_1":{
 "text":[
-"Ay yo, I think that's enough."
+"Oye tio, creo que ya es suficiente."
 ]},
 "map76_ev57_p4_karryn_7":{
 "text":[
-"...Oh, everyone's gathered here......",
-"Are you here to get in my way?"
+"...Oh, os habeis reunido todos aquí......",
+"¿Estais aquí para poneros en mi camino?"
 ]},
 "map76_ev57_p4_cargill_1":{
 "text":[
-"Don't be so cold, Karryn!",
-"We came to back you up!"
+"¡No seas tan fría, Karryn!",
+"¡Hemos venido a ayudarte!"
 ]},
 "map76_ev57_p4_tonkin_1":{
 "text":[
-"OINK--!! What a shock!",
-"So the Captain was this tiny lil goblin!",
+"¡¡OINK--!! ¡Que sorpresa!",
+"¡Así que el capitán era este pequeño goblin!",
 "",
-"Up until now this place was too dark",
-"for me to see clearly......"
+"Hasta ahora este sitio estaba demasiado oscuro",
+"como para ver bien......"
 ]},
 "map76_ev57_p4_karryn_8":{
 "text":[
-"Oh brother...... The rabble's here.",
-"Seriously, just don't get in my way."
+"Oh dios mío...... La chusma ha llegado.",
+"De verdad, intentad no ponerse en mi camino."
 ]},
 "map76_ev57_p4_gobriel_11":{
 "text":[
-"Fufufu...... So, that's how it is........."
+"Fufufu...... con que esas tenemos......."
 ]},
 "map76_ev57_p4_gobriel_12":{
 "text":[
-"NOINIM!!",
-"Finish everyone here."
+"¡¡NOINIM!!",
+"Acaba con todos los presentes."
 ]},
 "map76_ev57_p4_noinim_1":{
 "text":[
-"...............My Master.........",
-"Nay, Gobriel.........",
-"I...... refuse that command..............."
+"...............Señor.........",
+"No, Gobriel.........",
+"Yo...... Me niego..............."
 ]},
 "map76_ev57_p4_gobriel_13":{
 "text":[
-"You too, Noinim?!! Why?!"
+"¡¡¿Tú también, Noinim?!! ¡¿Por qué?!"
 ]},
 "map76_ev57_p4_noinim_2":{
 "text":[
-"After exchanging fists,",
-"I finally recognize the truth............",
+"Tras intercambiar golpes,",
+"Finalmente he reconocido la verdad.....",
 "",
-"That is......",
-"Who the real puny dark being is..............."
+"Y es darme cuenta......De quien es",
+"realmente el pequeño y malvado enemigo..."
 ]},
 "map76_ev57_p4_tonkin_2":{
 "text":[
-"Hey Mister Captain...",
-"You should just give up...",
-"It doesn't feel good to be at odds against Miss Karryn."
+"Hey Capitán...",
+"Deberías rendirte...",
+"No es algo bonito estar en contra de la Serñorita Karryn."
 ]},
 "map76_ev57_p4_tonkin_3":{
 "text":[
-"And it ain't just me. All the guys in this prison......",
-"Are ALL~~~~ in love with Miss Karryn......",
-"In fact, everyone probably thinks that she's the real Captain!"
+"Y no solo yo, si no todos los miembros de esta prisión......",
+"Estamos~~~~ enamorados de la Señorita Karryn......",
+"De hecho, ¡Seguramente para todos ella es la verdadera capitana!"
 ]},
 "map76_ev57_p4_karryn_9":{
 "text":[
@@ -14636,35 +14636,36 @@
 ]},
 "map76_ev57_p4_aron_2":{
 "text":[
-"Yeah! Sorry kid, but that's basically how it is!!",
-"My dreams wouldn't have came true if it wasn't for Karryn!!",
-"There's no idiot stupid enough to stab Karryn in the back!!"
+"¡Si! Lo siento chaval, ¡¡Pero así son las cosas!!",
+"¡¡Mis sueños no se hubiesen hecho realidad sin Karryn!!",
+"¡¡No hay nadie tan idiota como para apuñalarla por la espalda!!"
 ]},
 "map76_ev57_p4_gobriel_14":{
 "text":[
-"Is that so. In the end, inmates are just all useless trash."
+"¿Es así?. después de todo, ",
+"los presos son simplemente basura inútil."
 ]},
 "map76_ev57_p4_gobriel_15":{
 "text":[
-"DOCTOR CARGILL! INJECT ME WITH YOUR DRUG!",
-"I WANT TO KNOW THE VISIONS OF WHAT'S AHEAD!!"
+"¡¡DOCTOR CARGILL! ¡INYÉCTAME LA DROGA!",
+"¡¡QUIERO SABER QUE ESTÁ POR VENIR!!"
 ]},
 "map76_ev57_p4_cargill_2":{
 "text":[
-"Oooh~, sure thing."
+"Oooh~, por supuesto."
 ]},
 "map76_ev57_p4_cargill_3":{
 "text":[
-"Here!"
+"¡Toma!"
 ]},
 "map76_ev57_p4_karryn_10":{
 "text":[
-"Dr. Cargill!! You snake...... What did you just do?!"
+"¡¡Dr. Cargill!! Maldita víbora...... ¡¿Qué acabas de hacer?!"
 ]},
 "map76_ev57_p4_gobriel_16":{
 "text":[
-"Fu...... fufufu...... I appreciate it, Cargill......!!",
-"I can see...... I can see myself, fufufu........."
+"Fu...... fufufu...... ¡¡Muchas gracias, Cargill......!!",
+"Puedo verlo...... Puedo verme, fufufu........."
 ]},
 "map76_ev57_p4_gobriel_17":{
 "text":[
@@ -14672,84 +14673,84 @@
 ]},
 "map76_ev57_p4_gobriel_18":{
 "text":[
-"......Wha......?! W-... NO, WHY?!",
-"That's ridiculous............ Aaahh...... aaaahh...",
-"After everything I've done, after all that hard work......"
+"......¡¿Q-......?! CO-... ¡NO!, ¡¿POR QUÉ?!",
+"Es ridículo............ Aaahh...... aaaahh...",
+"Después de todo lo que he hecho, tras todo ese duro trabajo..."
 ]},
 "map76_ev57_p4_aron_3":{
 "text":[
-"Huh? What's up with him?",
-"Is he tripping from Cargill's bootleg drugs?"
+"¿Huh? ¿Qué le pasa?",
+"¿Está flipando por las drogas de contrabando de Cargill?"
 ]},
 "map76_ev57_p4_gobriel_19":{
 "text":[
 "No............",
-"I refuse to accept this future......",
-"ME, once again becoming a regular goblin......!!",
-"Th-This can not come to be......",
-"W-Who would...... ALLOW SUCH A THING!!!"
+"Me niego a aceptar este futuro......",
+"¡¡YO, convirtiéndome de nuevo en un goblin normal...!!",
+"E-Esto no puede ser......",
+"Q-Quien...... ¡¡¡PERMITIRÍA ALGO ASÍ!!!"
 ]},
 "map76_ev57_p4_karryn_11":{
 "text":[
-"What is he saying?! Could he be......"
+"¡¿Qué está diciendo?! Puede ser que......"
 ]},
 "map76_ev57_p4_cargill_4":{
 "text":[
 "Mhmm.",
-"He's originally a goblin inmate that participated",
-"in one of my experiments.",
-"However one day after an experiment,",
-"he suddenly developed an intensive growth of intelligence......"
+"Originalmente era un goblin que participó",
+"en uno de mis experimentos.",
+"Sin embargo, un día después de un experimento,",
+"desarrolló un crecimiento desmesurado de su inteligencia...."
 ]},
 "map76_ev57_p4_cargill_5":{
 "text":[
-"And it wasn't just his IQ that rose.",
-"He started talking as if he could see into people's past,",
-"and sometimes even into their future.",
-"I had no theory as to what the cause was.......",
-"So I was pretty surprised, te-hee.",
+"Y no solo aumentó su CI.",
+"Empezó a hablar como si pudiese ver el pasado de las personas,",
+"y a veces incluso su futuro.",
+"No tenía una teoría acerca de la causa......",
+"Así que estaba bastante sorprendido, te-hee.",
 "",
-"Anyway,",
-"it's certain that Gobriel obtained a special power.",
+"De todas maneras,",
+"Es seguro que Gobriel ha obtenido un poder especial.",
 "",
-"As a result, the leader of the prison riots, 'The Captain'",
-"was born......",
-"Is the gist of it all I surmise."
+"Como resultado, el lides de las revueltas de la prisión nació,",
+"'El Capitán'......",
+"Al menos esa es mi conjetura."
 ]},
 "map76_ev57_p4_karryn_12":{
 "text":[
-"I see......",
-"So that's why... he wasn't another one who is just all talk."
+"Ya veo......",
+"Así que por eso no era otro bocazas..."
 ]},
 "map76_ev57_p4_tonkin_4":{
 "text":[
-"Hey, is that a jab aimed at me because it really hurts!!",
-"Using drugs to become smart...... that's just cheating!!"
+"¡¿Oye, eso iba por mi?! ¡¡Esas cosas duelen!!",
+"Usar drogas para volverte inteligente... ¡¡Eso es trampa!!"
 ]},
 "map76_ev57_p4_cargill_6":{
 "text":[
-"Oooo, Tonkin!",
-"Then how about you also participate in that cheating experiment♪"
+"¡Oooo, Tonkin!",
+"Si quieres puedes participar también en el experimento♪"
 ]},
 "map76_ev57_p4_tonkin_5":{
 "text":[
-"OINK?! N-No thank you, doc."
+"¡¿OINK?! N-No gracias, doc."
 ]},
 "map76_ev57_p4_gobriel_20":{
 "text":[
-"Curse it AAAAAALLL......!!",
-"I won't accept it...... I won't accept that fate......!!",
+"¡¡MALDICIÓÓÓÓÓÓN......!!",
+"No lo permitiré.... ¡¡No aceptaré ese destino......!!",
 "",
-"I'm special! I was BLESSED.........!!",
-"I! Have qualifications to become the new kiiiiiiinnng......!!",
+"¡Soy especial! ¡¡Fui bendecido.........!!",
+"¡YO! ¡¡Estoy cualificado para ser el nuevo reyyyyy...!!",
 "",
-"I... I... I,i,i,i,i......",
-"...K-......KING......",
-"ggrggkk......... BL-BBBbbbbBBBBbb..................!!!"
+"Yo... Yo... Yo,yo,yo,yo,yo......",
+"...R-......REY......",
+"¡¡¡ggrggkk......... BL-BBBbbbbBBBBbb..................!!!"
 ]},
 "map76_ev57_p4_gobriel_21":{
 "text":[
-"BOOBIES!!"
+"¡¡TETITAS!!"
 ]},
 "map76_ev57_p4_karryn_13":{
 "text":[
@@ -14757,131 +14758,131 @@
 ]},
 "map76_ev57_p4_gobriel_22":{
 "text":[
-"Goblin!! Lovety-love BOOBIES!!",
-"Lickity-lick fat BOOBIES!! NOW!!"
+"¡¡A Goblin!! ¡¡Le gustan las TETITAS!!",
+"¡¡Quiero lamer y lamer TETITAS GORDAS!! ¡¡AHORA!!"
 ]},
 "map76_ev57_p4_karryn_14":{
 "text":[
-"Whaa?!"
+"¡¿Quééé?!"
 ]},
 "map76_ev57_p4_tonkin_6":{
 "text":[
-"No way?!"
+"¡¿No puede ser?!"
 ]},
 "map76_ev57_p4_cargill_7":{
 "text":[
 "Hmmmm,",
-"so is this the effect from messing too much with the chromesomes?",
-"Or was the sample's personal limits the cause......??",
-"Oh well, the important thing is that I've obtained new results~~♪"
+"¿Así que este es el efecto de trastear demasiado con los cromosomas?",
+"¿¿O ha sido cosa de los límites del espécimen...??",
+"Bueno, lo importante es que he obtenido nuevos resultados~~♪"
 ]},
 "map76_ev57_p4_noinim_3":{
 "text":[
 ".........Nrghhh...............",
-".........I can not follow what's happening..............."
+"......No entiendo que está pasando..............."
 ]},
 "map76_ev57_p4_gobriel_23":{
 "text":[
-"Ngek gek!♥ Karryn BUTT!!",
-"Fat butt ROUND! Goblin COCK! Dickity-dick butt PUSSY!!"
+"¡Ngek gek!♥ ¡¡Karryn CULO!!",
+"¡CULO gordo y redondo! ¡POLLA goblin! ¡¡POLLA en CULO!!"
 ]},
 "map76_ev57_p4_karryn_15":{
 "text":[
 "...Wow.",
-"But well in comparison, acting cute like this",
-"is probably more fitting for a goblin."
+"Pero bueno, en comparación, actuar de esta forma adorable",
+"le pega más a un goblin."
 ]},
 "map76_ev57_p4_gobriel_24":{
 "text":[
-"Lickity-LICK♥ Lickity-LICK♥ Lickity-LICK♥ Lickity-LICK♥"
+"Lamer y LAMER♥ rechupetear♥ CHUPAR♥ babear♥"
 ]},
 "map76_ev57_p4_karryn_16":{
 "text":[
 "Haaa...... Huh......",
-"Is it because all my nerves suddenly got relaxed......",
-"Because...... I can't feel my..............."
+"No puedo sentir mi........",
+"Es porque...... ¿Me he relajado repentinamente...?"
 ]},
 "map76_ev57_p4_aron_4":{
 "text":[
-"You're shitting me!! KARRYN!! STAY WITH ME!!"
+"¡¡No me jodas!! ¡¡KARRYN!! ¡¡NO TE DUERMAS!!"
 ]},
 "map76_ev57_p4_tonkin_7":{
 "text":[
-"Miss Karryn!!"
+"¡¡Señorita Karryn!!"
 ]},
 "map76_ev57_p4_noinim_4":{
 "text":[
-".........Rather, it is impressive.........",
-"that she stood up for that long after so many battles......",
-"Mmhmm... I pay my respects...... What a formidable woman..."
+"......Más bien, es sorprendente.........",
+"que haya aguantado tanto en pie tras tantas batallas......",
+"Mmhmm... Mis respetos...... Que mujer tan formidable..."
 ]},
 "map76_ev57_p4_cargill_8":{
 "text":[
-"You're all such overreactors. Rest assured, it's just fatigue.",
-"Someone carry her back to her office!"
+"Sois unos exagerados. Estad tranquilos, solo es cansancio.",
+"¡Que alguien la lleve a su oficina!"
 ]},
 "map76_ev57_p4_gobriel_25":{
 "text":[
-"Lickity-lick lickity-LICK♥ Lickity-lick lickity-LICK♥"
+"Lamer y LAMER♥ rechupetear♥ CHUPAR♥ babear♥"
 ]},
 "map76_ev57_p4_narration_1":{
 "text":[
-"\\#Thus, the curtains of Fort Ganon's insurrection closed", 
+"\\#Y así, se cerró el telón de la insurreción del Fuerte Ganon", 
 "\\#",
 "\\#",
-"\\#Karryn fell into a deep sleep",
-"\\#after having ended her long extended prison stay.",
+"\\#Karryn cayó en un profundo sueño",
+"\\#tras haber acabado su estancia extendida en la prisión.",
 "",
-"\\#And when she woke up again,",
-"\\#An out of character silence and stillness fills the prison......"
+"\\#Y cuando despertó,",
+"\\#Un silencio y una inquietud fuera de lugar llenó la prisión..."
 ]},
 
 
 "map78_ev131_tachiename_1":{
-"text":["Sister"]},
+"text":["Hermana"]},
 
 "map78_ev131_p1_emperor_1":{
 "text":[
 "Karryn.",
-"I am really so happy that a day",
-"like this was able to happen."
+"Estoy muy feliz de que un día",
+"como este haya podido llegar a pasar."
 ]},
 "map78_ev131_p1_karryn_1":{
 "text":[
-"Yes, me too, Your Imperial Majesty."
+"Si, yo también, Su Majestad Imperial."
 ]},
 "map78_ev131_p1_sister_1":{
 "text":[
-"His Imperial Majesty. Her Imperial Majesty.",
-"Do you solmenly swear before God",
-"to love and to cherish, until death do you part?"
+"Su Majestad Imperial. Su Emperatriz Imperial.",
+"¿Jurais solemnemente ante Dios",
+"amaros y apreciaros, hasta que la muerte os separe?"
 ]},
 "map78_ev131_p1_emperor_2":{
 "text":[
-"I promise."
+"Lo prometo."
 ]},
 "map78_ev131_p1_karryn_2":{
 "text":[
-"I promise."
+"Lo prometo."
 ]},
 "map78_ev131_p1_sister_2":{
 "text":[
-"Congratulations.",
-"A new chapter in the history of the empire has begun."
+"Felicidades.",
+"Un nuevo capítulo en la historia del imperio ha comenzado."
 ]},
 "map78_ev131_p1_emperor_3":{
 "text":[
-"Shall we go and show the citizens of the captial",
-"their new Empress in her wedding dress?"
+"¿Enseñamos a los ciudadanos de la capital",
+"su nueva emperatriz en su vestido de boda?"
 ]},
 "map78_ev131_p1_karryn_3":{
 "text":[
-"Yes, My Imperial Majesty♥"
+"Si, Mi Majestad Imperial♥"
 ]},
 "map78_ev131_p1_narration_1":{
 "text":[
 "",
-"          \\#\\{\\C[3]EMPRESS END"
+"          \\#\\{\\C[3]FINAL DE EMPERATRIZ"
 ]},
 
 

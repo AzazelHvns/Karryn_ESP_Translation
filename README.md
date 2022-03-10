@@ -10,7 +10,7 @@ Para los que quieran colaborar en este github:
 
 Finalizado:
   - RemMap_EN.json [-]
-  - RemDesc_EN.json [3298-4798]
+  - RemDesc_EN.json [3298-4798, 14169-14885]
   - RemLines.json [-]
 
 Trabajando:

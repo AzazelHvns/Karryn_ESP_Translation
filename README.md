@@ -1,4 +1,5 @@
 # Karryn_ESP_Translation
+
 Spanish Fan Translation of Karryn's Prison
 
 Traducción de fans de Karryn's Prison en español
@@ -10,15 +11,10 @@ Para los que quieran colaborar en este github:
 
 Finalizado:
   - RemMap_EN.json [-]
-  - RemDesc_EN.json [3298-4798, 14169-14885]
+
+  - RemDesc_EN.json [-]
+
   - RemLines.json [-]
-
-Trabajando:
-
-  - Azazel:
-    - RemMap_EN.json [0 - 2036]
-  - OnlyHentai:
-    - RemDesc_EN.json[0 - 687]
   
 Colaboradores:
   - Azazel

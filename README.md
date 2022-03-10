@@ -10,7 +10,7 @@ Para los que quieran colaborar en este github:
   - Discord: https://discord.gg/AryPgxnxA8
 
 Finalizado:
-  - RemMap_EN.json [-]
+  - RemMap_EN.json [16%]
 
   - RemDesc_EN.json [-]
 

@@ -3297,31 +3297,31 @@
 
 "map15_ev1_can_not_enter_next_room_name":{
 "text":[
-"the visitor center"
+"el centro de visitantes"
 ]},
 "map15_ev2_can_not_enter_next_room_name":{
 "text":[
-"the bar"
+"el bar"
 ]},
 "map15_ev4_can_not_enter_next_room_name":{
 "text":[
-"the reception area for new inmates"
+"la recepción para nuevos presos"
 ]},
 "map15_ev7_can_not_enter_next_room_name":{
 "text":[
-"the workshop where inmates work"
+"el taller donde trabajan los presos"
 ]},
 "map15_ev8_can_not_enter_next_room_name":{
 "text":[
-"the dish washing room"
+"el cuarto de lavar los platos"
 ]},
 
 "map15_ev26_tachiename_1":{
-"text":["Excited Prisoner"]},
+"text":["Prisionero Excitado"]},
 "map15_ev26_p1_1":{
 "text":[
-"I heard that the Chief Warden gets a special Title",
-"if she loses her first kiss to someone's dick."
+"He oído que la Directora recibe un título especial",
+"si pierde su primer beso con la polla de alguien."
 ]},
 "map15_ev26_p1_2":{
 "text":[
@@ -3329,11 +3329,11 @@
 ]},
 
 "map15_ev27_tachiename_1":{
-"text":["Excited Thug"]},
+"text":["Matón Excitado"]},
 "map15_ev27_p1_1":{
 "text":[
 "Hehehehe.",
-"God, what I would give to be that man."
+"Dios, lo que daría por ser ese hombre."
 ]},
 "map15_ev27_p1_2":{
 "text":[
@@ -3341,452 +3341,453 @@
 ]},
 
 "map15_ev28_tachiename_1":{
-"text":["Reliable? Guard"]},
+"text":["Guardia de confianza(?)"]},
 "map15_ev28_p1_1":{
 "text":[
-"Miss Karryn! Don't worry,",
-"no inmate will run wild on this level on our watch!"
+"¡Señorita Karryn! No se preocupe,",
+"¡Ningún preso se descontrolará en este nivel bajo nuestra vigilancia!"
 ]},
 "map15_ev28_p2_1":{
 "text":[
-"Miss Karryn! Don't worry,",
-"no inmate will run wild pass this point on our watch!"
+"¡Señorita Karryn! No se preocupe,",
+"¡Ningún preso se descontrolará más allá de este punto bajo nuestra vigilancia!"
 ]},
 
 "map15_ev29_tachiename_1":{
-"text":["Veteran Guard"]},
+"text":["Guardia Veterano"]},
 "map15_ev29_p1_1":{
 "text":[
-"A word of caution if you may, Miss Chief Warden.",
-"Facilities like the Workshop and the Laundry room will need",
-"to be repaired after every riot before they can function again."
+"Una advertencia si me lo permite, Señorita Directora.",
+"Instalaciones como el taller y la lavandería necesitarán",
+"ser reparadas tras cada revuelta antes de poder voler a funcionar."
 ]},
 "map15_ev29_p1_2a":{
 "text":[
-"If only there was a way to buy insurance for them...",
-"Then maybe the prison wouldn't have to spend funding on",
-"repairing them after every riot."
+"Si tan solo hubiese una forma de contratar un seguro...",
+"Entonces quizás la prisión no tendría que gastar fondos en",
+"repararlas tras cada revuelta."
 ]},
 "map15_ev29_p1_2b":{
 "text":[
-"However, if you buy insurance for each room, the insurance",
-"company will automatically pay for all damages and repair",
-"them for you.",
-"While taking insurance is expensive, it may be worthwhile in",
-"the long run especially if there are frequent riots."
+"Sin embargo, si contratas un seguro para cada sala, la compañía",
+"de seguros pagará automáticamente por todos los daños y",
+"las reparará por ti.",
+"Aunque contratar un seguro es caro, puede ser beneficioso",
+"a largo plazo, especialmente si las revueltas son frecuentes."
 ]},
 
 "map15_ev30_tachiename_1":{
-"text":["Mischievous Goblin"]},
+"text":["Goblin Travieso"]},
 "map15_ev30_p1_1":{
 "text":[
-"No annoy GOBLIN!",
-"Goblin busy annoy smelly GUARD!"
+"¡No molestar a GOBLIN!",
+"¡Goblin ocupado!¡Molesta a GUARDIA apestoso!"
 ]},
 "map15_ev30_tachiename_2":{
-"text":["Demeaned Goblin"]},
+"text":["Goblin Denigrante"]},
 "map15_ev30_p2_1":{
 "text":[
 "Grrr! GRRR!!",
-"Goblin not RODENT!",
-"Goblin will punchity-punch fat KARRYN!!"
+"Goblin no es ROEDOR!",
+"Goblin arreará puñetazos a la gorda de KARRYN!!"
 ]},
 "map15_ev30_tachiename_3":{
-"text":["Baited Goblin"]},
+"text":["Goblin Provocado"]},
 "map15_ev30_p3_1":{
 "text":[
-"Don't annoy GOBLIN!",
-"Goblin busy planning next",
-"move for sexy KARRYN!"
+"¡No molestar a GOBLIN!",
+"¡Goblin ocupado planeando siguiente",
+"movimiento para sensual KARRYN!"
 ]},
 
 "map15_ev31_tachiename_1":{
-"text":["Striking Thug"]},
+"text":["Matón Huelguista"]},
 "map15_ev31_p1_1":{
 "text":[
-"What do we want?!",
+"¡¿Qué es lo que queremos?!",
 "",
 "",
-"That's right!",
-"BETTER PAY!!",
-"BETTER HOURS!!",
-"And we're not working anymore until we get it!!"
+"¡Eso es!",
+"¡¡MEJOR SUELDO!!",
+"¡¡MENOS HORAS!!",
+"¡Y no vamos a trabajar más hasta que lo consigamos!!"
 ]},
 
 "map15_ev33_tachiename_2":{
-"text":["Excited Thug on Break"]},
+"text":["Matón Exictado Descansando"]},
 "map15_ev33_p2_1":{
 "text":[
-"Of course, my man.",
-"God, I can't wait until my shift is over, huhuhu."
+"Claro que si, tío.",
+"Dios, no puedo esperar a que acabe mi turno, huhuhu."
 ]},
 
 "map15_ev34_tachiename_1":{
-"text":["Striking Thug"]},
+"text":["Matón Huelguista"]},
 "map15_ev34_p1_1":{
 "text":[
-"\\{BETTER PAY!",
-"BETTER HOURS!"
+"\\{¡MEJOR SUELDO!",
+"¡MENOS HORAS!"
 ]},
 "map15_ev34_tachiename_2":{
-"text":["Excited Thug on Break"]},
+"text":["Matón Exictado Descansando"]},
 "map15_ev34_p2_1":{
 "text":[
 "Heh heh heh.",
-"Did you hear how the office of warden responded to our strike?"
+"¿Has oído como ha reaccionado la oficina de la Directora a nuestra huelga?"
 ]},
 
 "map17_ev1_p1_1":{
 "text":[
-"The door to the Visitor Center can not be opened because",
-"it is blocked on the other side."
+"La puerta al Centro de Visitantes no puede ser abierta porque",
+"está cerrada por el otro lado."
 ]},
 
 "map17_ev13_tachiename_emperor":{
-"text":["\\C[2]Majestic Looking Man"]},
+"text":["\\C[2]Hombre de Apariencia Majestuosa"]},
 "map17_ev13_tachiename_karryn":{
-"text":["\\C[5]Female Attendant"]},
+"text":["\\C[5]Asistenta"]},
 "map17_ev13_tachiename_yasu":{
-"text":["\\C[6]Uniformed Man"]},
+"text":["\\C[6]Hombre Uniformado"]},
 "map17_ev13_tachiename_tonkin":{
-"text":["\\C[29]Orc Prisoner"]},
+"text":["\\C[29]Prisionero Orco"]},
 
 "map17_ev13_p1_emperor_1":{
 "text":[
-"Hmm... looks like we've arrived..."
+"Hmm... Parece que hemos llegado..."
 ]},
 
 "map17_ev13_p1_karryn_1":{
 "text":[
-"Yes, Your Imperial Majesty...",
-"This is the infamous prison where former inmates refer to it as their paradise... ",
-"\\C[4]Fort Ganon\\C[0]."
+"Si, Su Majestad Imperial...",
+"Esta es la infame prisión a la que antiguos presos se refieren como un paraíso... ",
+"El \\C[4]Fuerte Ganon\\C[0]."
 ]},
 
 "map17_ev13_p1_karryn_2":{
 "text":[
-"According to my sources, this place is like a five star hotel to the inmates ",
-"where they don't mind spending out the rest of their lives inside...",
+"Según mis fuentes, este sitio es como un hotel de cinco estrellas para los presos, ",
+"un lugar donde no les molestaría pasar el resto de sus vidas...",
 "",
 
-"And according to the reports, there are people who commit petty crimes just to get ",
-"thrown in here... and this facility is consistently ranked as the worst possible ",
-"place for anyone to get rehabilitated in...",
+"Y según los informes, hay gente que comete delitos menores solamente para ",
+"acabar aquí... Además estas instalaciones son constantemente clasificadas como  ",
+"el peor centro para que alguien se rehabilite...",
 
-"In summary, this place is in no way, shape or form,",
-"functioning as a prison facility right now."
+"En resumen, este lugar de ninguna manera está funcionando como ",
+"una instalación penitenciaria en este momento."
 ]},
 
 "map17_ev13_p1_karryn_3":{
 "text":[
-"This is a textbook case of defrauding the imperial treasury.",
-"This place is... the shame of our empire."
+"Es un fraude a la tesorería imperial de manual.",
+"Este lugar es... La vergüenza de nuestro imperio."
 ]},
 
 "map17_ev13_p1_emperor_2":{
 "text":[
-"Hahaha. Your assessments are harsh as always, \\C[5]Karryn\\C[0]."
+"Hahaha. Tus valoraciones son tan duras como siempre, \\C[5]Karryn\\C[0]."
 ]},
 
 "map17_ev13_p1_karryn_4":{
 "text":[
-"Your Imperial Majesty!",
-"This is no laughing matter!",
+"¡Su Majestad Imperial!",
+"¡Esto no es cosa de risa!",
 "",
 
-"If we leave this place alone, it will affect the prestige and integrity of our grand empire! ",
-"We must root out all sources of corruption, stem and all!!"
+"¡Si dejamos este sitio a sus anchas, afectará al prestigio e integridad del imperio! ",
+"¡¡Debemos erradicar todas las fuentes de corrupción!!"
 ]},
 
 "map17_ev13_p1_emperor_3":{
 "text":[
-"Hmm... My apologies, you're right.",
-"As you said, this is not a laughing matter.",
+"Hmm... Mis disculpas, tienes razón.",
+"Como has dicho, esto no es cosa de risa.",
 "",
 
-"A prison where criminals treat it as their favorite summer home is not a prison ",
-"that should be left standing in the empire."
+"Una prisión que los criminales tratan como su casa de veraneo no es una prisión ",
+"que deba quedar en pie en el imperio."
 ]},
 
 "map17_ev13_p1_karryn_5":{
 "text":[
-"Y-Your Imperial Majesty, there's no need to apologize to me.",
-"I am honored that you share the same sentiments as me."
+"S-Su Majestad Imperial, no hay necesidad de que se disculpe conmigo.",
+"Me siento honrada de que compartamos los mismos sentimientos."
 ]},
 
 "map17_ev13_p1_yasu_1":{
 "text":[
-"Welcome to Fort Ganon Prison Facility, Your Imperial Majesty...!",
+"¡Bienvenido a las instalaciones del Fuerte Ganon, Su Majestad Imperial...!",
 "",
 "",
 
-"Your humble servant is honored to have Your Imperial Majesty come all the way from ",
-"the imperial capital to grace the borderlands with your presence!"
+"¡Su humilde servidor se siente honrado de que Su Majestad Imperial haya venido ",
+"desde la capital para agraciar las tierras fronterizas con su presencia!"
 ]},
 
 "map17_ev13_p1_emperor_4":{
 "text":[
 "Mhm.",
-"Are you the person in charge of this prison?"
+"¿Eres la persona a cargo de esta prisión?"
 ]},
 
 "map17_ev13_p1_yasu_2":{
 "text":[
-"That's correct, Your Imperial Majesty......",
-"If it pleases Your Grace, ",
-"my name is \\C[6]Yasu\\C[0]."
+"Correcto, Su Majestad Imperial......",
+"Si le place a Su Alteza, ",
+"mi nombre es \\C[6]Yasu\\C[0]."
 ]},
 
 "map17_ev13_p1_yasu_3":{
 "text":[
-"And I have the honor of serving as the Chief Warden of this fort."
+"Y tengo el honor de servir como el Director de esta prisión."
 ]},
 
 "map17_ev13_p1_karryn_6":{
 "text":[
-"Chief Warden... Yasu..."
+"Director... Yasu..."
 ]},
 
 "map17_ev13_p1_karryn_7":{
 "text":[
-"Your Imperial Majesty, this is the one.",
-"He is the one who sent me a message last night to ask for your presence here..."
+"Su Majestad Imperial, este es a quien buscamos.",
+"Este es el tipo que me mandó un mensaje anoche pidiendo su presencia aquí..."
 ]},
 
 "map17_ev13_p1_yasu_4":{
 "text":[
-"Ooohhh......?!",
-"You're...... Miss Karryn!!",
+"¿Ooohhh......?!",
+"Eres...... ¡¡La Señorita Karryn!!",
 "",
 
-"His Imperial Majesty's personal female secretary with many accomplished feats......",
-"I have read all about you from all the constant articles and interviews about you.",
-"To think you're actually still this young, you're an inspiration to us all......"
+"La secretaria personal de Su Majestad Imperial que ha logrado tantas hazañas......",
+"He leído todo sobre ti de los numerosos artículos y entrevistas sobre tu persona.",
+"Y pensar que eres realmente tan joven, eres una inspiración para todos nosotros......"
 ]},
 
 "map17_ev13_p1_yasu_5":{
 "text":[
-"And also, wow, you're so......",
-"Gul...... p......"
+"Y también, wow, eres tan......",
+"Glu...... p......"
 ]},
 
 "map17_ev13_p1_yasu_6":{
 "text":[
-"The photos in the newspapers... did not do your beauty justice...",
-"And that... chest...... ...They say photos add weight to a person......",
-"But it is obviously the opposite in this case, kuhuhuhu......",
+"Las fotos en los periódicos... no le hacían justicia a tu belleza...",
+"Y ese... pecho...... ...Dicen que las fotos hacen parecer más gordas a las personas......",
+"Pero en este caso es obviamente lo contrario, kuhuhuhu......",
 
-"It must be a huge burden to carry all that weight on your body,",
-"On the other hand, maybe that's how you climbed up the ranks so fast......",
+"Debe ser una carga enorme llevar todo ese peso en tu cuerpo,",
+"Por otro lado, quizás es así como has subido tan rápido de rango......",
 "",
 
-"I'm starting to think you used something other than your brain and halberd when ",
-"you worked with other men......"
+"Estoy empezando a pensar que usaste algo más que tu cerebro y tu alabarda cuando ",
+"trabajabas con otros hombres......"
 ]},
 
 "map17_ev13_p1_karryn_8":{
 "text":[
-"WHA?!",
-"...How dare you behave like a common dog in front of His Imperial Majesty...!! ",
-"Know your place, you backwater commoner!"
+"¡¿QUÉ?!",
+"¡¡Cómo te atreves a comportarte como un sucio perro frente a Su Majestad Imperial!! ",
+"¡Cónoce tu lugar, plebeyo paleto!"
 ]},
 
 "map17_ev13_p1_yasu_7":{
 "text":[
-"Oh oh oh..., please excuse me!",
-"Please forgive your most loyal servant......"
+"Oh oh oh..., ¡Por favor perdóneme!",
+"Por favor perdone a su sirviente más leal......"
 ]},
 
 "map17_ev13_p1_emperor_5":{
 "text":[
-"Fufu... Yasu. You shouldn't underestimate Karryn.",
-"She is the most talented and excellent secretary within the Zanados Empire."
+"Fufu... Yasu. No deberías subestimar a Karryn.",
+"Es la mejor y mas talentosa secretaria en el Imperio Zanados."
 ]},
 
 "map17_ev13_p1_karryn_9":{
 "text":[
-"(Your Imperial Majesty.........)"
+"(Su Majestad Imperial.........)"
 ]},
 
 "map17_ev13_p1_karryn_10":{
 "text":[
-"Cough, ahem.",
-"That is enough talk about me and my humble talents!"
+"cof, ehem.",
+"¡Basta de hablar de mi y de mis humildes talentos!"
 ]},
 
 "map17_ev13_p1_karryn_11":{
 "text":[
-"There are more pressing matters to attend to! Yasu! ",
-"Tell His Imperial Majesty why you needed him to come here!",
-"His Imperial Majesty does not have all day!!"
+"¡Hay asuntos más urgentes que atender! ¡Yasu! ",
+"¡Cuéntale a Su Majestad Imperial porque necesitabas que viniera!",
+"¡¡Su Majestad Imperial no tiene todo el día!!"
 ]},
 
 "map17_ev13_p1_yasu_8":{
 "text":[
-"Very well...",
-"I will keep it brief."
+"Muy bien...",
+"Seré breve."
 ]},
 
 "map17_ev13_p1_yasu_9":{
 "text":[
-"Currently, there is an extremely unpleasant rumor circulating within Fort Ganon......",
+"Ahora mismo, hay un rumor desagradable circulando en el Fuerte Ganon......",
 "",
 "",
 
-"And the contents of that rumor",
-"is that the inmates are scheming a plot."
+"Y ese rumor es",
+"que los prisioneros están tramando revelarse."
 ]},
 
 "map17_ev13_p1_karryn_12":{
 "text":[
-"Here I was wondering what you wanted to say... I'm amazed......",
-"This just confirms to me what a terrible chief warden you are...",
-"How shameless to admit to your own shortcomings."
+"Y yo preguntándome que ibas decir... Increible......",
+"Esto solo me confirma lo mal director que eres...",
+"Que vergüenza admitir tus propios defectos."
 ]},
 
 "map17_ev13_p1_emperor_6":{
 "text":[
 "Hmmm.........",
-"So the prisoners here are planning a coup...",
-"Sounds like we can not leave this matter as it is.",
+"Así que los prisioneros están planeando un motín...",
+"Parece que no podemos dejar este asunto como está.",
 
 "Karryn.",
-"He must have a reason for asking me to come here.",
+"Este hombre debe de tener una razón para haberme pedido que viniese.",
 "",
 
-"Yasu, you may continue.",
-"Tell us more about the ongoing situation here."
+"Yasu, continúa.",
+"Cuéntanos más sobre la situación actual."
 ]},
 
 "map17_ev13_p1_yasu_10":{
 "text":[
-"Yes, Your Imperial Majesty......",
+"Si, Su Majestad Imperial......",
 "",
 "",
 
-"There are three underground floors in this fort and in the lowest floor of this fort, ",
-"which is called Level 5, resides a certain fiendish criminal.",
+"Hay tres pisos subterráneos en este fuerte, y en el piso más bajo, ",
+"que se llama Nivel 5, reside cierto criminal diabólico.",
 "",
 
-"Apparently, that criminal is the ringleader who is calling the shots",
-"and giving out orders to all the other inmates.",
+"Aparentemente, ese criminal es el cabecilla tomando las decisiones",
+"y dando órdenes al resto de presos.",
 "",
 
-"According to the information picked up by the guards,",
-"the ringleader's ultimate goal is to...",
-"take over the Zanados Empire......"
+"Según la información que han obtenido los guardias,",
+"el objetivo del cabecilla es...",
+"Apoderarse del Imperio Zanados......"
 ]},
 
 "map17_ev13_p1_emperor_7":{
 "text":[
-"......I see.",
-"I thank you for your report.",
+"......Ya veo.",
+"Gracias por tu informe.",
 "",
 
-"Now, we must act swift and hard.",
-"You will enforce tighter regulations within the prison,",
-"and stop the machinations of the plotters."
+"Debemos actuar con velocidad y firmeza.",
+"Harás cumplir regulaciones más estrictas en la prisión,",
+"Y detendrás las maquinaciones de los conspiradores."
 ]},
 
 "map17_ev13_p1_yasu_11":{
 "text":[
-"Yes, certainly, Your Imperial Majesty,",
-"that is the plan......",
+"Si, por supuesto, Su Majestad Imperial,",
+"ese es el plan......",
 "",
 
-"However, there are a few issues......"
+"Sin embargo, hay algunos problemas......"
 ]},
 
 "map17_ev13_p1_emperor_8":{
 "text":[
-"Don't fret, speak up.",
-"I intend to provide all necessary support and arrangements."
+"No te preocupes, habla.",
+"Tengo la intención de proveer todo el apoyo y preparativos necesarios."
 ]},
 
 "map17_ev13_p1_emperor_9":{
 "text":[
-"If there is anything that you are lacking,",
-"stand tall and report them to me."
+"Si necesitas algo,",
+"no te lo quedes callado e infórmame."
 ]},
 
 "map17_ev13_p1_karryn_13":{
 "text":[
-"What was that?!"
+"¡¿Qué ha sido eso?!"
 ]},
 
 "map17_ev13_p1_yasu_12":{
 "text":[
-"It can't be...",
-"the thing I was worried about is already happening......?!"
+"No puede ser...",
+"¡¿Ya ha empezado......?!"
 ]},
 
 
 "map17_ev13_p3_emperor_1":{
 "text":[
-"What is happening?!"
+"¡¿Qué está ocurriendo?!"
 ]},
 
 "map17_ev13_p3_guard_1":{
 "text":[
-"Chief Warden Yasu......! I have an urgent report!!",
-"The inmates...... the inmates have rioted!!"
+"¡Director Yasu......! ¡¡Tengo un informe urgente!!",
+"Los presos...... ¡¡Los presos se han amotinado!!"
 ]},
 
 "map17_ev13_p3_guard_2":{
 "text":[
-"All of the inmates have joined forces to raise an insurrection within the prison! ",
-"They have already overwhelmed the guards and we are in a state of anarchy right now!"
+"¡Todos los presos han unido fuerzas para llevar a cabo una insurrección en la prisión! ",
+"¡Ya han sobrepasado a los guardias y nos encontramos ",
+"ahora mismo en un estado de anarquía!"
 ]},
 
 "map17_ev13_p3_yasu_1":{
 "text":[
-"Oh no, oh no no no...... How could this have happened on my watch......"
+"Oh no, oh no no no...... ¿Cómo ha podido pasar esto bajo mi mando......?"
 ]},
 
 "map17_ev13_p3_karryn_1":{
 "text":[
-"Is every single one of you in uniform completely incompetent?!",
-"I can't believe all those rumors about the guards of Fort Ganon being unable to control ",
-"their prisoners turned out to be true......",
+"¡¿Sois todos y cada uno de vosotros completamente incompetentes?!",
+"No puedo creerme que todos esos rumores acerca de los guardias del Fuerte Ganon ",
+"siendo incapaces de controlar a sus prisioneros acabase siendo verdad......",
 
-"An imperial prison fortress? HAH!",
-"More like a gathering of talentless hacks and scumbags!!"
+"¿Una prisión imperial? ¡HAH!",
+"¡¡Más bien una reunión de aficionados sin talento y escoria!!"
 ]},
 
 "map17_ev13_p3_guard_3":{
 "text":[
-"Oh my god!! His Imperial Majesty the Emperor......",
-"and the famous, beautiful secretary, Miss Karryn?!",
-"This is the first time I've seen them in person......"
+"¡¡Oh dios mio!! ¡¿Su Majestad Imperial......",
+"Y la famosa y bella secretaria, la Señorita Karryn?!",
+"Esta es la primera vez que les veo en persona......"
 ]},
 
 "map17_ev13_p3_prisoner_1":{
 "text":[
 "Uhehehehe!!",
-"Starting today, this prison is our fort~!",
-"WE AIN'T SCARED OF NO FOCKIN' EMPIRE!!!"
+"A partir de hoy, esta prisión es nuestro fuerte~!",
+"¡¡¡NO NOS DA MIEDO NINGÚN PUTO IMPERIO!!!"
 ]},
 
 "map17_ev13_p3_prisoner_2":{
 "text":[
-"Let's smash everything uUUuUPPPppPP!!"
+"¡¡Vamos a reventarlo todoOoOoOoO!!"
 ]},
 
 "map17_ev13_p3_yasu_2":{
 "text":[
-"H-HEY! Guard!!",
-"Do something about this situation!!"
+"¡O-OYE! ¡¡Guardia!!",
+"¡¡Haz algo!!"
 ]},
 
 "map17_ev13_p3_guard_4":{
 "text":[
-"What the......?!",
-"Why don't you do something first, Chief Warden!!"
+"¡¿Cómo que......?!",
+"¡¡Por qué no haces algo tú primero, Director!!"
 ]},
 
 "map17_ev13_p3_karryn_2":{
 "text":[
-"These clowns......"
+"Estos payasos......"
 ]},
 
 "map17_ev13_p3_tonkin_1":{
@@ -3796,60 +3797,60 @@
 
 "map17_ev13_p3_emperor_2":{
 "text":[
-"HM?!",
-"Is this monster also an inmate here?!"
+"¡¿HM?!",
+"¡¿Este monstruo es también un preso?!"
 ]},
 
 "map17_ev13_p3_yasu_3":{
 "text":[
-"Yes... he is, but......",
-"Since he is coming out from the entrance,",
-"this must mean......!"
+"Si... Lo es, pero......",
+"Cómo ha salido por la entrada...",
+"¡Esto debe significar......!"
 ]},
 
 "map17_ev13_p3_karryn_3":{
 "text":[
-"He's escaping?!"
+"¡¿Está escapando?!"
 ]},
 
 "map17_ev13_p3_tonkin_2":{
 "text":[
-"EscapiNNgg?",
-"Don't worry, I'm not about to do that bullshit......",
-"There's no need for it, you see........."
+"¿EscapaNNdoo?",
+"No te preocupes, No voy a hacer esa tontería......",
+"No hay necesidad ¿Sabes.........?"
 ]},
 
 "map17_ev13_p3_tonkin_3":{
 "text":[
-"CUZ STARTING RIGHT NOW! ",
-"THE EMPEROR OVER THERE IS GOING TO LOSE HIS FUCKING HEAD!!",
-"And then afterwards, this fortress is going to be OUR CASTLE---!!!"
+"¡PORQUE AHORA MISMO...! ",
+"¡¡...EL EMPERADOR QUE ESTÁ AHÍ VA A PERDER SU PUTA CABEZA!!",
+"y entonces, esta fortaleza se convertirá en ¡¡¡NUESTRO CASTILLO---!!!"
 ]},
 
 "map17_ev13_p3_yasu_4":{
 "text":[
-"Guoof?!?"
+"¿¡¿¡Uh?!?"
 ]},
 
 "map17_ev13_p3_guard_5":{
 "text":[
-"Eeeep?!!",
-"Chief Warden Yasu has fallen!!"
+"¡¡¿Eeeeh?!!",
+"¡¡El director Yasu ha caído!!"
 ]},
 
 "map17_ev13_p3_guard_6":{
 "text":[
-"It's every man for himself~~~~~~~~~~~~~!!!!"
+"¡¡¡¡Sálvese quien pueda~~~~~~~~~~~~~!!!!"
 ]},
 
 "map17_ev13_p3_tonkin_4":{
 "text":[
-"You're next in line...... your royal fucking majesty......"
+"Eres el siguiente...... Su Maldita Majestad Imperial......"
 ]},
 
 "map17_ev13_p3_tonkin_5":{
 "text":[
-"\\{GET FUCCCCKKKKEDDDDDD!!!!"
+"\\{¡¡¡¡QUE TE FOLLENNNNNNN!!!!"
 ]},
 
 "map17_ev13_p3_karryn_4":{
@@ -3864,41 +3865,41 @@
 
 "map17_ev13_p3_karryn_5":{
 "text":[
-"You don't recognize me?",
-"What a dumb lil piggie......"
+"¿No me reconoces?",
+"Qué cerdito más estúpido......"
 ]},
 
 "map17_ev13_p3_tonkin_7":{
 "text":[
-"I-I-I-I-I don't know who you are......!",
-"Aren't you just some side chick with huge-ass titties?!"
+"¡Y-Y-Y-Y-Yo no sé quien eres......!",
+"¿¡No eres simplemente una amante con tetazas enormes?!"
 ]},
 
 
 "map17_ev13_p4_karryn_1":{
 "text":[
-"This is exactly why I hate vulgar, inbred guys like you......"
+"Es exactamente por esto que odio a los hombres vulgares e innatos como tú......"
 ]},
 
 "map17_ev13_p4_karryn_2":{
 "text":[
-"However at this point,",
-"it really doesn't matter if you know who I am!",
+"Sin embargo a estas alturas,",
+"¡ya da igual si sabes quien soy!",
 "",
 
-"More outrageous than that!!",
-"Is that idea you're holding inside your head that makes you believe you can get out",
-"of this alive after trying to harm His Imperial Majesty the Emperor!!!!!"
+"¡¡Más indignante que eso!!",
+"¡¡¡¡¡Es que te crees que puedes escapar de esto ",
+"con vida después de intentar hacer daño a Su Majestad Imperial!!!!!"
 ]},
 
 "map17_ev13_p4_tonkin_1":{
 "text":[
-"OINNNK!!!!?!?!?!??!"
+"¡¿¿¡¿¡¿¡¿¡¡¡¡OINNNK!!!!?!?!?!??!"
 ]},
 
 "map17_ev13_p4_tonkin_2":{
 "text":[
-"OOIINNK?!!!!!!?!?!??!"
+"¡¿¿¡¿¡¿¡¡¡¡¡¡¿OOIINNK?!!!!!!?!?!??!"
 ]},
 
 "map17_ev13_p4_tonkin_3":{
@@ -3908,71 +3909,71 @@
 
 "map17_ev13_p4_karryn_3":{
 "text":[
-"How pathetic...",
-"What happened to all that energy earlier?"
+"Que patético...",
+"¿Qué ha pasado con toda esa energía que tenías?"
 ]},
 
 "map17_ev13_p4_tonkin_4":{
 "text":[
-"......I...... I remember now......",
-"Those halberd techniques and that hot body......",
+"......Ya...... Ya lo recuerdo......",
+"Esas técnicas con la alabarda y ese cuerpazo......",
 "",
 
-"You're Karryn the Imperial Secretary......",
-"The woman who is famous for clinging onto the emperor like a slut......",
+"Eres Karryn, la secretaria Imperial......",
+"La mujer que es famosa por pegarse al emperador como una puta......",
 "",
 
-"And also for having massive brawns and brains,",
-"and is the emperor's strongest bodyguard......",
+"Y también por tener una fuerza e intelecto desmesurados,",
+"y por ser la guardaespaldas más fuerte del emperador......",
 "",
 
-"Devil damn it......",
-"If I had known that earlier, then I wouldn't have blindly charged in......"
+"Mierda......",
+"Si lo hubiese sabido antes no habría cargado a lo loco......"
 ]},
 
 "map17_ev13_p4_karryn_4":{
 "text":[
-"Oh, you're still alive?",
-"Aren't you a tough lil piggie."
+"Oh, ¿Todavía sigues vivo?",
+"Si que eres un cerdito resistente."
 ]},
 
 "map17_ev13_p4_tonkin_5":{
 "text":[
-"Why don't you SHUT THE FUCK UP!! LOSER!!",
-"I'll remember this, you fucking BIIIIITCH!!!",
-"I'm gonna make you squeal like a pig one day~~~!!!",
+"¡¡Por qué no te CALLAS LA PUTA BOCA!! ¡¡PERDEDORA!!",
+"Me voy a acordar de esta, ¡¡¡Puta ZORRRRAAAA!!!",
+"¡¡¡Te voy a hacer chillar como una cerda algún día~~~!!!",
 
-"\\{\\{YOU STUPID LOSER~~~~!!!!"
+"\\{\\{ESTÚPIDA PERDEDORA~~~~!!!!"
 ]},
 
 "map17_ev13_p4_karryn_5":{
 "text":[
-"He just ran back into the prison even though ",
-"he could've just escaped from this place......",
-"Do these prisoners really prefer living in this place......?"
+"Ha vuelto corriendo a la prisión aunque ",
+"podría haberse escapado de este lugar......",
+"¿De verdad estos prisioneros prefieren vivir en este sitio......?"
 ]},
 
 "map17_ev13_p4_karryn_6":{
 "text":[
-"......Well, whatever.",
-"More importantly......"
+"......Bueno, da igual.",
+"Más importante......"
 ]},
 
 "map17_ev13_p4_karryn_7":{
 "text":[
-"Are you all right, Your Imperial Majesty?"
+"¿Se encuentra bien Su Majestad Imperial?"
 ]},
 
 "map17_ev13_p4_emperor_1":{
 "text":[
-"Mhm, I am.",
-"As always, thank you, Karryn."
+"Mhm, Si, estoy bien.",
+"Como siempre, gracias, Karryn."
 ]},
 
 "map17_ev13_p4_karryn_8":{
 "text":[
-"There is no need to thank me,",
-"I am only performing my duties as your secretary."
+"No hay necesidad de darme las gracias,",
+"solo estoy haciendo mi deber como su secretaria."
 ]},
 
 
@@ -3983,100 +3984,101 @@
 
 "map17_ev13_p5_emperor_1":{
 "text":[
-"Yasu! So you're okay!!"
+"¡Yasu! ¡¡Así que estás bien!!"
 ]},
 
 "map17_ev13_p5_yasu_2":{
 "text":[
-"Your...... Your Imperial Majesty......",
-"I suppose I'm okay......"
+"Su...... Su Majestad Imperial......",
+"Creo que estoy bien......"
 ]},
 
 "map17_ev13_p5_karryn_1":{
 "text":[
-"Your Imperial Majesty, there is no need to worry about that man over there. ",
-"From what I saw, it was just a light body blow.",
-"It should be no more than a scratch."
+"Su Majestad Imperial, no hay necesidad de preocuparse por ese hombre. ",
+"Por lo que he visto, solamente ha sido un golpe débil al cuerpo.",
+"No debería tener más que un arañazo."
 ]},
 
 "map17_ev13_p5_emperor_2":{
 "text":[
-"I see.........",
-"Anyway, things have gotten a lot more complicated, haven't they."
+"Ya veo.........",
+"De todas formas, las cosas se han puesto más complicadas."
 ]},
 
 "map17_ev13_p5_yasu_3":{
 "text":[
-"I am sincerely sorry,",
-"this is all because of my lack of supervision......"
+"Lo siento mucho,",
+"todo esto ha pasado por mi falta de supervisión......"
 ]},
 
 "map17_ev13_p5_karryn_2":{
 "text":[
-"Of course it is!",
-"......Good grief...... ",
-"I can't believe your negligence almost put His Imperial Majesty in danger......"
+"¡Pues claro que es por eso!",
+"......Dios santo...... No me puedo creer que tu negligencia ",
+" casi ha puesto en peligro a Su Majestad Imperial......"
 ]},
 
 "map17_ev13_p5_emperor_3":{
 "text":[
 "Yasu.",
-"Unfortunately, starting today, I'm having you step down from being the chief warden.",
+"Lamentablemente, a partir de hoy, vas a dejar de ser el director de la prisión.",
 "",
 
-"You shouldn't be able to argue with this decision with what is happening right now.",
-"Before the situation here deteriorated like this, you should've applied yourself into",
-"fixing all the problems and faults within this fort."
+"No deberia haber discusión alguna después de ver lo que esta ocurriendo.",
+"Antes de que la situación se haya deteriorado de esta forma, debiste haberte centrado",
+"en arreglar todos los problemas y fallos en este fuerte."
 ]},
 
 "map17_ev13_p5_yasu_4":{
 "text":[
-"Yes, Your Imperial Majesty. There will be no arguments from me......",
-"I have no words to defend myself at this point.",
-"Your loyal servant will obey your command......",
+"Si, Su Majestad Imperial. No puedo discutírselo......",
+"No tengo excusas para defenderme a estas alturas.",
+"Tu fiel servidor obedecerá tus órdenes......",
 
-"However, in order to preserve what remains of the law and order in this prison,",
-"there needs to be a new chief warden...",
-"And I don't have the faintest idea of who can fulfill that role now............"
+"Sin embargo, para poder preservar lo que queda de ley y orden en esta prisión,",
+"Debe haber un nuevo director...",
+"Y no tengo la menor idea de quien puede cubrir este rol ahora mismo............"
 ]},
 
 "map17_ev13_p5_yasu_5":{
 "text":[
-"Wait! No, I DO! YOUR IMPERIAL MAJESTY!!!",
-"I have a suggestion!!",
-"Miss Karryn should be the new chief warden!!"
+"¡Espera! No ¡Lo tengo! ¡¡¡SU MAJESTAD IMPERIAL!!!",
+"¡¡Tengo una sugerencia!!",
+"¡¡La Señorita Karryn debería ser la nueva Directora!!"
 ]},
 
 "map17_ev13_p5_karryn_3_1":{
 "text":[
-"\\{Whaaaaaa~~~~~~~~t......?"
+"\\{¿Cómooooooo~~~~~~~~......?"
 ]},
 
 "map17_ev13_p5_karryn_3_2":{
 "text":[
-"Your stupidity has no bounds.",
-"There is no way someone like me will live with a bunch of criminals......",
+"Tu estupidez no tiene límites.",
+"De ninguna manera alguien como yo va a vivir con un montón de criminales......",
 "",
 
-"I am His Imperial Majesty's secretary,",
-"a much more important position than being the warden of some backwater prison."
+"Soy la secretaria de Su Majestad Imperial,",
+"Es una posición más importante que ser la Directora de una prisión ",
+"de mala muerte."
 ]},
 
 "map17_ev13_p5_emperor_4":{
 "text":[
-"No...... it's not a bad idea......"
+"No...... No es una mala idea......"
 ]},
 
 "map17_ev13_p5_karryn_4":{
 "text":[
-"Are you serious, Your Imperial Majesty?!"
+"¡¿Habla en serio Su Majestad Imperial?!"
 ]},
 
 "map17_ev13_p5_yasu_6":{
 "text":[
-"RIGHT?! I knew you'd see it my way, Your Imperial Majesty!!",
-"Miss Karryn is well-educated and smart!!",
-"Plus, her halberd skills would be unrivaled among our guards!!"
+"¡¿VERDAD?! ¡¡Sabía que lo vería de la misma forma que yo, Su Majestad Imperial!!",
+"¡¡La Señorita Karryn es inteligente y educada!!",
+"¡¡Además, sus habilidades con la alabarda no tendrían rival entre nuestros guardias!!"
 ]},
 
 "map17_ev13_p5_emperor_5":{
@@ -4086,72 +4088,72 @@
 
 "map17_ev13_p5_karryn_5":{
 "text":[
-"Wait... please reconsider, Your Imperial Majesty!!!! ",
-"What if, somehow some way, something happens to me! ",
-"Let's say I do become the new warden... who will then protect you?!",
+"Espera... ¡¡¡¡Por favor, reconsidéralo, Su Majestad Imperial!!!! ",
+"¿¡Y si me pasara algo!? ",
+"Digamos que me convierto en la nueva Directora... ¡¿Quién le protegerá?!",
 
-"And please just think about it for a moment!!",
-"Wouldn't it mean that I'll be this man's successor?!",
-"ME, OF ALL PEOPLE......?!",
+"¡¡Y por favor, piénselo por un momento!!",
+"¡¿Eso no significaría que me convertiría en el sucesor de este hombre?!",
+"¡¿YO, DE ENTRE TODA LA GENTE POSIBLE......?!",
 
-"No! It's too outrageous to even think about dream imagine or speak aloud!!",
-"It's something that should never ever have a possibility of happening!!!"
+"¡No! ¡¡Es demasiado indignante siquiera pensar en esto!!",
+"¡¡¡Es algo que nunca debería tener la posibilidad de pasar!!!"
 ]},
 
 "map17_ev13_p5_emperor_6":{
 "text":[
-"Which is precisely why a person like you is necessary.",
-"Unless someone possessing a higher ability and potential than Yasu is chosen,",
-"this task can not be successfully completed......"
+"Y esa es exactamente la razón por la que una persona como tú es necesaria.",
+"A menos que alguien más habilidoso que Yasu sea elegido,",
+"No se puede completar satisfactoriamente esta tarea......"
 ]},
 
 "map17_ev13_p5_karryn_6_1":{
 "text":[
-"\\{No way........."
+"\\{No puede ser........."
 ]},
 
 "map17_ev13_p5_karryn_6_2":{
 "text":[
-"No way no way noway......... I-I...... don't want to!!",
-"I don't want to live and work in a filthy place where I might even catch something!!",
-"This is not proper work for an elite like me!!!"
+"No no no no......... Y-Yo...... ¡¡No quiero hacerlo!!",
+"¡¡No quiero vivir y trabajar en un sitio asqueroso donde puedo pillar cualquier cosa!!",
+"¡¡¡Esto no es un trabajo adecuado para alguien de élite como yo!!!"
 ]},
 
 "map17_ev13_p5_emperor_7":{
 "text":[
-"Didn't you just say something along the lines of,",
-"\"It will affect the prestige and integrity of our grand empire,\" if we don't do anything? "
+"¿No has dicho hace un momento algo así como,",
+"\"esto afectará al prestigio e integridad del imperio\" si no hacemos nada? "
 ]},
 
 "map17_ev13_p5_yasu_7":{
 "text":[
-"I'm begging you, Miss Karryn!!!",
-"You're the only one who can save this fort, nay......",
-"THE ONLY ONE WHO CAN SAVE OUR EMPIRE!!!"
+"¡¡¡Se lo imploro, Señorita Karryn!!!",
+"Tú eres la única que puede salvar este fuerte, no......",
+"¡¡¡LA ÚNICA QUE PUEDE SALVAR NUESTRO IMPERIO!!!"
 ]},
 
 "map17_ev13_p5_karryn_7":{
 "text":[
-"Shut your trap, Yasu......!!",
-"I already have the very vital job of protecting His Imperial Majestyyy......"
+"¡¡Cállate la boca, Yasu......!!",
+"Ya tengo la misión de proteger a Su Majestad Imperial......"
 ]},
 
 "map17_ev13_p5_emperor_8":{
 "text":[
-"Hmm, very well...... If you say so, then I will concede this idea.",
-"Alas, it sounds like you are incapable of stepping up to this role.",
-"Let's discuss possible alternative plans then."
+"Hmm, muy bien...... Si tú lo dices, entonces dejaré esta idea de lado.",
+"Por desgracia, parece que eres incapaz de asumir este cargo.",
+"Discutamos entonces algún plan alternativo."
 ]},
 
 
 "map17_ev13_p6_karryn_1":{
 "text":[
-"\\{\\.I'm \\.\\.i\\.\\.n\\.\\.c\\.\\.a\\.\\.p\\.\\.a\\.\\.b\\.\\.l\\.\\.e\\...\\...\\...\\.\\.?"
+"\\{\\.¿Soy \\.\\.i\\.\\.n\\.\\.c\\.\\.a\\.\\.p\\.\\.a\\.\\.z\\...\\...\\...\\.\\.?"
 ]},
 
 "map17_ev13_p6_karryn_2":{
 "text":[
-"\\{The word incapable does not exist anywhere in my personal records!!!"
+"\\{¡¡¡La palabra incapaz no existe en mi expediente!!!"
 ]},
 
 "map17_ev13_p6_karryn_3":{
@@ -4163,457 +4165,461 @@
 
 "map17_ev13_p6_karryn_4":{
 "text":[
-"I will do it......",
-"I, Karryn...... will be the new chief warden........."
+"Lo haré......",
+"Yo, Karryn...... Seré la nueva Directora........."
 ]},
 
 "map17_ev13_p6_yasu_1":{
 "text":[
-"Ah...... oooohhh!!"
+"¡¡Ah...... oooohhh!!"
 ]},
 
 "map17_ev13_p6_emperor_1":{
 "text":[
-"You came to a smart decision, Karryn.",
-"I decree you to use your new rank to restore Fort Ganon to order.",
+"Has tomado una sabia decisión, Karryn.",
+"Ordeno que uses tu nuevo rango para restaurar el orden en el Fuerte Ganon.",
 "",
 
-"Furthermore, you will stop the evil machinations of the plotters ",
-"and prevent harm from falling onto our empire."
+"Además, detendrás las malvadas maquinaciones de los conspiradores ",
+"y evitarás que se dañe la reputación de nuestro imperio."
 ]},
 
 "map17_ev13_p6_karryn_5":{
 "text":[
-"Your Imperial Majesty...... so you really are serious about going through with this......"
+"Su Majestad Imperial... Así que de verdad estás hablando en serio sobre ",
+"seguir adelante con todo esto..."
 ]},
 
 "map17_ev13_p6_emperor_2":{
 "text":[
-"Without question.",
+"Sin ninguna duda.",
 "",
 "",
 
-"This fort will be your new post now.",
-"I will use my wealth to support your efforts with financial subsidies."
+"Este fuerte será tu nuevo puesto a partir de ahora.",
+"Usaré mi riqueza para apoyarte en tus esfuerzos mediante subsidios finacieros."
 ]},
 
 "map17_ev13_p6_karryn_6":{
 "text":[
-"His Imperial Majesty's...... wealth......!"
+"¡La riqueza de...... Su Majestad Imperial......!"
 ]},
 
 "map17_ev13_p6_yasu_2":{
 "text":[
-"Ohhhh! P-Praise Be His Name!!",
-"His Imperial Majesty's financial subsidies plus Miss Karryn's commanding presence...",
-"This is the same as acquiring a hundred men worth of manpower!!"
+"¡Ohhhh! ¡A-Alabado sea su nombre!! Los subsidios financieros de",
+"Su Majestad imperial más la presencia imponente de la Señorita Karryn...",
+"¡¡Esto es el equivalente a cien hombres de mano de obra!!"
 ]},
 
 "map17_ev13_p6_yasu_3":{
 "text":[
-"Now that this is settled, we must act quickly!! The prison is still in a state of anarchy!!",
-"Forgive my belated introductions, ",
-"but I hope to be of some aid to you, new Chief Warden!!!"
+"¡¡Ahora que esto está resuelto, debemos actuar rápidamente!! ",
+"¡¡La prisión sigue en un estado de anarquía!! Perdóneme por mi presentación ",
+"¡¡¡Pero espero ser de alguna ayuda para ti, nueva Directora!!!"
 ]},
 
 "map17_ev13_p6_karryn_7":{
 "text":[
-"(I can't believe things have turned out like this......",
-"This was just supposed to be a normal site inspection......",
-"Today is the worst day of my life......)"
+"(No me puedo creer que las cosas hayan acabado así......",
+"Esto iba a ser solamente una inspección......",
+"Es el peor día de mi vida......)"
 ]},
 
 "map17_ev13_p6_karryn_8":{
 "text":[
-"Fine, let's get started!",
-"Escort me to my new office already."
+"¡Está bien, Empecemos!",
+"Guíame hacia mi nueva oficina."
 ]},
 
 "map17_ev13_p6_yasu_4":{
 "text":[
-"Yes, madam!"
+"¡Si, señora!"
 ]},
 
 "map17_ev13_p6_karryn_9":{
 "text":[
-"(Hmph...... I'll show you how quickly I'll complete this crappy job",
-"and return back to His Imperial Majesty's side...)"
+"(Hmph...... Te enseñaré como de rápido puedo completar este trabajo de mierda",
+"y volver al lado de Su Majestad Imperial...)"
 ]},
 
 "map17_ev13_p6_emperor_3":{
 "text":[
-"Karryn...... I have high expectations of you."
+"Karryn...... Tengo grandes expectativas de ti."
 ]},
 
 "map17_ev13_p6_karryn_10":{
 "text":[
-"Please leave it to me, Your Imperial Majesty!!",
-"I, Karryn...... will be back by your side right after I swiftly bring order back to this fort!!",
+"¡¡Por favor, déjemelo a mi, Su Majestad Imperial!!",
+"Yo, Karryn...... ¡¡Estaré de vuelta con usted en cuanto ponga orden en este fuerte!!",
 "",
 
-"Please do take the utmost care and precaution during your return trip."
+"Por favor, tome todas las precauciones posibles en su viaje de vuelta."
 ]},
 
 "map17_ev13_p6_emperor_4":{
 "text":[
 "Ha ha ha.",
-"Do not fret for me. I'm not a child.",
-"I can go home after dark by myself."
+"No te preocupes por mi. No soy un niño.",
+"Puedo volver a casa solo después de que anochezca."
 ]},
 
 "map17_ev13_p6_karryn_11":{
 "text":[
-"As you say, Your Imperial Majesty.",
-"Then, I will be temporarily leaving your side."
+"Como usted diga, Su Majestad Imperial",
+"En ese caso, me apartaré temporalmente de su lado."
 ]},
 
 "map17_ev13_p6_karryn_12":{
 "text":[
-"(I guess I should hold off on showing the emperor how awe-inspiringly talented I am ",
-"for a while......",
-"It's tough being a perfect woman.........)"
+"(Supongo que debería abstenerme de mostrarle al emperador lo asombrosamente ",
+"talentosa que soy por un tiempo......",
+"Es duro ser una mujer perfecta.........)"
 ]},
 
 "map17_ev13_p6_text_1":{
 "text":[
-"\\#And thus begins the life of Karryn, ",
-"\\#who grew to fame as the Imperial Secretary,",
-"\\#in her new role as the new Chief Warden of Fort Ganon......"
+"\\#Y así comienza la vida de Karryn, ",
+"\\#que saltó a la fama como Secretaria Imperial,",
+"\\#En su nuevo papel como la Directora del Fuerte Ganon......"
 ]},
 
 
 "map17_ev4_p2_1":{
 "text":[
-"I won't leave until I complete my duty here..."
+"No me iré hasta que complete mi labor aquí..."
 ]},
 
 "map17_ev4_p3_slut0_1":{
 "text":[
-"(What am I thinking......?!",
-"I should get back and fix my clothes",
-"before anyone sees me like this......)"
+"(¡¿Qué estoy haciendo......?!",
+"Debería volver y arreglar mi uniforme",
+"antes de que alguien me vea así......)"
 ]},
 
 "map17_ev4_p3_slut1_1":{
 "text":[
-"(Showing my skin outside like this...... is embarrassing......",
-"But, it might not just be embarrassment that I'm feeling...",
-"Just what on earth is this sensation I'm feeling......)"
+"(Enseñar mi piel de esta forma...... es vergonzoso......",
+"Pero puede que no sea vergüenza todo lo que siento...",
+"¿Qué se supone que es esta sensación......?)"
 ]},
 
 "map17_ev4_p3_slut2_1":{
 "text":[
-"Before I would immediately shut down any idea of me",
-"showing my skin to a citizen, but now I feel the opposite.",
+"En el pasado habría descartado de inmediato cualquier idea sobre",
+"enseñar mi piel a un ciudadano, pero ahora siento lo contrario.",
 "",
 
-"But...... before any of that, I need to do something first",
-"about the situation here at Fort Ganon."
+"Pero...... Antes de nada debo hacer algo sobre",
+"la situación del Fuerte Ganon."
 ]},
 
 "map17_ev4_p3_slut3_1":{
 "text":[
-"Oh no, just where am I trying to go?",
-"I need to return back to the prison where",
-"all my beloved cocks are waiting to play with me.♥",
+"¿Oh no, a donde intento ir?",
+"Necesito volver a la prisión donde",
+"todas mis queridas pollas están esperándome para jugar.♥",
 
-"Hnng♥ I can feel their desires from all the way out here.♥",
-"Sniff sniff♥ And the smell too~♥ This smell of",
-"stinky, thick cum is beckoning me to come back~♥"
+"Hnng♥ Puedo sentir sus deseos obscenos desde aquí.♥",
+"Sniff sniff♥ Y el olor también~♥ Este olor a",
+"espeso y apestoso semen me invita a volver~♥"
 ]},
 
 "map17_ev4_p4_1":{
 "text":[
-"Are you ready to start a New Game Plus?"
+"¿Estás listo para empezar una nueva partida +?"
 ]},
 "map17_ev4_p4_choice_1":{
 "text":[
-"Yes, take me to New Game Plus."
+"Si, empieza una nueva partida +."
 ]},
 "map17_ev4_p4_choice_2":{
 "text":[
-"Not yet, I want to stay here a little longer."
+"Todavía no, quiero estar aquí un poco más."
 ]},
 "map17_ev4_p4_2":{
 "text":[
-"Are you sure?",
-"The state of the prison will be reset."
+"¿Estás seguro?",
+"El estado de la prisión se reiniciará."
 ]},
 
 
 "map17_ev9_tachiename_1":{
-"text":["Guard A (Guard)"]},
+"text":["Guardia A (Guardia)"]},
 
 "map17_ev9_p1_1":{
 "text":[
-"Welcome to Fort Ganon.",
-"It is currently being used as a prison facility.",
-"If you're a visitor, please enter through the doors up front."
+"Te doy la bienvenida al Fuerte Ganon.",
+"Ahora mismo se está usando como una prisión. Si vienes",
+"a hacer una visita, por favor, entra por la puerta de enfrente."
 ]},
 
 
 "map17_ev10_tachiename_1":{
-"text":["Concerned Guard"]},
+"text":["Guardia Preocupado"]},
 
 "map17_ev10_p1_a_1":{
 "text":[
-"I'm worried about the guy stationed next to me.",
-"He always says the same thing no matter what.",
-"In fact, I've never even seen him move from that spot...",
+"Estoy preocupado por el tio que está a mi lado.",
+"Siempre dice lo mismo sin importar lo que ocurra.",
+"De hecho, nunca le he visto moverse de ese sitio...",
 
-"Anyway, you can't enter the Visitor Center through the main entrance",
-"because the inmates barricaded the main door.",
-"The Visitor Center will need to be repaired after Level One is subjugated."
+"De todas formas, no puedes entrar al Centro de Visitantes",
+"por la puerta principal porque los presos han bloqueado ",
+"la entrada principal. ",
+
+"El centro de Visitantes necesitará ser reparado ",
+"una vez el Nivel Uno haya sido sometido..."
 ]},
 
 "map17_ev10_p1_b_1":{
 "text":[
-"Have you visited the Guard Quarters next door to your office yet?",
-"It's full of guys and sweat so it might be a bit of a rough place",
-"for a woman like you to visit......",
+"¿Has visitado los cuarteles de la guardia junto a tu oficinal?",
+"Está lleno de tios y sudor así que puede ser un sitio un poco",
+"tosco para que lo visite una mujer como tú......",
 
-"But there a lot of the guys there have some good insight if",
-"you care to listen to them."
+"Pero hay tios muy perspicazes allí si",
+"te molestas en escucharles."
 ]},
 
 
 "map17_ev22_tachiename_1":{
-"text":["Worried Visitor"]},
+"text":["Visitante Preocupado"]},
 
 "map17_ev22_p1_1":{
 "text":[
-"Oh just when will they let us visit our family members?",
-"The thought of my Pumpkin-Wumpkin without his fresh change",
-"of undies is keeping me up at night."
+"Oh ¿Cuándo nos dejarán visitar a nuestros familiares?",
+"La idea de mi que mi Calabacita no tenga ropa interior",
+"limpia me mantiene sin dormir por la noche."
 ]},
 
 "map17_ev23_tachiename_1":{
-"text":["Talking Cat"]},
+"text":["Gato Parlante"]},
 
 "map17_ev23_p1_1":{
 "text":[
-"Meow! ",
-"I came here because I heard it was a sausage fest,",
-"but all I see here is a bunch of guys, meow!",
+"¡Meow! Vine aquí porque",
+"escuché que esto era un festival de salchichas,",
+"pero todo lo que veo es un montón de tios, meow!",
 
-"Oh hey there, meow~.",
-"Have you listened to everyone in the",
-"Guard Quarters and in the Yard yet?",
+"Oh hola, meow~.",
+"Has hablado ya con todo el mundo en los",
+"cuarteles de la guardia y en el jardín?",
 
-"Most of them will teach you very helpful information.",
-"Most of them anyway, meow.",
+"La mayoría de ellos te enseñarán información muy útil.",
+"La mayoría... Meow.",
 "",
 
-"More people will also show up in the Yard",
-"as you subjugate the prison, meow.",
+"Irá apareciendo más gente en el jardín",
+"conforme vas sometiendo a la prisión, meow.",
 "",
 
-"And don't forget to listen to the people inside",
-"the Mess Hall after you've repaired it, meow!"
+"Y no olvides escuchar a la gente dentro del",
+"comedor una vez lo hayas reparado, meow!"
 ]},
 
 "map17_ev23_p2_1":{
 "text":[
-"Meow~! I really like this spot!",
-"By the way, wanna hear some secret info",
-"that I discovered while walking around, meow?"
+"Meow~! ¡Me gusta mucho este sitio!",
+"Por cierto, quieres escuchar información secreta",
+"que he descubierto dando un paseo, meow?"
 ]},
 "map17_ev23_p2_choice_ending":{
 "text":[
-"Hear about Endings."
+"Escuchar sobre los finales."
 ]},
 "map17_ev23_p2_choice_challenge":{
 "text":[
-"Hear about Challenge Runs."
+"Escuchar sobre partidas de desafío."
 ]},
 "map17_ev23_p2_choice_exit":{
 "text":[
-"Maybe later."
+"Quizás más tarde."
 ]},
 "map17_ev23_p2_exit":{
 "text":[
-"I'll be here if you need me, meow!"
+"Estaré aquí si me necesitas, meow!"
 ]},
 
 "map17_ev23_p2_ending_1":{
 "text":[
-"There are three types of Endings in the game, meow!",
-"2 good endings, and 1 bad ending.",
-"You get the bad ending from reaching 0 Order, meow.",
-"Meanwhile, you get one of the good endings",
-"when you beat the final boss and which good ending",
-"you get depends on your Slut Level and Passives, meow!",
-"Keep your Slut Level as low as you can,",
-"and you'll get the Empress End, meow!",
+"Hay tres tipos de finales en este juego, meow!",
+"2 finales buenos y un final malo.",
+"Consigues el final malo cuando el orden llega a 0, meow.",
+"Mientras que consigues uno de los finales buenos",
+"cuando derrotas al jefe final. El final que obtienes",
+"depende de tu Nivel de Puta y tus pasivas, meow!",
+"Mantén tu Nivel de Puta tan bajo como puedas,",
+"Y conseguirás el Final de Emperatriz, meow!",
 "",
-"But if your Slut Level is too high, you'll get the Happy End!",
-"Meow! Also, you get to keep playing in Free Play Mode",
-"after reaching Happy End, meow!",
-"Unfortunately, there's no easy way to tell what Slut Level",
-"you need to reach the Happy End because it also depends",
-"a lot on what Passives you have, meow!",
-"However! Meow!",
-"I can tell if you're currently slutty enough to reach",
-"the Happy End, so feel free to use me to check your status, meow!",
-"Aaaaaand now... gimme one second...",
+"Pero si tu Nivel de Puta es muy alto, ¡Obtendrás el Final Feliz!",
+"¡Meow! ¡Además, Puedes continuar jugando en el Modo de Juego Libre",
+"tras conseguir el Final Feliz, meow!",
+"Desafortunadamente, no hay una forma fácil de decir que Nivel de Puta",
+"necesitas para alcanzar el Final Feliz porque también depende",
+"mucho de las pasivas que tengas, ¡meow!",
+"¡Sin embargo! ¡Meow!",
+"Puedo decirte si ahora mismo eres lo suficientemente puta para alcanzar",
+"el Final Feliz, Así que siéntete libre de preguntarme, ¡meow!",
+"Yyyyy ahora... Dame un segundo...",
 "Sniff sniff... sniff......",
-"MEOW!"
+"¡MEOW!"
 ]},
 "map17_ev23_p2_nonslut_end_1":{
 "text":[
-"Looks like you're currently on track for the Empress End!",
-"Meow!",
+"¡Parece que vas de camino al Final de Emperatriz!",
+"¡Meow!",
 "",
-"Be careful not to get too many more Passives if you want to",
-"get the Empress End, meow!",
+"Ten cuidado de no obtener muchas más Pasivas si quieres",
+"conseguir el final de Emperatriz ¡Meow!",
 "",
-"Or go inside and get more Passives if you're want the Happy End!",
-"I won't judge, meow!"
+"¡O entra y consigue más Pasivas si quieres el Final Feliz!",
+"No te juzgaré, ¡Meow!"
 ]},
 "map17_ev23_p2_slut_end_1":{
 "text":[
-"Looks like you're heading to the Happy End!",
-"Congratulations, meow!",
+"¡Parece que vas de camino al Final Feliz!",
+"¡Felicidades, meow!",
 "",
-"Or if you were trying to see the Empress End, don't be sad, meow!",
-"There's always going for New Game Plus again, meow!"
+"Pero si intentabas ver el Final de Emperatiz, no estés triste ¡Meow!",
+"Siempre puedes empezar una nueva partida + ¡Meow!"
 ]},
 
 "map17_ev23_p2_challenge_1":{
 "text":[
-"Each Challenge Run gives you one of two Titles as a reward, meow!",
-"And which Title you get depends on if you're in Warden Mode",
-"or if you're in Prisoner Mode, meow!",
-"The Prisoner Mode reward is better than the Warden Mode reward, meow!",
-"And the Prisoner Mode reward will replace the Warden Mode reward",
-"if you've gotten the Warden Mode reward, meow!",
-"You also won't get a reward for beating the challenge in Warden Mode",
-"if you already have the Prisoner Mode reward, meow.",
+"Cada Partida de Desafío te da uno de dos títulos posibles como recompensa",
+"Y el título que obtienes depende de si estás en Modo Directora",
+"O en Modo Prisionera, ¡Meow!",
+"La recompensa del Modo Prisionera es mejor, ¡Meow!",
+"Y la recompensa del Modo Prisionera reemplazará a la del Modo Directora",
+"si has obtenido la recompensa de Modo Directora, ¡Meow!",
+"Tampoco recibirás una recompensa por completar el desafío en Modo Directora",
+"si ya lo has completado en Modo Prisionera, meow.",
 "",
-"But don't worry, meow!",
-"You won't lose your Prisoner Mode reward if you decide to",
-"do the same Challenge Run again in Warden Mode for fun, meow!",
-"And here's a secret tip, meow. Although you can't change",
-"your Title if you want to complete the challenge,",
-"the Passive effects from all your other Titles still help you, meow!",
-"So it's totally up to you if you want to attempt Challenge Runs",
-"when you have collected a ton of Titles to make the challenge easier,",
-"or do them as earlier as possible for extra difficulty, meow!"
+"Pero no te preocupes, ¡Meow!",
+"No perderás tu recompensa de Modo Prisionera si",
+"repites el mismo desafío en Modo Directora, ¡Meow!",
+"Te cuento un secreto, meow. Aunque no puedas cambiar",
+"tu Título si quieres completar el desafío,",
+"las Pasivas del resto de Títulos te seguirán ayudando, ¡Meow!",
+"Así que depende de ti si quieres intentar Partidas de Desafío",
+"cuando hayas conseguido muchos títutlos, para que sea más fácil,",
+"o hacerlos lo antes posibles para añadir dificultad, ¡Meow!"
 ]},
 "map17_ev23_p2_challenge_2":{
 "text":[
 "Sniff sniff...",
-"Oh, meow!",
-"It looks like you're in the middle of a Challenge Run right meow!",
-"Do you want me to help you abandon your Challenge Run?",
-"I'll make it so that you can change your Title again.",
-"There's no reversing this decision for this playthrough, meow!"
+"Oh, ¡Meow!",
+"Parece que estás en mitad de una Partida de Desafío ahora mismo ¡Meow!",
+"¿Quieres que te ayude a abandonar tu Partida de Desafío?",
+"Haré que puedas cambiarte el Título otra vez.",
+"Pero no podrás cambiar esta decisión para esta partida, ¡Meow!"
 ]},
 
 "map17_ev23_p2_choice_keep_challenge":{
 "text":[
-"There's no need, I'm fine."
+"No hace falta, estoy bien."
 ]},
 "map17_ev23_p2_choice_abandon_challenge":{
 "text":[
-"I want to abandon the Challenge Run."
+"Quiero abandonar esta Partida de Desafío."
 ]},
 
 "map17_ev23_p2_keep_challenge_1":{
 "text":[
-"No problem, meow!",
-"I'll be here if you ever change your mind!",
-"Good luck inside, meow!"
+"Sin problema, ¡Meow!",
+"¡Estaré aquí si cambias de parecer!",
+"¡Buena suerte dentro, meow!"
 ]},
 "map17_ev23_p2_abandon_challenge_1":{
 "text":[
-"Aaaaand it's done, meow!",
-"You can change your Title again, meow.",
+"¡Yyyyy listo, meow!",
+"Ya puedes volver a cambiar tu Título, meow.",
 "",
-"As soon as you change your Title,",
-"your Challenge Run will be considered abandoned, meow!"
+"En cuanto te cambies el Título,",
+"tu Partida de Desafío será abandonada, ¡Meow!"
 ]},
 
 
 "map17_ev23_p2_choice_pet":{
 "text":[
-"Pet the kitty."
+"Acariciar al gatito."
 ]},
 "map17_ev23_p2_choice_thankyou":{
 "text":[
-"Thank you!"
+"¡Gracias!"
 ]},
 "map17_ev23_p2_pet_1":{
 "text":[
 "MEOW~~~♥",
-"You're too kind, meow!"
+"¡Eres muy amable, meow!"
 ]},
 "map17_ev23_p2_thankyou_1":{
 "text":[
-"You're very welcome, meow~!"
+"¡De nada, meow~!"
 ]},
 
 "map17_ev24_tachiename_1":{
-"text":["Guard on Smoke Break"]},
+"text":["Guardia en Descanso para Fumar"]},
 "map17_ev24_p1_1":{
 "text":[
-"Apparently the Chief Warden can get up to 3 Titles",
-"for letting Fort Ganon fall into bankruptcy.",
+"Aparentemente la Directora puede conseguir hasta 3 Títulos",
+"por dejar que el Fuerte Ganon caiga en bancarrota.",
 "",
-"But I hope she won't let the prison get bankrupted...",
-"Cuz if I ain't getting paid, then I sure as hell",
-"ain't gonna be helping keep this place under Control..."
+"Pero espero que no deje a la prisión caer en bancarrota...",
+"Porque si no me pagan, ni de coña voy a ayudar",
+"a mantener este sitio bajo Control..."
 ]},
 
 "map17_ev63_p2_emperor_1":{
 "text":[
 "Karryn.",
-"You took me by surprise when you said",
-"you wanted the wedding ceremony to be held here.",
-"That just means how much this place meant to you, didn't it?"
+"Me tomaste por sorpresa cuando dijsite",
+"que querías casarte aquí.",
+"Esto significa que este sitio significa mucho para ti, ¿Verdad?"
 ]},
 "map17_ev63_p2_karryn_1":{
 "text":[
-"Yes, Your Imperial Majesty!",
-"Here in Fort Ganon, I've experienced irreplaceable memories...",
-"as well obtained what I could call dear companions to me.",
-"And it was all thanks to Your Imperial Majesty!",
-"Thank you."
+"¡Si, Su Majestad Imperial!",
+"Aquí en el Fuerte Ganon, he experimentado recuerdos inolvidables...",
+"y he obtenido lo que podría llamar, compañeros muy queridos.",
+"¡Y ha sido todo gracias a Su Majestad Imperial!",
+"Gracias."
 ]},
 "map17_ev63_p2_tonkin_1":{
 "text":[
-"OINK--!! Miss Karryn!! You're so pretty~~~!!",
-"It feels like that day when I first met you here was so long ago......"
+"¡¡OINK--!! ¡¡Señorita Karryn!! ¡¡Estás muy guapa~~~!! Se siente como ",
+"si hubiese pasado mucho tiempo desde aquel día que nos conocimos aquí......"
 ]},
 "map17_ev63_p2_cargill_1":{
 "text":[
-"Karryn!!",
-"If you ever feel sick, come pay a visit to me!",
-"I'll fill out any prescription you need!!"
+"¡¡Karryn!!",
+"¡Si alguna vez te encuentras mal, hazme una visita!",
+"¡¡Te recetaré lo que quieras!!"
 ]},
 "map17_ev63_p2_aron_1":{
 "text":[
-"While you're gone, I'm gonna remodel the club",
-"to look even better than before!",
+"¡Mientras no estés, voy a remodelar el club",
+"para que sea incluso mejor que antes!",
 "",
-"Until the remodeling is finished,",
-"kick back and have fun at the capital!"
+"Hasta que termine la remodelación,",
+"¡Relájate y pásatelo bien en la capital!"
 ]},
 "map17_ev63_p2_noinim_1":{
 "text":[
-"Mighty woman...............",
-"Even once you're moved on from here......",
-"Never forget to keep honing that body...............",
-"The next time we meet, I will be the victor.........!!"
+"Mujer poderosa...............",
+"Incluso cuando te hayas ido de aquí......",
+"No te olvides de seguir perfeccionando ese cuerpo...............",
+"¡¡La próxima vez que nos encontremos, saldré victorioso.........!!"
 ]},
 "map17_ev63_p2_gobriel_1":{
 "text":[
-"Prison no Karryn SAD!! Goblin SAD!!"
+"¡¡Prisión sin Karryn TRISTE!!, ¡¡Goblin TRISTE!!"
 ]},
 "map17_ev63_p2_gobriel_2":{
 "text":[
-"......HUH?! What's going on, what happened to me?!",
-"Wh-Why am I outside?!"
+"¡¿......HUH?! ¡¿Qué está pasando?! ¡¿Qué me ha pasado?!",
+"¡¿Por qué estoy fuera?!"
 ]},
 "map17_ev63_p2_yasu_1":{
 "text":[
@@ -4621,55 +4627,55 @@
 ]},
 "map17_ev63_p2_yasu_2":{
 "text":[
-"E-Excuse me, Y-Your Imperial Majesty......",
-"Has Miss Karryn graced your ears about me......?"
+"D-Discúlpeme, S-Su Majestad Imperial......",
+"¿Le ha hablado la Señorita Karryn gratamente sobre mi......?"
 ]},
 "map17_ev63_p2_emperor_2":{
 "text":[
-"Oh that. Yeah. There's no problem.",
-"It's thanks to you that we're presently here like this.",
-"I'm deeply grateful to you.",
-"Now for that matter pertaining to your father......",
-"I offer you my condolences...",
+"Oh, si claro. No hay ningún problema.",
+"Es gracias a ti que estamos así ahora mismo.",
+"Estoy profundamente agradecido contigo.",
+"Respecto a tu padre......",
+"Te ofrezco mis condolencias...",
 "",
-"As compensation, I pledge to secure Fort Ganon's future!",
-"We should be able to support Fort Ganon more than ever before",
-"by using the information reported by Karryn."
+"Como compensación ¡Me comprometo a asegurar el futuro del Fuerte Ganon!",
+"Deberiamos poder apoyar mejor el Fuerte",
+"usando la información que nos ha proporcionado Karryn."
 ]},
 "map17_ev63_p2_yasu_3":{
 "text":[
-"Thank you, so so much......!"
+"T¡Muchas Gracias......!"
 ]},
 "map17_ev63_p2_karryn_2":{
 "text":[
 "Yasu.",
-"It's not just going to be me and His Imperial Majesty.",
-"Everyone here would be helping you make Fort Ganon a better place."
+"No solo vamos a ayudar Su Majestad Imperial y yo.",
+"Todos aquí te ayudarían a hacer del Fuerte Ganon un lugar mejor."
 ]},
 "map17_ev63_p2_karryn_3":{
 "text":[
-"It's me we're talking about that here,",
-"I haven't been wrong yet."
+"No olvides que te lo estoy diciendo yo,",
+"Y no me he equivocado todavía."
 ]},
 "map17_ev63_p2_yasu_4":{
 "text":[
-"Yes madam...... thank you...!",
-"As presumptuous as it may be,",
-"I will now be fulfilling the role of the priest."
+"Si señora...... ¡Gracias...!",
+"Aunque suene muy presuntuoso,",
+"A partir de ahora tomaré el papel de sacerdote."
 ]},
 "map17_ev63_p2_yasu_5":{
 "text":[
-"If I may be so bold to ask,",
-"will the two dearly beloved please exchange their vows with a kiss."
+"Si me permite el atrevimiento,",
+"¿Podrían los enamorados intercambiar sus votos con un beso?"
 ]},
 "map17_ev63_p2_emperor_3":{
 "text":[
-"Fufu... This is a bit embarrassing.",
-"Are you ready? Karryn."
+"Fufu... Me da un poco de vergüenza.",
+"¿Estás lista, Karryn?."
 ]},
 "map17_ev63_p2_karryn_4":{
 "text":[
-"Of course, Your Imperial Majesty......"
+"Por supuesto, Su Majestad Imperial......"
 ]},
 "map17_ev63_p2_karryn_5":{
 "text":[
@@ -4677,64 +4683,64 @@
 ]},
 "map17_ev63_p2_emperor_4":{
 "text":[
-"So this is how it feels like to kiss you......",
-"It's as if I'm filled with feelings of happiness......!"
+"Así que esto es lo que se siente al besarte......",
+"¡Es como si me llenase de sentimientos de felicidad......!"
 ]},
 "map17_ev63_p2_karryn_6":{
 "text":[
-"I-Is that so......"
+"¿D-De verdad......?"
 ]},
 "map17_ev63_p2_karryn_7":{
 "text":[
-"(I'm happy and all to be able to kiss His Imperial Majesty......",
-"But maybe because of that, a different urge is starting to come out......)"
+"(Estoy feliz de poder besar a Su Majestad Imperial......",
+"Pero por culpa de eso, un impulso distinto ha empezado a florecer...)"
 ]},
 "map17_ev63_p2_karryn_8":{
 "text":[
-"E-Excuse me! Your Imperial Majesty!"
+"¡P-Perdóneme! ¡Su Majestad Imperial!"
 ]},
 "map17_ev63_p2_emperor_5":{
 "text":[
-"Hm? Is something the matter?"
+"¿Hm? ¿Ocurre algo?"
 ]},
 "map17_ev63_p2_karryn_9":{
 "text":[
-"I'm really sorry......",
-"But will you please allow me to fix my makeup",
-"and go powder my nose for a moment?"
+"Lo siento mucho pero......",
+"¿Me permitiría ir a arreglarme el maquillaje",
+"y empolvar mi nariz un momento?"
 ]},
 "map17_ev63_p2_emperor_6":{
 "text":[
-"Err? Right now?",
-"You look perfectly beautiful enough to me already......",
-"W-Well, I don't mind."
+"¿Err? ¿Tiene que ser ahora?",
+"A mi parece estás perfectamente preciosa......",
+"B-Bueno, no me importa."
 ]},
 "map17_ev63_p2_karryn_10":{
 "text":[
-"Please wait here for a moment then.",
-"Now if you will excuse me."
+"Por favor, espere aquí un momento.",
+"Ahora, si me disculpa."
 ]},
 "map17_ev63_p2_karryn_11":{
 "text":[
-"Can you help me out?"
+"¿Puedes ayudarme?"
 ]},
 "map17_ev63_p2_karryn_12":{
 "text":[
-"Thank you for waiting."
+"Gracias por esperar."
 ]},
 "map17_ev63_p2_emperor_7":{
 "text":[
-"Are you good now?"
+"¿Ya estás bien?"
 ]},
 "map17_ev63_p2_karryn_13":{
 "text":[
-"Yes......♪",
-"Oh, umm, Your Imperial Majesty......",
-"Can you kiss me one more time?"
+"Si......♪",
+"Oh, umm, Su Majestad Imperial......",
+"¿Puede besarme una vez más?"
 ]},
 "map17_ev63_p2_emperor_8":{
 "text":[
-"Sure, of course."
+"Claro, por supuesto."
 ]},
 "map17_ev63_p2_karryn_14":{
 "text":[
@@ -4742,55 +4748,55 @@
 ]},
 "map17_ev63_p2_karryn_15":{
 "text":[
-"......So, I've been thinking......",
-"Will you allow me to stay here a little longer as the Chief Warden?"
+"......He estado pensando......",
+"¿Me permitiría estar aquí un poco más como Directora?"
 ]},
 "map17_ev63_p2_emperor_9":{
 "text":[
-"Th-That was not what I was expecting...... at all."
+"N-No me esperaba eso...... Para nada."
 ]},
 "map17_ev63_p2_karryn_16":{
 "text":[
-"You won't let me?"
+"¿No me va a dejar?"
 ]},
 "map17_ev63_p2_emperor_10":{
 "text":[
-"I would never do that.",
-"You have my full support for anything you desire."
+"Jamás haría eso.",
+"Tienes todo mi apoyo para lo que quieras."
 ]},
 "map17_ev63_p2_karryn_17":{
 "text":[
-"Yay!♥ Thank you♥",
-"Please don't forget to keep the subsidies up, okay?♥"
+"¡Yay!♥ Gracias♥",
+"Por favor no te olvides de mantener los subsidios, ¿Vale?♥"
 ]},
 "map17_ev63_p2_emperor_11":{
 "text":[
-"Yeah. Of course. Ha ha ha......"
+"Si, claro. Ha ha ha......"
 ]},
 "map17_ev63_p2_karryn_18":{
 "text":[
-"Is something wrong?"
+"¿Ocurre algo?"
 ]},
 "map17_ev63_p2_emperor_12":{
 "text":[
-"No...... No, it's just that",
-"you really have changed since you came here.",
-"Of course I mean that in a good way."
+"No...... No, es solo que",
+"has cambiado desde que viniste aquí.",
+"A mejor, quiero decir."
 ]},
 "map17_ev63_p2_karryn_19":{
 "text":[
-"Fufu♪ I figured Your Imperial Majesty would say something like that.",
-"Things are going to be lively again starting tomorrow.♪"
+"Fufu♪ Sabía que Su Majestad Imperial diría algo así.",
+"Las cosas van a estar animadas de nuevo a partir de mañana.♪"
 ]},
 "map17_ev63_p2_karryn_20":{
 "text":[
-"So you heard it everyone!",
-"I'll be in your care once again♥"
+"¡Ya habeis oído chicos!",
+"Estaré a vuestro cargo otra vez♥"
 ]},
 "map17_ev63_p2_narration_1":{
 "text":[
 "",
-"            \\#\\{\\C[1]HAPPY END",
+"            \\#\\{\\C[1]FINAL FELIZ",
 ""
 ]},
 

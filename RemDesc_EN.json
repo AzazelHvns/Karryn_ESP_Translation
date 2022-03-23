@@ -4,90 +4,90 @@
 },
 
 "peffect_50mouthdesire":{
-"text":["\\C[27]La precisión disminuye a medida que 'deseo oral' aumenta por encima de 50."]
+"text":["\\C[27]La precisión disminuye a medida que 'Deseo oral' aumenta por encima de 50."]
 },
 "peffect_50boobsdesire":{
-"text":["\\C[27]La evasión disminuye a medida que 'deseo puechos' se eleva por encima de 50."]
+"text":["\\C[27]La evasión disminuye a medida que 'Deseo pechos' se eleva por encima de 50."]
 },
 "peffect_50pussydesire":{
-"text":["\\C[27]Strip Resist disminuye a medida que 'deseo vagina' sube por encima de 50."]
+"text":["\\C[27]Strip Resist disminuye a medida que 'Deseo vaginal' sube por encima de 50."]
 },
 "peffect_50buttdesire":{
-"text":["\\C[27]La defensa disminuye a medida que 'deseo trasero' sube por encima de 50."]
+"text":["\\C[27]La defensa disminuye a medida que 'Deseo culo' sube por encima de 50."]
 },
 "peffect_50cockdesire":{
-"text":["\\C[27]El ataque disminuye a medida que 'deseo polla' se eleva por encima de 50."]
+"text":["\\C[27]El ataque disminuye a medida que 'deseo de polla' se eleva por encima de 50."]
 },
 
 "peffect_topmouthdesire":{
-"text":["\\C[27]Enemy Defense disminuyó mientras que 'deseo oral' es el deseo principal."]
+"text":["\\C[27]Enemy Defense disminuyó mientras que 'Deseo oral' es el Deseo principal."]
 },
 "peffect_topboobsdesire":{
-"text":["\\C[27]Enemy Evasion disminuyó mientras que 'deseo pechos' es el principal deseo."]
+"text":["\\C[27]Enemy Evasion disminuyó mientras que 'Deseo pechos' es el principal Deseo."]
 },
 "peffect_toppussydesire":{
-"text":["\\C[27]Se ha aumentado la posibilidad de que los enemigos se pongan cachondos en cada turno, mientras que Pussy Desire es el deseo principal."]
+"text":["\\C[27]Se ha aumentado la posibilidad de que los enemigos se pongan cachondos en cada turno, mientras que 'Deseo vagina' es el Deseo principal."]
 },
 "peffect_topbuttdesire":{
-"text":["\\C[27]Enemy Accuracy disminuyó mientras 'deseo trasero' es el deseo principal."]
+"text":["\\C[27]Enemy Accuracy disminuyó mientras 'Deseo culo' es el Deseo principal."]
 },
 "peffect_topcockdesire":{
-"text":["\\C[27]La tasa de ganancia de deseo de polla aumentó mientras que el deseo de polla es el deseo principal."]
+"text":["\\C[27]La tasa de ganancia de deseo de polla aumentó mientras que el deseo de polla es el Deseo principal."]
 },
 
 "peffect_100mouthdesire":{
-"text":["\\C[27]El daño crítico disminuye a medida que el 'deseo oral' aumenta por encima de 100."]
+"text":["\\C[27]El daño crítico disminuye a medida que el 'Deseo oral' aumenta por encima de 100."]
 },
 "peffect_100boobsdesire":{
-"text":["\\C[27]La tasa crítica disminuye a medida que 'deseo pechos' sube por encima de 100."]
+"text":["\\C[27]La tasa crítica disminuye a medida que 'Deseo pechos' sube por encima de 100."]
 },
 "peffect_100pussydesire":{
-"text":["\\C[27]La Evasión Crítica disminuye a medida que el 'deseo vagina' sube por encima de 100."]
+"text":["\\C[27]La Evasión Crítica disminuye a medida que el 'Deseo vagina' sube por encima de 100."]
 },
 "peffect_100buttdesire":{
-"text":["\\C[27]Resistencia carisias disminuye a medida que 'deseo trasero' aumenta por encima de 100."]
+"text":["\\C[27]Resistencia carisias disminuye a medida que 'Deseo culo' aumenta por encima de 100."]
 },
 "peffect_100cockdesire":{
-"text":["\\C[27]Resistencia Sexo disminuye a medida que 'deseo polla' sube por encima de 100."]
+"text":["\\C[27]Resistencia Sexo disminuye a medida que 'deseo de polla' sube por encima de 100."]
 },
 
 "peffect_kiss_mouthdesirereq_lower15":{
 "text":["\\C[27]Deseo de boca requerido para Beso reducido en 15."]
 },
 "peffect_toyp_pussydesirereq_lower20":{
-"text":["\\C[27]Se requiere 'deseo vagina' para 'juguetes vaginal' reducido en 20."]
+"text":["\\C[27]Se requiere 'Deseo vagina' para 'juguetes vaginal' reducido en 20."]
 },
 
 
 "peffect_maxmouthdesire":{
-"text":["\\C[1]Aumento del Maximo de 'deseo oral'."]
+"text":["\\C[1]Aumento del Maximo de 'Deseo oral'."]
 },
 "peffect_maxmouthandcockdesire":{
-"text":["\\C[1]Aumento de Maximo Oral y 'deseo polla'."]
+"text":["\\C[1]Aumento de Maximo Oral y 'deseo de polla'."]
 },
 "peffect_maxboobsdesire":{
-"text":["\\C[1]Aumento del Maximo de 'deseo pechos'."]
+"text":["\\C[1]Aumento del Maximo de 'Deseo pechos'."]
 },
 "peffect_maxpussydesire":{
-"text":["\\C[1]Aumento del Maximo de 'deseo Vagina'."]
+"text":["\\C[1]Aumento del Maximo de 'Deseo Vagina'."]
 },
 "peffect_maxbuttdesire":{
-"text":["\\C[1]Aumento del Maximo de 'deseo Trasero'."]
+"text":["\\C[1]Aumento del Maximo de 'Deseo culo'."]
 },
 "peffect_maxcockdesire":{
-"text":["\\C[1]Aumento del Maximo de 'deseo polla'."]
+"text":["\\C[1]Aumento del Maximo de 'deseo de polla'."]
 },
 "peffect_maxpussyandbuttdesire":{
-"text":["\\C[1]Aumento del Maximo de deseo 'vagina' y 'trasero'."]
+"text":["\\C[1]Aumento del Maximo de Deseo 'vagina' y 'culo'."]
 },
 "peffect_maxpussyandcockdesire":{
-"text":["\\C[1]Aumento del Maximo de deseo 'vagina' y 'polla'."]
+"text":["\\C[1]Aumento del Maximo de Deseo 'vagina' y 'polla'."]
 },
 "peffect_maxbuttandcockdesire":{
-"text":["\\C[1]Aumento del Maximo de deseo 'trasero' y 'polla'."]
+"text":["\\C[1]Aumento del Maximo de Deseo 'culo' y 'polla'."]
 },
 "peffect_allmaxdesire":{
-"text":["\\C[1]Todos el Maximo de los deseos aumentaron."]
+"text":["\\C[1]Todos el Maximo de los Deseos aumentaron."]
 },
 
 "peffect_minimummouthdesire":{
@@ -100,161 +100,161 @@
 "text":["\\C[1]Deseo vagina mínimo aumentado."]
 },
 "peffect_minimumbuttdesire":{
-"text":["\\C[1]Deseo trasero mínimo aumentado."]
+"text":["\\C[1]Deseo culo mínimo aumentado."]
 },
 "peffect_minimumcockdesire":{
-"text":["\\C[1]Deseo polla mínimo aumentado."]
+"text":["\\C[1]deseo de polla mínimo aumentado."]
 },
 "peffect_allminimumdesire":{
-"text":["\\C[1]Todos los mínimos de los deseos  aumentaron."]
+"text":["\\C[1]Todos los mínimos de los Deseos  aumentaron."]
 },
 
 "peffect_initialmouthdesire":{
-"text":["\\C[1]Aumento del deseo oral inicial."]
+"text":["\\C[1]Aumento del Deseo oral inicial."]
 },
 "peffect_initialmouthdesire_kiss_people_day":{
-"text":["\\C[27]El deseo oral inicial aumenta con cada nueva persona besada en el mismo día."]
+"text":["\\C[27]El Deseo oral inicial aumenta con cada nueva persona besada en el mismo día."]
 },
 "peffect_initialmouthdesire_finger_people_day":{
-"text":["\\C[27]El deseo oral inicial aumenta con cada dedo chupado en el mismo día."]
+"text":["\\C[27]El Deseo oral inicial aumenta con cada dedo chupado en el mismo día."]
 },
 
 "peffect_initialmouthandcockdesire":{
-"text":["\\C[1]Aumento del deseo inicial de oral y polla."]
+"text":["\\C[1]Aumento del Deseo inicial de oral y polla."]
 },
 "peffect_initialboobsdesire":{
-"text":["\\C[1]Aumento del deseo inicial de los pechos."]
+"text":["\\C[1]Aumento del Deseo inicial de los pechos."]
 },
 "peffect_initialboobsdesire_boobs_people_day":{
-"text":["\\C[27]El deseo inicial de pechos aumenta cada vez que nuevas manos tocan los senos en el mismo día."]
+"text":["\\C[27]El Deseo inicial de pechos aumenta cada vez que nuevas manos tocan los pechos en el mismo día."]
 },
 "peffect_initialboobsdesire_nipples_people_day":{
-"text":["\\C[27]El deseo inicial de pechos aumenta cada vez que nuevas manos tocan los pezones en el mismo día."]
+"text":["\\C[27]El Deseo inicial de pechos aumenta cada vez que nuevas manos tocan los pezones en el mismo día."]
 },
 
 "peffect_initialpussydesire":{
-"text":["\\C[1]El deseo inicial de vagina aumentó."]
+"text":["\\C[1]El Deseo inicial de vagina aumentó."]
 },
 "peffect_initialpussydesire_clit_people_day":{
-"text":["\\C[27]El deseo inicial de vagina aumenta cada vez que el clítoris es pellizcado por nuevas manos en el mismo día."]
+"text":["\\C[27]El Deseo inicial de vagina aumenta cada vez que el clítoris es pellizcado por nuevas manos en el mismo día.aaaaasdasdfgggagggaggasdf"]
 },
 "peffect_initialpussydesire_cunni_people_day":{
-"text":["\\C[27]El deseo inicial de vagina aumenta cada vez que una nueva persona lame la vagina en el mismo día."]
+"text":["\\C[27]El Deseo inicial de vagina aumenta cada vez que una nueva persona lame la vagina en el mismo día."]
 },
 "peffect_initialpussydesire_pussy_people_day":{
-"text":["\\C[27]El deseo inicial de vagina aumenta cada vez que nuevas manos tocan la vagina en el mismo día."]
+"text":["\\C[27]El Deseo inicial de vagina aumenta cada vez que nuevas manos tocan la vagina en el mismo día."]
 },
 "peffect_initialpussydesire_psex_count_day":{
-"text":["\\C[27]El deseo inicial de vagina aumenta cada vez que una polla entro durante el día."]
+"text":["\\C[27]El Deseo inicial de vagina aumenta cada vez que una polla entra durante el día."]
 },
 
 "peffect_initialbuttdesire":{
-"text":["\\C[1]Aumento del deseo de trasero inicial."]
+"text":["\\C[1]Aumento del Deseo de culo inicial."]
 },
 "peffect_initialbuttdesire_butt_people_day":{
-"text":["\\C[27]El deseo inicial de trasero aumenta cada vez que nuevas manos acarician el trasero en el mismo día."]
+"text":["\\C[27]El Deseo inicial de culo aumenta cada vez que nuevas manos acarician el culo en el mismo día."]
 },
 "peffect_initialbuttdesire_anal_people_day":{
-"text":["\\C[27]El deseo inicial de trasero aumenta cada vez que nuevas manos tocan el ano en el mismo día."]
+"text":["\\C[27]El Deseo inicial de culo aumenta cada vez que nuevas manos tocan el ano en el mismo día."]
 },
 "peffect_initialbuttdesire_asex_count_day":{
-"text":["\\C[27]El deseo de trasero inicial aumenta cada vez que se folla el ano en el mismo día."]
+"text":["\\C[27]El Deseo de culo inicial aumenta cada vez que se folla el ano en el mismo día."]
 },
 "peffect_initialbuttdesire_analcreampie_day":{
-"text":["\\C[27]El deseo inicial de trasero aumenta con cada gota de semen eyaculado dentro del culo en el mismo día."]
+"text":["\\C[27]El Deseo inicial de culo aumenta con cada gota de semen eyaculado dentro del culo en el mismo día."]
 },
 
 "peffect_initialpussyandbuttdesire":{
-"text":["\\C[1]El deseo inicial de vagina y trasero aumentó."]
+"text":["\\C[1]El Deseo inicial de vagina y culo aumentó."]
 },
 
 "peffect_initialmouthboobspussybuttdesire":{
-"text":["\\C[1]Los deseos iniciales de boca, tetas, vagina y trasero aumentaron."]
+"text":["\\C[1]Los Deseos iniciales de boca, tetas, vagina y culo aumentaron."]
 },
 "peffect_allinitialdesires":{
-"text":["\\C[1]Todos los deseos iniciales aumentaron."]
+"text":["\\C[1]Todos los Deseos iniciales aumentaron."]
 },
 
 "peffect_initialcockdesire":{
-"text":["\\C[1]Aumento del deseo inicial de polla."]
+"text":["\\C[1]Aumento del Deseo inicial de polla."]
 },
 "peffect_initialcockdesire_hj_people_day":{
-"text":["\\C[27]El deseo inicial de polla aumenta con cada paja que se le da a una nueva polla en el mismo día."]
+"text":["\\C[27]El Deseo inicial de polla aumenta con cada paja que se le da a una nueva polla en el mismo día."]
 },
 "peffect_initialcockdesire_bukkake":{
-"text":["\\C[27]El deseo inicial de polla aumenta con cada gota de semen que cubre la piel."]
+"text":["\\C[27]El Deseo inicial de polla aumenta con cada gota de semen que cubre la piel."]
 },
 "peffect_initialcockdesire_defeat":{
 "text":["\\C[1]El deseo de polla inicial aumentó cuando Karryn ha sido derrotado recientemente."]
 },
 "peffect_initialcockdesire_gb_day":{
-"text":["\\C[27]El deseo inicial de polla aumenta con cada gangbang en el mismo día."]
+"text":["\\C[27]El Deseo inicial de polla aumenta con cada gangbang en el mismo día."]
 },
 "peffect_initialcockdesire_cockstare_day":{
-"text":["\\C[27]El deseo inicial de polla aumenta con cada verga que se mira el mismo día."]
+"text":["\\C[27]El Deseo inicial de polla aumenta con cada verga que se mira el mismo día."]
 },
 "peffect_initialcockdesire_finger_people_day":{
-"text":["\\C[27]El deseo inicial de polla aumenta con cada nuevo dedo chupado en el mismo día."]
+"text":["\\C[27]El Deseo inicial de polla aumenta con cada nuevo dedo chupado en el mismo día."]
 },
 
 "peffect_initialpussyandcockdesire":{
-"text":["\\C[1]El deseo inicial de coño y polla aumentó."]
+"text":["\\C[1]El Deseo inicial de vagina y polla aumentó."]
 },
 "peffect_initialpussyandcockdesire_kickcounter_day":{
-"text":["\\C[27]El deseo inicial de vagina y polla aumenta con cada contraataque sexual del enemigo en el mismo día."]
+"text":["\\C[27]El Deseo inicial de vagina y polla aumenta con cada contraataque sexual del enemigo en el mismo día."]
 },
 
 "peffect_initialbuttandcockdesire":{
-"text":["\\C[1]El deseo inicial de trasero y polla aumentó."]
+"text":["\\C[1]El Deseo inicial de culo y polla aumentó."]
 },
 
 "peffect_mouthdesiregainrate":{
-"text":["\\C[1]Tasa de ganancia de deseo bucal aumentada."]
+"text":["\\C[1]Tasa de ganancia de Deseo Oral aumentada."]
 },
 "peffect_mouthdesiregainrate_kiss_count_battle":{
-"text":["\\C[27]La tasa de ganancia de deseo de oral aumenta con cada beso en la misma batalla."]
+"text":["\\C[27]La tasa de ganancia de Deseo de oral aumenta con cada beso en la misma batalla."]
 },
 "peffect_mouthdesiregainrate_sightmouth_people_day":{
-"text":["\\C[27]La tasa de ganancia de deseo oral aumenta cada vez que alguien mira fijamente a Karryn a la cara en la misma batalla."]
+"text":["\\C[27]La tasa de ganancia de Deseo oral aumenta cada vez que alguien mira fijamente a Karryn a la cara en la misma batalla."]
 },
 "peffect_mouthdesiregainrate_finger_count_day":{
-"text":["\\C[27]La tasa de ganancia de deseo oral aumenta con cada dedo chupado en la misma batalla."]
+"text":["\\C[27]La tasa de ganancia de Deseo oral aumenta con cada dedo chupado en la misma batalla."]
 },
 
 "peffect_boobsdesiregainrate":{
-"text":["\\C[1]Tasa de ganancia de deseo de pechos aumentada."]
+"text":["\\C[1]Tasa de ganancia de Deseo de pechos aumentada."]
 },
 "peffect_boobsdesiregainrate_boobs_count_battle":{
-"text":["\\C[27]La tasa de aumento del deseo del pechos aumenta cada vez que se tocan los senos en la misma batalla."]
+"text":["\\C[27]La tasa de aumento del Deseo del pechos aumenta cada vez que se tocan los pechos en la misma batalla."]
 },
 "peffect_boobsdesiregainrate_nipples_count_battle":{
-"text":["\\C[27]La tasa de aumento del deseo del pechos aumenta cada vez que se tocan los pezones en la misma batalla."]
+"text":["\\C[27]La tasa de aumento del Deseo del pechos aumenta cada vez que se tocan los pezones en la misma batalla."]
 },
 "peffect_boobsdesiregainrate_sightboobs_people_day":{
-"text":["\\C[27]La tasa de aumento del deseo del pechos aumenta en función de cada vez que alguien nuevo mira fijamente el pecho de Karryn en la misma batalla."]
+"text":["\\C[27]La tasa de aumento del Deseo del pechos aumenta en función de cada vez que alguien nuevo mira fijamente el pecho de Karryn en la misma batalla."]
 },
 
 "peffect_pussydesiregainrate":{
-"text":["\\C[1]Tasa de ganancia de deseo de vagina aumentada."]
+"text":["\\C[1]Tasa de ganancia de Deseo vaginal aumentada."]
 },
 "peffect_pussydesiregainrate_clit_count_battle":{
-"text":["\\C[27]La tasa de aumento del deseo del vagina aumenta cada vez que se pellizca el clítoris en la misma batalla."]
+"text":["\\C[27]La tasa de aumento del Deseo del vagina aumenta cada vez que se pellizca el clítoris en la misma batalla."]
 },
 "peffect_pussydesiregainrate_cunni_people_day":{
-"text":["\\C[27]La tasa de ganancia de deseo de vagina aumenta cada vez que un hombre nuevo lame el coño en el mismo día."]
+"text":["\\C[27]La tasa de ganancia de Deseo vaginal aumenta cada vez que un hombre nuevo lame el vagina en el mismo día."]
 },
 "peffect_pussydesiregainrate_sightpussy_people_battle":{
-"text":["\\C[27]La tasa de ganancia de deseo de vagina aumenta cada vez que alguien nuevo mira fijamente las ingles de Karryn en la misma batalla."]
+"text":["\\C[27]La tasa de ganancia de Deseo vaginal aumenta cada vez que alguien nuevo mira fijamente las ingles de Karryn en la misma batalla."]
 },
 
 "peffect_buttdesiregainrate":{
-"text":["\\C[1]Tasa de ganancia de deseo de glúteos aumentada."]
+"text":["\\C[1]Tasa de ganancia de Deseo de glúteos aumentada."]
 },
 "peffect_buttdesiregainrate_butt_count_battle":{
-"text":["\\C[27]Tasa de ganancia de deseo a trasero aumenta cada vez que se acaricia el trasero en la misma batalla."]
+"text":["\\C[27]Tasa de ganancia de Deseo a culo aumenta cada vez que se acaricia el culo en la misma batalla."]
 },
 "peffect_buttdesiregainrate_sightbutt_people_battle":{
-"text":["\\C[27]Tasa de ganancia de deseo a trasero aumenta cada vez que alguien nuevo mira el trasero de Karryn en la misma batalla."]
+"text":["\\C[27]Tasa de ganancia de Deseo a culo aumenta cada vez que alguien nuevo mira el culo de Karryn en la misma batalla."]
 },
 
 "peffect_cockdesiregainrate":{
@@ -283,20 +283,20 @@
 },
 
 "peffect_mouthandcockdesiregainrate":{
-"text":["\\C[1]Las tasas de ganancia de deseo de oral y polla aumentaron."]
+"text":["\\C[1]Las tasas de ganancia de Deseo de oral y polla aumentaron."]
 },
 "peffect_pussyandcockdesiregainrate":{
-"text":["\\C[1]Las tasas de ganancia de deseo de vagina y polla aumentaron."]
+"text":["\\C[1]Las tasas de ganancia de Deseo vaginal y polla aumentaron."]
 },
 "peffect_buttandcockdesiregainrate":{
-"text":["\\C[1]Las tasas de ganancia de deseo de trasero y polla aumentaron."]
+"text":["\\C[1]Las tasas de ganancia de Deseo de culo y polla aumentaron."]
 },
 
 "peffect_alldesiregainrate":{
-"text":["\\C[1]Todas las tasas de ganancia de deseo aumentaron."]
+"text":["\\C[1]Todas las tasas de ganancia de Deseo aumentaron."]
 },
 "peffect_alldesiregainrate_masochism_defeat":{
-"text":["\\C[27]Todas las tasas de ganancia de deseo aumentan según el nivel de masoquismo cuando Karryn ha sido derrotado recientemente."]
+"text":["\\C[27]Todas las tasas de ganancia de Deseo aumentan según el nivel de masoquismo cuando Karryn ha sido derrotado recientemente."]
 },
 
 
@@ -336,10 +336,10 @@
 "text":["\\C[1]Deseo vagina sube cada turno."]
 },
 "peffect_pussydesireup_everyturn_cunni":{
-"text":["\\C[1]Deseo vagina sube cada turno hasta que el coño es lamido en la misma batalla."]
+"text":["\\C[1]Deseo vagina sube cada turno hasta que el vagina es lamido en la misma batalla."]
 },
 "peffect_pussydesireup_everyturn_psex":{
-"text":["\\C[27]Deseo vagina sube cada turno hasta que el coño es follado por una polla en la misma batalla."]
+"text":["\\C[27]Deseo vagina sube cada turno hasta que el vagina es follado por una pollaen la misma batalla."]
 },
 "peffect_pussydesireup_everyturn_sightpussy_people_today":{
 "text":["\\C[27]Deseo vagina aumenta cada turno en función de cada vez que alguien nuevo mira fijamente las ingles de Karryn en el mismo día."]
@@ -352,59 +352,59 @@
 },
 
 "peffect_buttdesireup_everyturn":{
-"text":["\\C[1]Deseo trasero sube cada vuelta."]
+"text":["\\C[1]Deseo culo sube cada vuelta."]
 },
 "peffect_buttdesireup_everyturn_asex":{
-"text":["\\C[1]Deseo trasero sube cada turno hasta que el ano se la follan en la misma batalla."]
+"text":["\\C[1]Deseo culo sube cada turno hasta que el ano se la follan en la misma batalla."]
 },
 "peffect_buttdesireup_everyturn_slime":{
-"text":["\\C[1]Deseo trasero se eleva cada vez que hay un limo presente."]
+"text":["\\C[1]Deseo culo se eleva cada vez que hay un limo presente."]
 },
 "peffect_buttdesireup_everyturn_buttspank":{
-"text":["\\C[1]Deseo trasero sube cada turno hasta que el trasero es azotado en la misma batalla."]
+"text":["\\C[1]Deseo culo sube cada turno hasta que el culo es azotado en la misma batalla."]
 },
 
 "peffect_cockdesireup_everyturn":{
-"text":["\\C[1]Deseo de polla sube cada turno."]
+"text":["\\C[1]deseo de polla sube cada turno."]
 },
 "peffect_cockdesireup_everyturn_cunni":{
-"text":["\\C[1]Deseo de polla se eleva cada vez que se lame el coño."]
+"text":["\\C[1]deseo de polla se eleva cada vez que se lame el vagina."]
 },
 "peffect_cockdesireup_everyturn_pussycreampie":{
-"text":["\\C[1]Deseo de polla aumenta cada turno hasta que se eyacula nuevo semen en el coño en la misma batalla."]
+"text":["\\C[1]deseo de polla aumenta cada turno hasta que se eyacula nuevo semen en el vagina en la misma batalla."]
 },
 "peffect_cockdesireup_everyturn_analcreampie":{
-"text":["\\C[1]Deseo de polla aumenta cada turno hasta que se eyacula nuevo semen en el culo en la misma batalla."]
+"text":["\\C[1]deseo de polla aumenta cada turno hasta que se eyacula nuevo semen en el culo en la misma batalla."]
 },
 "peffect_cockdesireup_everyturn_virgin":{
-"text":["\\C[1]Deseo de polla sube cada turno mientras una virgen está presente."]
+"text":["\\C[1]deseo de polla sube cada turno mientras una virgen está presente."]
 },
 "peffect_cockdesireup_everyturn_nerd":{
-"text":["\\C[1]Deseo de polla sube cada turno mientras un nerd está presente."]
+"text":["\\C[1]deseo de polla sube cada turno mientras un nerd está presente."]
 },
 "peffect_cockdesireup_everyturn_orc":{
-"text":["\\C[1]Deseo de polla se eleva cada turno mientras un orco está presente."]
+"text":["\\C[1]deseo de polla se eleva cada turno mientras un orco está presente."]
 },
 "peffect_cockdesireup_everyturn_hobo":{
-"text":["\\C[1]Deseo de polla sube cada turno mientras un vagabundo está presente."]
+"text":["\\C[1]deseo de polla sube cada turno mientras un vagabundo está presente."]
 },
 "peffect_cockdesireup_everyturn_werewolf":{
-"text":["\\C[1]Deseo de polla se eleva cada turno mientras un hombre lobo está presente."]
+"text":["\\C[1]deseo de polla se eleva cada turno mientras un hombre lobo está presente."]
 },
 "peffect_cockdesireup_everyturn_toyp_battle":{
-"text":["\\C[1]Deseo de polla aumenta cada turno cada vez que se usa un consolador en la misma batalla."]
+"text":["\\C[1]deseo de polla aumenta cada turno cada vez que se usa un consolador en la misma batalla."]
 },
 "peffect_cockdesireup_everyturn_cock":{
-"text":["\\C[1]Deseo de polla aumenta cada turno en función del número de penes erectos presentes."]
+"text":["\\C[1]deseo de polla aumenta cada turno en función del número de polla erectos presentes."]
 },
 "peffect_cockdesireup_everyturn_restrain":{
-"text":["\\C[1]Deseo de polla se eleva cada vez que no está restringido de ninguna manera."]
+"text":["\\C[1]deseo de polla se eleva cada vez que no está restringido de ninguna manera."]
 },
 "peffect_cockdesireup_everyturn_bathroom":{
-"text":["\\C[1]Deseo de polla se eleva cada vez que está en el baño."]
+"text":["\\C[1]deseo de polla se eleva cada vez que está en el baño."]
 },
 "peffect_cockdesireup_everyturn_underground":{
-"text":["\\C[1]Deseo de polla se eleva a cada paso mientras está bajo tierra."]
+"text":["\\C[1]deseo de polla se eleva a cada paso mientras está bajo tierra."]
 },
 
 "peffect_mouthandboobsdesireup_everyturn_yeti":{
@@ -415,7 +415,7 @@
 "text":["\\C[1]Deseo vagina y polla sube cada turno."]
 },
 "peffect_buttandcockdesireup_everyturn":{
-"text":["\\C[1]Deseo trasero y polla sube cada turno."]
+"text":["\\C[1]Deseo culo y polla sube cada turno."]
 },
 
 "peffect_boobsdesireup_attackpose":{
@@ -423,7 +423,7 @@
 },
 
 "peffect_buttdesireup_evadepose":{
-"text":["\\C[1]Deseo trasero se eleva mientras evade los ataques."]
+"text":["\\C[1]Deseo culo se eleva mientras evade los ataques."]
 },
 
 "peffect_cockdesireup_everyturn_aroused":{
@@ -433,11 +433,11 @@
 "text":["\\C[1]Desero polla sube cada turno sin ser doblemente penetrada."]
 },
 "peffect_cockdesireup_cockkick_sadism":{
-"text":["\\C[1]Deseo polla aumenta según el nivel de sadismo cuando se usa Cock Kick."]
+"text":["\\C[1]deseo de polla aumenta según el nivel de sadismo cuando se usa Cock Kick."]
 },
 
 "peffect_randomdesireup_enemyjerkoff":{
-"text":["\\C[1]El deseo aumenta más cuando los enemigos se masturban."]
+"text":["\\C[1]El Deseo aumenta más cuando los enemigos se masturban."]
 },
 
 "peffect_alldesireup_everyturn_horny":{
@@ -467,7 +467,7 @@
 },
 
 "peffect_onaniurge":{
-"text":["\\C[1]Urge to masturbate mid-battle increased."]
+"text":["\\C[1]Impulso a masturbarse a mitad de la batalla aumentó."]
 },
 "peffect_onaniurge_kiss":{
 "text":["\\C[27]Las ganas de masturbarse a mitad de la batalla aumentan hasta que alguien es besado en la misma batalla."]
@@ -499,7 +499,7 @@
 "text":["\\C[27]La probabilidad de ponerse cachonda aumentó después de besarse."]
 },
 "peffect_addhorny_talkcock":{
-"text":["\\C[27]La probabilidad de ponerse cachonda aumenta después de que alguien habla de pollas."]
+"text":["\\C[27]La probabilidad de ponerse cachonda aumenta después de que alguien habla de polla."]
 },
 "peffect_addhorny_flaunt":{
 "text":["\\C[27]La probabilidad de ponerse cachonda aumentó después de alardear."]
@@ -537,7 +537,7 @@
 "text":["\\C[1]Cachonda dura más turnos."]
 },
 "peffect_horny_suppressdesire":{
-"text":["\\C[27]El costo de la fuerza de voluntad de Suppress Desire aumentó mientras estaba cachondo."]
+"text":["\\C[27]El costo de la fuerza de voluntad de 'Suprimir deseos' aumentó mientras estaba cachondo."]
 },
 "peffect_horny_acceva":{
 "text":["\\C[27]La precisión y la evasión disminuyeron mientras estaba caliente."]
@@ -563,13 +563,13 @@
 },
 
 "peffect_falldown_talkresist":{
-"text":["\\C[1]Hablar y la resistencia a la vista se redujeron mientras estaba sentado en el trasero después de caerse."]
+"text":["\\C[1]Hablar y la resistencia a la vista se redujeron mientras estaba sentado en el culo después de caerse."]
 },
 "peffect_falldown_restunlocked":{
 "text":["\\C[27]Nueva habilidad caída desbloqueado: Descansa un poco."]
 },
 "peffect_falldown_rest_cooldown":{
-"text":["\\C[1]El tiempo de reutilización de Rest for a bit se reduce en un turno."]
+"text":["\\C[1]El tiempo de reutilización de 'Descanzar un poco' se reduce en un turno."]
 },
 
 "peffect_releasedesires_unlocked":{
@@ -586,46 +586,46 @@
 },
 
 "peffect_pussywet_aroused":{
-"text":["\\C[1]El coño se moja más cada vez que está excitado."]
+"text":["\\C[1]El vagina se moja más cada vez que está excitado."]
 },
 "peffect_pussywet_nopan":{
-"text":["\\C[1]El coño se moja más cada vez que no usa bragas."]
+"text":["\\C[1]El vagina se moja más cada vez que no usa bragas."]
 },
 "peffect_pussywet_orgasm_day":{
-"text":["\\C[27]El coño se humedece cada turno de cada orgasmo en el mismo día.."]
+"text":["\\C[27]El vagina se humedece cada turno de cada orgasmo en el mismo día.."]
 },
 "peffect_pussywet_talkpussy_battle":{
-"text":["\\C[27]El coño se pone más húmedo cada vez que alguien nuevo habla degradantemente sobre el coño de Karryn en la misma batalla."]
+"text":["\\C[27]El vagina se pone más húmedo cada vez que alguien nuevo habla degradantemente sobre el vagina de Karryn en la misma batalla."]
 },
 "peffect_pussywet_map_scandalous":{
-"text":["\\C[27]El coño se va humedeciendo lentamente mientras camina por la prisión en un estado excitado y escandaloso."]
+"text":["\\C[27]El vagina se va humedeciendo lentamente mientras camina por la prisión en un estado excitado y escandaloso."]
 },
 "peffect_pussywet_kick":{
-"text":["\\C[27]El coño se moja antes de atacar con una patada."]
+"text":["\\C[27]El vagina se moja antes de atacar con una patada."]
 },
 
 
 "peffect_mouthsensitivity":{
-"text":["\\C[1]Aumento de la sensibilidad bucal."]
+"text":["\\C[1]Sensibilidad Oral aumento."]
 },
 "peffect_mouthsensitivity_kiss_people_battle":{
-"text":["\\C[27]La sensibilidad bucal aumenta con cada nueva persona besada en la misma batalla."]
+"text":["\\C[27]La sensibilidad Oral aumenta con cada nueva persona besada en la misma batalla."]
 },
 "peffect_mouthsensitivity_kiss_count_day":{
-"text":["\\C[27]La sensibilidad bucal aumenta con cada beso en el mismo día.."]
+"text":["\\C[27]La sensibilidad Oral aumenta con cada beso en el mismo día.."]
 },
 "peffect_mouthsensitivity_bj_people_day":{
-"text":["\\C[27]La sensibilidad bucal aumenta con cada nueva polla chupada en el mismo día."]
+"text":["\\C[27]La sensibilidad Oral aumenta con cada nueva polla chupada en el mismo día."]
 },
 "peffect_mouthsensitivity_talkmouth_people_battle":{
-"text":["\\C[27]La sensibilidad bucal aumenta cada vez que alguien nuevo habla de forma degradante sobre la boca de Karryn en la misma batalla."]
+"text":["\\C[27]La sensibilidad Oral aumenta cada vez que alguien nuevo habla de forma degradante sobre la boca de Karryn en la misma batalla."]
 },
 "peffect_mouthsensitivity_rj_count_battle":{
 "text":["\\C[27]La sensibilidad de la boca aumenta con cada rimjob dado en la misma batalla."]
 },
 
 "peffect_swallowsensitivity":{
-"text":["\\C[1]Aumento de la sensibilidad para tragar semen."]
+"text":["\\C[1]Sensibilidad a tragar semen aumento."]
 },
 "peffect_swallowsensitivity_bj_people_battle":{
 "text":["\\C[27]La sensibilidad para tragar semen aumenta con cada nueva polla chupada en la misma batalla."]
@@ -641,11 +641,11 @@
 "text":["\\C[1]Aumento de la sensibilidad para tragar la boca y el semen."]
 },
 "peffect_mouthandswallowsensitivity_mouthdesire":{
-"text":["\\C[27]La sensibilidad para tragar la boca y el semen aumenta según el deseo bucal."]
+"text":["\\C[27]La sensibilidad para tragar la boca y el semen aumenta según el Deseo Oral."]
 },
 
 "peffect_bukkakesensitivity":{
-"text":["\\C[1]Bukkake Sensibilidad aumentada."]
+"text":["\\C[1]Sensibilidad al Bukkake aumento."]
 },
 "peffect_bukkakesensitivity_foreplay":{
 "text":["\\C[1]La sensibilidad del bukkake aumenta al dar pajas, sexo con las tetas y/o pajas con los pies."]
@@ -655,1366 +655,1366 @@
 },
 
 "peffect_boobssensitivity":{
-"text":["\\C[1]Aumento de la sensibilidad de los senos."]
+"text":["\\C[1]Aumento de la sensibilidad de los pechos."]
 },
 "peffect_boobssensitivity_boobs_people_battle":{
-"text":["\\C[27]La sensibilidad de las tetas aumenta cada vez que las manos nuevas tocan los senos en la misma batalla."]
+"text":["\\C[27]La sensibilidad de las tetas aumenta cada vez que las manos nuevas tocan los pechos en la misma batalla."]
 },
 
 "peffect_nipplessensitivity":{
-"text":["\\C[1]Aumento de la sensibilidad de los pezones."]
+"text":["\\C[1]Sensibilidad de los pezones aumento."]
 },
 "peffect_nipplessensitivity_nipples_people_battle":{
 "text":["\\C[27]La sensibilidad de los pezones aumenta cada vez que manos nuevas tocan los pezones en la misma batalla."]
 },
 
 "peffect_boobsandnipplessensitivity":{
-"text":["\\C[1]Boobs and Nipples Sensitivity increased."]
+"text":["\\C[1]Aumento de la sensibilidad de los pechos y los pezones."]
 },
 "peffect_boobsandnipplessensitivity_nipples_count_day":{
-"text":["\\C[27]Boobs and Nipples Sensitivity increased from every time nipples get groped in the same day."]
+"text":["\\C[27]La sensibilidad de los pechos y pezones aumenta cada vez que se tocan los pezones en el mismo día."]
 },
 "peffect_boobsandnipplessensitivity_tj_people_day":{
-"text":["\\C[27]Boobs and Nipples Sensitivity increases from every new cock titty fucked in the same day."]
+"text":["\\C[27]La sensibilidad de las pechos y pezones aumenta con cada nueva polla que los usan en el mismo dia."]
 },
 "peffect_boobsandnipplessensitivity_boobsdesire":{
-"text":["\\C[27]Boobs and Nipples Sensitivity increases based on Boobs Desire."]
+"text":["\\C[27]La sensibilidad de los pechos y pezones aumenta según el 'Deseo pechos'."]
 },
 
 "peffect_clitsensitivity":{
-"text":["\\C[1]Clitoris Sensitivity increased."]
+"text":["\\C[1]Aumento de la sensibilidad del clítoris."]
 },
 "peffect_clitsensitivity_clit_people_battle":{
-"text":["\\C[27]Clitoris Sensitivity increases from every time clit gets pinched by new hands in the same battle."]
+"text":["\\C[27]La sensibilidad del clítoris aumenta cada vez que es pellizcado por nuevas manos en la misma batalla."]
 },
 
 "peffect_pussysensitivity":{
-"text":["\\C[1]Pussy Sensitivity increased."]
+"text":["\\C[1]Sensibilidad vaginal aumento."]
 },
 "peffect_pussysensitivity_pussy_people_battle":{
-"text":["\\C[27]Pussy Sensitivity increases from every time pussy gets fingered by new hands in the same battle."]
+"text":["\\C[27]La sensibilidad vaginal aumenta cada vez que es tocado por nuevas manos en la misma batalla."]
 },
 "peffect_pussysensitivity_pussy_count_day":{
-"text":["\\C[27]Pussy Sensitivity increases from every time pussy gets fingered in the same day."]
+"text":["\\C[27]La sensibilidad vaginal aumenta cada vez que es tocado en el mismo día."]
 },
 "peffect_pussysensitivity_psex_people_day":{
-"text":["\\C[27]Pussy Sensitivity increases every time pussy gets fucked by a new cock in the same day."]
+"text":["\\C[27]La sensibilidad vaginal aumenta cada vez que una nueva polla entra en el mismo día."]
 },
 "peffect_pussysensitivity_pussycreampie":{
-"text":["\\C[1]Pussy Sensitivity increased when there is cum inside pussy."]
+"text":["\\C[1]La sensibilidad vaginal aumenta cuando hay semen dentro."]
 },
 
 "peffect_clitandpussysensitivity":{
-"text":["\\C[1]Clitoris and Pussy Sensitivity increased."]
+"text":["\\C[1]Aumento de la sensibilidad del clítoris y la vagina."]
 },
 
 "peffect_pussycreampiesensitivity":{
-"text":["\\C[1]Pussy Creampie Sensitivity increased."]
+"text":["\\C[1]Sensibilidad del creampie en la vagina aumento."]
 },
 "peffect_pussycreampiesensitivity_talkpussy_day":{
-"text":["\\C[27]Pussy Creampie Sensitivity increases every time someone new talks degradingly about Karryn's pussy in the same day."]
+"text":["\\C[27]Sensibilidad al creampie en la vagina aumenta cada vez que alguien nuevo habla sobre la vagina de Karryn en el mismo día."]
 },
 "peffect_pussycreampiesensitivity_psex_count_day":{
-"text":["\\C[27]Pussy Creampie Sensitivity increases every time pussy gets fucked by a cock in the day."]
+"text":["\\C[27]Sensibilidad al creampie en la vagina aumenta cada vez que una polla entra durante el día."]
 },
 "peffect_pussycreampiesensitivity_pussycreampie_battle":{
-"text":["\\C[27]Pussy Creampie Sensitivity increases from every drop of cum ejaculated into pussy in the same battle."]
+"text":["\\C[27]Sensibilidad del creampie en la vagina aumenta con cada gota de semen eyaculado en la vagina en la misma batalla."]
 },
 "peffect_pussycreampiesensitivity_pussycreampie_day":{
-"text":["\\C[27]Pussy Creampie Sensitivity increases from every drop of cum ejaculated into pussy in the same day."]
+"text":["\\C[27]Sensibilidad del creampie en la vagina aumenta con cada gota de semen eyaculado en la vagina en el mismo día."]
 },
 
 "peffect_clitpussycreampiesensitivity":{
-"text":["\\C[1]Pussy, Clit and Pussy Creampie Sensitivity increased."]
+"text":["\\C[1]Aumento de la sensibilidad de la vagina, clítoris y el creampie en la vagina."]
 },
 "peffect_clitpussycreampiesensitivity_pussydesire":{
-"text":["\\C[27]Pussy, Clit and Pussy Creampie Sensitivity increases based on Pussy Desire."]
+"text":["\\C[27]La sensibilidad de la vagina, clítoris y el creampie en la vagina aumenta según el deseo vagina."]
 },
 
 "peffect_buttsensitivity":{
-"text":["\\C[1]Butt Sensitivity increased."]
+"text":["\\C[1]Sensibilidad del culo aumento."]
 },
 "peffect_buttsensitivity_butt_people_battle":{
-"text":["\\C[27]Butt Sensitivity increases from every time butt gets petted by new hands in the same battle."]
+"text":["\\C[27]La sensibilidad del culo aumenta cada vez que nuevas manos tocan el culo en la misma batalla."]
 },
 
 "peffect_buttspanksensitivity":{
-"text":["\\C[1]Butt Spanking Sensitivity increased."]
+"text":["\\C[1]Aumento de la sensibilidad a los azote en el culo."]
 },
 "peffect_buttspanksensitivity_buttspank_count_battle":{
-"text":["\\C[27]Butt Spanking Sensitivity increases from every time butt gets spanked in the same battle."]
+"text":["\\C[27]La sensibilidad a los azotes en el culo aumenta cada vez que es golpeado en la misma batalla."]
 },
 "peffect_buttspanksensitivity_cockiness":{
-"text":["\\C[27]Butt Spanking Sensitivity increases based on Cockiness."]
+"text":["\\C[27]La sensibilidad a los azotes en el culo aumenta según la arrogancia."]
 },
 
 "peffect_analsensitivity":{
-"text":["\\C[1]Anal Sensitivity increased."]
+"text":["\\C[1]Sensibilidad anal aumento."]
 },
 "peffect_analsensitivity_anal_people_battle":{
-"text":["\\C[27]Anal Sensitivity increases from every time anus gets fingered by new hands in the same battle."]
+"text":["\\C[27]Sensibilidad anal aumenta cada vez que nuevas manos tocan el ano en la misma batalla."]
 },
 "peffect_analsensitivity_anal_count_day":{
-"text":["\\C[27]Anal Sensitivity increases from every time anus gets fingered in the same day."]
+"text":["\\C[27]Sensibilidad anal aumenta cada vez que se toca el ano en el mismo día."]
 },
 "peffect_analsensitivity_asex_people_day":{
-"text":["\\C[27]Anal Sensitivity increases every time anus gets fucked by a new cock in the same day."]
+"text":["\\C[27]Sensibilidad anal aumenta cada vez que una nueva polla entra en el mismo día."]
 },
 "peffect_analsensitivity_analcreampie":{
-"text":["\\C[1]Anal Sensitivity increased when there is cum inside ass."]
+"text":["\\C[1]Sensibilidad anal aumenta cuando hay semen dentro del culo."]
 },
 "peffect_analsensitivity_toya_battle":{
-"text":["\\C[1]Anal Sensitivity increases every time anal beads get used in the same battle."]
+"text":["\\C[1]Sensibilidad anal aumenta cada vez que se utilizan bolas anales en la misma batalla."]
 },
 
 "peffect_buttandanalsensitivity":{
-"text":["\\C[1]Butt and Anal Sensitivity increased."]
+"text":["\\C[1]Sensibilidad del culo y anal aumentado."]
 },
 
 "peffect_analcreampiesensitivity":{
-"text":["\\C[1]Anal Creampie Sensitivity increased."]
+"text":["\\C[1]Sensibilidad al creampie anal aumento."]
 },
 "peffect_analcreampiesensitivity_cockiness":{
-"text":["\\C[27]Anal Creampie Sensitivity increases based on Cockiness."]
+"text":["\\C[27]Sensibilidad al creampie anal aumenta según la arrogancia."]
 },
 "peffect_analcreampiesensitivity_talkbutt_day":{
-"text":["\\C[27]Anal Creampie Sensitivity increases every time someone new talks degradingly about Karryn's butt in the same day."]
+"text":["\\C[27]Sensibilidad al creampie anal aumenta cada vez que alguien nuevo habla sobre el trasero de Karryn en el mismo día."]
 },
 "peffect_analcreampiesensitivity_asex_count_day":{
-"text":["\\C[27]Anal Creampie Sensitivity increases every time anus gets fucked by a cock in the same day."]
+"text":["\\C[27]Sensibilidad al creampie anal aumenta cada vez que una polla entra en el mismo día."]
 },
 "peffect_analcreampiesensitivity_analcreampie_day":{
-"text":["\\C[27]Anal Creampie Sensitivity increases from every drop of cum ejaculated inside ass in the same day."]
+"text":["\\C[27]Sensibilidad al creampie anal aumenta con cada gota de semen eyaculado dentro en el mismo día."]
 },
 
 "peffect_buttanalcreampiesensitivity":{
-"text":["\\C[1]Anal, Butt and Anal Creampie Sensitivity increases based on Butt Desire."]
+"text":["\\C[1]Sensibilidad anal, culo y creampie anal aumenta según el deseo culo."]
 },
 "peffect_buttanalcreampiesensitivity_buttdesire":{
-"text":["\\C[27]Anal, Butt and Anal Creampie Sensitivity increases based on Butt Desire."]
+"text":["\\C[27]Sensibilidad anal, culo y creampie anal aumenta según el deseo culo."]
 },
 
 "peffect_pussyandanalsensitivity_doggy":{
-"text":["\\C[1]Pussy and Anal Sensitivity increased while fucked from behind."]
+"text":["\\C[1]Sensibilidad anal y vaginal aumentá mientras es cogida por detrás."]
 },
 "peffect_pussyandanalcreampiesensitivity_doggy":{
-"text":["\\C[1]Pussy Creampie and Anal Creampie Sensitivity increased while fucked from behind."]
+"text":["\\C[1]Sensibilidad de Creampie vaginal y Creampie anal aumentó mientras se la cogen por detrás."]
 },
 
 "peffect_handsensitivity":{
-"text":["\\C[1]Hand Sensitivity increased."]
+"text":["\\C[1]Sensibilidad en manos aumento."]
 },
 "peffect_handsensitivity_hj_people_battle":{
-"text":["\\C[27]Hand Sensitivity increases from every handjob given to a new cock in the same battle."]
+"text":["\\C[27]Sensibilidad en manos aumenta con cada paja que le da a una nueva polla en la misma batalla."]
 },
 
 "peffect_feetsensitivity":{
-"text":["\\C[1]Feet Sensitivity increased."]
+"text":["\\C[1]Sensibilidad de pies aumento."]
 },
 "peffect_feetsensitivity_fj_people_battle":{
-"text":["\\C[27]Feet Sensitivity increased from every footjob given to a new cock in the same battle."]
+"text":["\\C[27]Sensibilidad de pies aumentó con cada footjob dado a una nueva polla en la misma batalla."]
 },
 
 "peffect_toysensitivity":{
-"text":["\\C[1]Toys Sensitivity increased."]
+"text":["\\C[1]Sensibilidad a os juguetes aumenta."]
 },
 "peffect_toysensitivity_toy_battle":{
-"text":["\\C[27]Toys Sensitivity increases from every time a toy was used in the same battle."]
+"text":["\\C[27]Sensibilidad de los juguetes aumenta cada vez que se usa un juguete en la misma batalla."]
 },
 
 "peffect_toy_lose_orgasm":{
-"text":["\\C[27]Toys no longer get unattached from orgasms."]
+"text":["\\C[27]Los juguetes ya no se se salen tras orgasmo"]
 },
 
 "peffect_talksensitivity":{
-"text":["\\C[1]Talk Sensitivity increased."]
+"text":["\\C[1]Sensibilidad al habla aumento."]
 },
 "peffect_talksensitivity_major":{
-"text":["\\C[27]Talk Sensitivity increased."]
+"text":["\\C[27]Sensibilidad al habla aumento."]
 },
 "peffect_talksensitivity_masochism":{
-"text":["\\C[27]Talk Sensitivity increases based on Masochism Level."]
+"text":["\\C[27]La sensibilidad al habla aumenta según el nivel de masoquismo."]
 },
 
 "peffect_sightsensitivity":{
-"text":["\\C[1]Sight Sensitivity increased."]
+"text":["\\C[1]Sensibilidad de observacion aumento."]
 },
 "peffect_sightsensitivity_major":{
-"text":["\\C[27]Sight Sensitivity increased."]
+"text":["\\C[27]Sensibilidad de observacion aumento."]
 },
 "peffect_sightsensitivity_nude":{
-"text":["\\C[1]Sight Sensitivity increased while nude."]
+"text":["\\C[1]Sensibilidad de observacion aumentó mientras este desnuda."]
 },
 "peffect_sightsensitivity_nopan":{
-"text":["\\C[1]Sight Sensitivity increased while nude."]
+"text":["\\C[1]Sensibilidad de observacion aumentó mientras este desnuda."]
 },
 "peffect_sightsensitivity_nude_charm":{
-"text":["\\C[27]Sight Sensitivity increased while not wearing any panties."]
+"text":["\\C[27]Sensibilidad de observacion aumentó al no llevar bragas."]
 },
 "peffect_sightsensitivity_sight_people_day":{
-"text":["\\C[27]Sight Sensitivity increases every time someone new stares in the same day."]
+"text":["\\C[27]Sensibilidad de observacion aumenta cada vez que alguien nuevo mira en el mismo día."]
 },
 "peffect_sightsensitivity_sight_condom_day":{
-"text":["\\C[27]Sight Sensitivity increases from each condom worn during the stripper side job in the same day."]
+"text":["\\C[27]Sensibilidad de observacion aumenta con cada condón usado durante el trabajo de stripper en el mismo día."]
 },
 "peffect_sightsensitivity_sightboobs_people_day":{
-"text":["\\C[27]Sight Sensitivity increases every time someone new stares at Karryn's chest in the same day."]
+"text":["\\C[27]Sensibilidad de observacion aumenta cada vez que alguien nuevo mira el pecho de Karryn en el mismo día."]
 },
 
 "peffect_talkskill_critical":{
-"text":["\\C[27]Can now take critical damage from someone degradingly talking."]
+"text":["\\C[27]Ahora puede recibir daño crítico de alguien que habla degradantemente."]
 },
 "peffect_sightskill_critical":{
-"text":["\\C[27]Can now take critical damage from someone staring."]
+"text":["\\C[27]Ahora puede recibir daño crítico de alguien que mira fijamente."]
 },
 
 "peffect_kisslvlup":{
-"text":["\\C[1]Kiss Level Up!"]
+"text":["\\C[1]¡Sube el nivel de los Besos!"]
 },
 "peffect_kissunlocked":{
-"text":["\\C[27]New Sex Skill Unlocked: Kiss."]
+"text":["\\C[27]Nueva habilidad sexual desbloqueada: beso."]
 },
 "peffect_kissdmgdown_swallow_battle":{
-"text":["\\C[27]Kiss damage to others decreases for every drop of semen swallowed in the same battle."]
+"text":["\\C[27]El daño del besar a otros disminuye por cada gota de semen tragada en la misma batalla."]
 },
 "peffect_kiss_debuff":{
-"text":["\\C[27]Kiss skill's debuff effect on enemies improved."]
+"text":["\\C[27]Efecto negativo de la habilidad Besar en los enemigos aumentado"]
 },
 "peffect_kissdmgup_mouthdesire":{
-"text":["\\C[27]Kiss damage to others increases based on Mouth Desire."]
+"text":["\\C[27]El daño de Besar a otros aumenta según el deseo oral."]
 },
 "peffect_kissdmgdown_rj_people_battle":{
-"text":["\\C[27]Kiss damage to others decreases from every rimjob given to a new ass in the same battle."]
+"text":["\\C[27]El daño de Besar a los demás disminuye con cada beso negro dado a un alguien en la misma batalla."]
 },
 
 
 "peffect_bjlvlup":{
-"text":["\\C[1]Blowjob Level Up!"]
+"text":["\\C[1]¡Sube el nivel de Mamada!"]
 },
 "peffect_bjunlocked":{
-"text":["\\C[27]New Sex Skill Unlocked: Blowjob."]
+"text":["\\C[27]Nueva habilidad sexual desbloqueado: Mamada."]
 },
 "peffect_bjdmgdown_highmind":{
-"text":["\\C[27]Blowjob damage to others decreases when Karryn's Mind is higher than theirs."]
+"text":["\\C[27]El daño de mamada a otros disminuye cuando la mente de Karryn es más alta que la de ellos."]
 },
 "peffect_bjalwaysfirst":{
-"text":["\\C[27]Blowjob skill always goes first."]
+"text":["\\C[27]La habilidad de mamar siempre va primero."]
 },
 "peffect_bjdmgup_swallow":{
-"text":["\\C[27]Blowjob damage to others is increased until cum is swallowed in the same battle."]
+"text":["\\C[27]El daño de la mamada a los demás aumenta hasta que trage el semen en la misma batalla."]
 },
 "peffect_bjdmgup_mouthdesire":{
-"text":["\\C[27]Blowjob damage to others increases based on Mouth Desire."]
+"text":["\\C[27]El daño de la mamada a otros aumenta según el deseo oral."]
 },
 "peffect_bjdmgup_firstbattle":{
-"text":["\\C[27]Blowjob damage to the first cock in every battle is increased."]
+"text":["\\C[27]Aumenta el daño de la mamada por la primera polla en cada batalla."]
 },
 "peffect_bjdmgup_cockdesire":{
-"text":["\\C[27]Blowjob damage to others increases based on Cock Desire."]
+"text":["\\C[27]El daño de la mamada a otros aumenta según el deseo de polla."]
 },
 
 "peffect_hjlvlup":{
-"text":["\\C[1]Handjob Level Up!"]
+"text":["\\C[1]¡Sube el nivel de las Paja!"]
 },
 "peffect_hjunlocked":{
-"text":["\\C[27]New Sex Skill Unlocked: Handjob."]
+"text":["\\C[27]Nueva habilidad sexual desbloqueada: Paja."]
 },
 "peffect_hjalwaysfirst":{
-"text":["\\C[27]Handjob skill always goes first."]
+"text":["\\C[27]Las habilidades de masturbacion siempre van primero"]
 },
 "peffect_hjdmgdown_highagi":{
-"text":["\\C[27]Handjob damage to others decreases when Karryn's Agility is higher than theirs."]
+"text":["\\C[27]El daño por paja a otros disminuye cuando la agilidad de Karryn es mayor que la de ellos."]
 },
 "peffect_hjdmgdown_creampie":{
-"text":["\\C[27]Handjob damage to others decreased when creampied in the same battle."]
+"text":["\\C[27]El daño por paja a otros disminuye cuando se corrieron en la misma batalla."]
 },
 "peffect_hjdmgup_cockdesire":{
-"text":["\\C[27]Handjob damage to others increases based on Cock Desire."]
+"text":["\\C[27]El daño por paja a otros aumenta según el deseo polla."]
 },
 "peffect_hjdmgup_sadism":{
-"text":["\\C[27]Handjob damage to others increases based on Sadism Level."]
+"text":["\\C[27]El daño porpaja a otros aumenta según el nivel de sadismo."]
 },
 "peffect_hjdmgup_cockiness":{
-"text":["\\C[27]Handjob damage to others increases based on Cockiness."]
+"text":["\\C[27]El daño por paja a otros aumenta según la arrogancia."]
 },
 
 "peffect_cockpetlvlup":{
-"text":["\\C[1]Petting Level Up!"]
+"text":["\\C[1]¡Sube el nivel de las caricias!"]
 },
 "peffect_cockpetunlocked":{
-"text":["\\C[27]New Sex Skill Unlocked: Pet Cock."]
+"text":["\\C[27]Nueva habilidad sexual desbloqueada: Polla mascota."]
 },
 
 "peffect_tjlvlup":{
-"text":["\\C[1]Titjob Level Up!"]
+"text":["\\C[1]¡Sube el nivel de Titjob!"]
 },
 "peffect_tjunlocked":{
-"text":["\\C[27]New Sex Skill Unlocked: Titjob."]
+"text":["\\C[27]Nueva habilidad sexual desbloqueadad: Titjob."]
 },
 "peffect_tjdmgdown_lowdex":{
-"text":["\\C[27]Titjob damage to others decreases when Karryn's Dexterity is lower than theirs."]
+"text":["\\C[27]El daño de Titjob a otros disminuye cuando la Destreza de Karryn es más baja que la de ellos."]
 },
 "peffect_tjdmgup_boobsbukkake":{
-"text":["\\C[27]Titjob damage to others increased while there is cum on the boobs."]
+"text":["\\C[27]El daño de Titjobs a otros aumenta mientras haya semen en las tetas."]
 },
 "peffect_tjdmgup_boobsdesire":{
-"text":["\\C[27]Titjob damage to others increases based on Boobs Desire."]
+"text":["\\C[27]El daño de Titjobs a otros aumenta según el deseo tetas."]
 },
 "peffect_tjdmgup_cockdesire":{
-"text":["\\C[27]Titjob damage to others increases based on Cock Desire."]
+"text":["\\C[27]El daño de Titjobs a otros aumenta según el deseo de verga."]
 },
 
 "peffect_psexlvlup":{
-"text":["\\C[1]Vaginal Sex Level Up!"]
+"text":["\\C[1]¡Sube el nivel de sexo vaginal!"]
 },
 "peffect_psexunlocked":{
-"text":["\\C[27]New Sex Skill Unlocked: Vaginal Sex."]
+"text":["\\C[27]Nueva habilidad sexual desbloqueada Sexo Vaginal."]
 },
 "peffect_psexdmgdown_highend":{
-"text":["\\C[27]Vaginal Sex damage to others decreases when Karryn's Endurance is higher than theirs."]
+"text":["\\C[27]El daño del sexo vaginal a otras personas disminuye cuando la resistencia de Karryn es más alta que la de ellas."]
 },
 "peffect_psexdmgdown_notcowgirl_people_battle":{
-"text":["\\C[27]Vaginal Sex damage to others decreases when not in a cowgirl position from every new cock fucking pussy in the same battle."]
+"text":["\\C[27]El daño por sexo vaginal disminuye cuando no es cogida en posicion vaquera de una nueva polla en la misma batalla"]
 },
 "peffect_psexdmgup_pussydesire":{
-"text":["\\C[27]Vaginal Sex damage to others increases based on Pussy Desire."]
+"text":["\\C[27]El daño del sexo vaginal a otros aumenta según el deseo vagina."]
 },
 "peffect_psexdmgup_cockdesire":{
-"text":["\\C[27]Vaginal Sex damage to others increases based on Cock Desire."]
+"text":["\\C[27]El daño del sexo vaginal a otros aumenta según el deseo de polla."]
 },
 "peffect_psexdmgup_lowend":{
-"text":["\\C[27]Vaginal Sex damage to others increases when Karryn's Endurance is lower than theirs."]
+"text":["\\C[27]El daño del sexo vaginal a los demás aumenta cuando la resistencia de Karryn es más baja que la de ellos."]
 },
 
 "peffect_asexlvlup":{
-"text":["\\C[1]Anal Sex Level Up!"]
+"text":["\\C[1]¡Sube el nivel de sexo anal!"]
 },
 "peffect_asexunlocked":{
-"text":["\\C[27]New Sex Skill Unlocked: Anal Sex."]
+"text":["\\C[27]Nueva habilidad sexual desbloqueada: Sexo anal."]
 },
 "peffect_asexdmgdown_lowstr":{
-"text":["\\C[27]Anal Sex damage to others decreases when Karryn's Strength is lower than theirs."]
+"text":["\\C[27]El daño del Sexo Anal a otros disminuye cuando la Fuerza de Karryn es más baja que la de ellos."]
 },
 "peffect_asexdmgdown_asex_spank":{
-"text":["\\C[27]Anal Sex damage to others decreases every time anus gets fucked in the same battle but resets when butt gets spanked."]
+"text":["\\C[27]El daño del sexo anal a los demás disminuye cada vez que es cogida por el ano en la misma batalla, pero se reinicia al ser azota."]
 },
 "peffect_asexdmgup_buttdesire":{
-"text":["\\C[27]Anal Sex damage to others increases based on Butt Desire."]
+"text":["\\C[27]El daño del sexo anal a otros aumenta según deseo culo."]
 },
 "peffect_asexdmgup_cockdesire":{
-"text":["\\C[27]Anal Sex damage to others increases based on Cock Desire."]
+"text":["\\C[27]El daño del sexo anal a otros aumenta según el deseo de polla."]
 },
 "peffect_asexdmgup_highstr":{
-"text":["\\C[27]Anal Sex damage to others increases when Karryn's Strength is higher than theirs."]
+"text":["\\C[27]El daño del Sexo Anal a otros aumenta cuando la Fuerza de Karryn es más alta que la de ellos."]
 },
 
 
 "peffect_onanilvlup":{
-"text":["\\C[1]Masturbation Level Up!"]
+"text":["\\C[1]¡Sube el nivel de masturbación!"]
 },
 
 "peffect_masochismlvlup":{
-"text":["\\C[1]Masochism Level Up!"]
+"text":["\\C[1]Subir de nivel de masoquismo!"]
 },
 "peffect_masochism_confident":{
-"text":["\\C[27]Masochism increased while Confident."]
+"text":["\\C[27]El masoquismo aumentó mientras estaba Confiada."]
 },
 "peffect_masochism_cockiness":{
-"text":["\\C[27]Masochism increases based on Cockiness."]
+"text":["\\C[27]El masoquismo aumenta en función de la arrogancia.."]
 },
 "peffect_masochism_cockdesire":{
-"text":["\\C[27]Masochism increases based on Cock Desire."]
+"text":["\\C[27]El masoquismo aumenta en función del deseo de penes."]
 },
 "peffect_masochism_thug":{
-"text":["\\C[27]Masochism increased while a thug is present."]
+"text":["\\C[27]El masoquismo aumentó mientras un matón está presente."]
 },
 "peffect_masochism_rogue":{
-"text":["\\C[27]Masochism increased while a rogue is present."]
+"text":["\\C[27]El masoquismo aumenta mientras un pícaro está presente."]
 },
 
 "peffect_sadismlvlup":{
-"text":["\\C[1]Sadism Level Up!"]
+"text":["\\C[1]Sube el nivel de sadismo!"]
 },
 "peffect_denyexternalejunlocked":{
-"text":["\\C[27]New Willpower Skill Unlocked: Deny External Ejaculations."]
+"text":["\\C[27]Nueva habilidad de ""Voluntad"" desbloqueada: Denegar eyaculaciones externas."]
 },
 "peffect_denyinternalejunlocked":{
-"text":["\\C[27]New Willpower Skill Unlocked: Deny Internal Ejaculations."]
+"text":["\\C[27]Nueva habilidad de ""Voluntad"" desbloqueada: negar eyaculaciones internas."]
 },
 "peffect_sadism_confident":{
-"text":["\\C[27]Sadism increased while Confident."]
+"text":["\\C[27]El sadismo aumentó mientras estabas confiado."]
 },
 "peffect_sadism_cockiness":{
-"text":["\\C[27]Sadism increases based on Cockiness."]
+"text":["\\C[27]El sadismo aumenta en función de la arrogancia."]
 },
 "peffect_sadism_cockdesire":{
-"text":["\\C[27]Sadism increases based on Cock Desire."]
+"text":["\\C[27]El sadismo aumenta según el deseo de verga."]
 },
 "peffect_sadism_nerd":{
-"text":["\\C[27]Sadism increased while a nerd is present."]
+"text":["\\C[27]El sadismo aumentó mientras un nerd está presente.."]
 },
 
 "peffect_masosado_cockiness":{
-"text":["\\C[27]Masochism and Sadism increases based on Cockiness."]
+"text":["\\C[27]El Masoquismo y el Sadismo aumentan en base a la Arrogancia."]
 },
 
 "peffect_tauntunlocked":{
-"text":["\\C[27]New Energy Skill Unlocked: Taunt."]
+"text":["\\C[27]Nueva habilidad de energía desbloqueada: Burla."]
 },
 "peffect_taunt_angry_cockiness":{
-"text":["\\C[27]Chance of taunted enemies getting Angry increases based on Cockiness."]
+"text":["\\C[27]La probabilidad de que los enemigos burlados se enojen aumenta según la arrogancia."]
 },
 "peffect_taunt_selfdisarm":{
-"text":["\\C[27]Self disarm for one turn after using Taunt."]
+"text":["\\C[27]Autodesarmarse por un turno después de usar Burla."]
 },
 
 "peffect_flauntunlocked":{
-"text":["\\C[27]New Energy Skill Unlocked: Flaunt."]
+"text":["\\C[27]Nueva habilidad de energía desbloqueada: Flaunt."]
 },
 
 "peffect_fjlvlup":{
-"text":["\\C[1]Footjob Level Up!"]
+"text":["\\C[1]Sube el nivel de Footjob!"]
 },
 "peffect_fjunlocked":{
-"text":["\\C[27]New Sex Skill Unlocked: Footjob."]
+"text":["\\C[27]Nueva habilidad sexual desbloqueada: Footjob."]
 },
 "peffect_fjdmgdown_cockiness":{
-"text":["\\C[27]Footjob damage to others decreases when Cockiness is low."]
+"text":["\\C[27]El daño del Footjob a los demás disminuye cuando la arrogancia es baja."]
 },
 "peffect_fjdmgdown_lowstr":{
-"text":["\\C[27]Footjob damage to others decreases when Karryn's Strength is lower than theirs."]
+"text":["\\C[27]El daño de Footjob a otros disminuye cuando la Fuerza de Karryn es más baja que la de ellos."]
 },
 "peffect_fjdmgup_sadism":{
-"text":["\\C[27]Footjob damage to others increases based on Sadism Level."]
+"text":["\\C[27]El daño de Footjob a otros aumenta según el nivel de sadismo."]
 },
 "peffect_fjdmgup_cockiness":{
-"text":["\\C[27]Footjob damage to others increases while Cockiness is high."]
+"text":["\\C[27]El daño del Footjob a otros aumenta mientras que la arrogancia es alta."]
 },
 "peffect_fjdmgup_highstr":{
-"text":["\\C[27]Footjob damage to others increases when Karryn's Strength is higher than theirs."]
+"text":["\\C[27]El daño de Footjob a otros aumenta cuando la Fuerza de Karryn es más alta que la de ellos."]
 },
 
 "peffect_rjlvlup":{
-"text":["\\C[1]Rimjob Level Up!"]
+"text":["\\C[1]Sube el nivel de beso negro!"]
 },
 "peffect_rjunlocked":{
-"text":["\\C[27]New Sex Skill Unlocked: Rimjob."]
+"text":["\\C[27]Nueva habilidad sexual desbloqueada: beso negro."]
 },
 "peffect_rjdmgdown_cockiness":{
-"text":["\\C[27]Rimjob damage to others decreases when Cockiness is high."]
+"text":["\\C[27]El daño del beso negro a otros disminuye cuando la arrogancia es alta."]
 },
 "peffect_rjdmgdown_highmind":{
-"text":["\\C[27]Rimjob damage to others decreases when Karryn's Mind is higher than theirs."]
+"text":["\\C[27]El daño de beso negro a otros disminuye cuando la mente de Karryn es más alta que la de ellos."]
 },
 "peffect_rjdmgup_masochism":{
-"text":["\\C[27]Rimjob damage to others increases based on Masochism Level."]
+"text":["\\C[27]El daño de beso negro a otros aumenta según el nivel de masoquismo."]
 },
 "peffect_rjdmgup_cockiness":{
-"text":["\\C[27]Rimjob damage to others increases when Cockiness is low."]
+"text":["\\C[27]El daño de beso negro a otros aumenta cuando la arrogancia es baja."]
 },
 "peffect_rjdmgup_lowmind":{
-"text":["\\C[27]Rimjob damage to others increases when Karryn's Mind is lower than theirs."]
+"text":["\\C[27]El daño de beso negro a otros aumenta cuando la mente de Karryn es más baja que la de ellos."]
 },
 
 "peffect_cockstareunlocked":{
-"text":["\\C[27]New Sex Skill Unlocked: Cock Stare."]
+"text":["\\C[27]Nueva habilidad sexual desbloqueada: Observar la polla."]
 },
 "peffect_cockstare_improve":{
-"text":["\\C[27]Cock Stare's effects are improved."]
+"text":["\\C[27]Se han mejorado los efectos de Observar la polla."]
 },
 "peffect_cockstare_cooldown":{
-"text":["\\C[27]Cock Stare's cooldown is shorter."]
+"text":["\\C[27]El tiempo de reutilización de Observar la polla es más corto."]
 },
 
 "peffect_cockiness_subdueortaunt":{
-"text":["\\C[27]Cockiness rises for every enemy subdued or taunted."]
+"text":["\\C[27]La arrogancia aumenta para cada enemigo sometido o burlado."]
 },
 "peffect_cockiness_buffs_confident":{
-"text":["\\C[27]Cockiness increases Confident's buffs."]
+"text":["\\C[27]La arrogancia aumenta los beneficios de Confidente."]
 },
 "peffect_cockiness_escapeordefeat":{
-"text":["\\C[27]Cockiness decreases when running away. Cockiness resets when defeated."]
+"text":["\\C[27]La arrogancia disminuye cuando huyes, la arrogancia se reinicia cuando eres derrotado."]
 },
 "peffect_cockiness_taunt":{
-"text":["\\C[1]Cockiness rises more while using Taunt."]
+"text":["\\C[1]La arrogancia aumenta más al usar Burla."]
 },
 "peffect_cockiness_cockkick":{
-"text":["\\C[1]Cockiness rises from using Cock Kick."]
+"text":["\\C[1]La arrogancia surge del uso de patada a la polla."]
 },
 
 "peffect_confident_start":{
-"text":["\\C[27]Chance to start battle Confident increased."]
+"text":["\\C[27]Probabilidad de comenzar la batalla Confiado aumentado."]
 },
 "peffect_confident_start_cockiness":{
-"text":["\\C[27]Chance to start battle Confident increases based on Cockiness."]
+"text":["\\C[27]Oportunidad de comenzar la batalla Aumenta la confianza en función de la arrogancia."]
 },
 
 
 "peffect_cockkickunlocked":{
-"text":["\\C[27]New Attack Skill Unlocked: Cock Kick."]
+"text":["\\C[27]Nueva habilidad de ataque desbloqueada: patada a la polla."]
 },
 "peffect_cockkick_angry_battle":{
-"text":["\\C[27]Chance of all enemies getting angry increases from every cock kicked in the same battle."]
+"text":["\\C[27]La probabilidad de que todos los enemigos se enfaden aumenta con cada patada en la misma batalla."]
 },
 "peffect_cockkick_erectbonus":{
-"text":["\\C[27]Critical Rate and Critical Damage increased while using Cock Kick on erect targets."]
+"text":["\\C[27]La tasa crítica y el daño crítico aumentaron al usar patada a la polla en objetivos erectos."]
 },
 
 "peffect_lightkickunlocked":{
-"text":["\\C[27]New Attack Skill Unlocked: Light Kick."]
+"text":["\\C[27]Nueva habilidad de ataque desbloqueada: patada ligera."]
 },
 "peffect_kickcounter_fullyclothed":{
-"text":["\\C[27]Enemy sexual counterattacks can be received even while fully clothed."]
+"text":["\\C[27]Los contraataques sexuales del enemigos se pueden recibir incluso estando completamente vestida."]
 },
 
 "peffect_ejvolume":{
-"text":["\\C[1]Men will ejaculate more when cumming."]
+"text":["\\C[1]Los hombres eyacularán más cuando se corran."]
 },
 "peffect_ejvolume_swallow":{
-"text":["\\C[1]Men will ejaculate more when cumming into Karryn's mouth."]
+"text":["\\C[1]Los hombres eyacularán más cuando se corran en la boca de Karryn."]
 },
 "peffect_ejvolume_bukkake":{
-"text":["\\C[1]Men will ejaculate more when cumming on Karryn."]
+"text":["\\C[1]Los hombres eyacularán más cuando se corren sobre Karryn."]
 },
 "peffect_ejvolume_pussycreampie":{
-"text":["\\C[1]Men will ejaculate more when cumming into Karryn's pussy."]
+"text":["\\C[1]Los hombres eyacularán más cuando se corren en la vagina de Karryn."]
 },
 "peffect_ejvolume_analcreampie":{
-"text":["\\C[1]Men will ejaculate more when cumming into Karryn's anus."]
+"text":["\\C[1]Los hombres eyacularán más cuando se corren en el ano de Karryn."]
 },
 "peffect_ejvolume_virgin":{
-"text":["\\C[1]Virgins will ejaculate more."]
+"text":["\\C[1]Los vírgenes eyacularán más."]
 },
 "peffect_ejvolume_guard":{
-"text":["\\C[1]Guards will ejaculate more."]
+"text":["\\C[1]Los guardias eyacularán más."]
 },
 "peffect_ejvolume_nerd":{
-"text":["\\C[1]Nerds will ejaculate more."]
+"text":["\\C[1]Los nerds eyacularán más."]
 },
 "peffect_ejvolume_slime":{
-"text":["\\C[1]Slimes will ejaculate more."]
+"text":["\\C[1]Los Slimes eyacularán más."]
 },
 "peffect_ejvolume_orc":{
-"text":["\\C[1]Orcs will ejaculate more."]
+"text":["\\C[1]Los orcos eyacularán más."]
 },
 "peffect_ejvolume_werewolf":{
-"text":["\\C[1]Werewolves will ejaculate more."]
+"text":["\\C[1]Los hombres lobo eyacularán más."]
 },
 "peffect_ejvolume_yeti":{
-"text":["\\C[1]Yetis will ejaculate more."]
+"text":["\\C[1]Yetis eyaculará más."]
 },
 
 "peffect_ejstock_swallow":{
-"text":["\\C[27]Chance that men can ejaculate one more time after cumming into Karryn's mouth increased."]
+"text":["\\C[27]La posibilidad de que los hombres puedan eyacular una vez más después de correrse en la boca de Karryn aumentó."]
 },
 "peffect_ejstock_bukkake":{
-"text":["\\C[27]Chance that men can ejaculate one more time after cumming on Karryn increased."]
+"text":["\\C[27]La posibilidad de que los hombres puedan eyacular una vez más después de correrse sobre Karryn aumentó."]
 },
 "peffect_ejstock_virgin":{
-"text":["\\C[27]Virgins can ejaculate one more time."]
+"text":["\\C[27]Los vírgenes pueden eyacular una vez más."]
 },
 
 "peffect_clothingtempdmg_minor":{
-"text":["\\C[27]Accumulated damage to Warden Outfit's durability slightly increased until resting."]
+"text":["\\C[27]El daño acumulado a la durabilidad del uniforme de guardia aumenta ligeramente hasta que descansa."]
 },
 "peffect_clothingtempdmg_normal":{
-"text":["\\C[27]Accumulated damage to Warden Outfit's durability increased until resting."]
+"text":["\\C[27]El daño acumulado a la durabilidad de uniforme de guardia aumenta hasta que descansa."]
 },
 "peffect_clothingtempdmg_major":{
-"text":["\\C[27]Accumulated damage to Warden Outfit's durability greatly increased until resting."]
+"text":["\\C[27]El daño acumulado a la durabilidad del uniforme de guardia aumenta considerablemente hasta que descansa."]
 },
 
 "peffect_lostpanties":{
-"text":["\\C[27]Chance of panties being lost for the rest of the day after being pulled off increased."]
+"text":["\\C[27]Aumenta la probabilidad de que se pierdan las bragas durante el resto del día después de quitárselas."]
 },
 "peffect_lostpanties_rest":{
-"text":["\\C[27]Chance of panties being lost for the rest of the day after waking up increased."]
+"text":["\\C[27]Aumenta la probabilidad de que se pierdan las bragas durante el resto del día después de despertarse."]
 },
 
 "peffect_postbattle_bukkake":{
-"text":["\\C[27]Chance of cum on body parts remaining after battle increased."]
+"text":["\\C[27]Se incrementó la probabilidad de semen en las partes del cuerpo restantes después de la batalla."]
 },
 "peffect_postbattle_facial":{
-"text":["\\C[27]Chance of cum on face remaining after battle increased."]
+"text":["\\C[27]Aumenta la probabilidad de que quede semen en la cara después de la batalla."]
 },
 "peffect_postbattle_pussycreampie":{
-"text":["\\C[27]Chance of cum inside pussy remaining after battle increased."]
+"text":["\\C[27]Aumenta la posibilidad de que se corra dentro del coño después de la batalla."]
 },
 "peffect_postbattle_analcreampie":{
-"text":["\\C[27]Chance of cum inside anus remaining after battle increased."]
+"text":["\\C[27]Aumenta la probabilidad de que quede semen dentro del ano después de la batalla."]
 },
 
 
 "peffect_pierceresistdown_goblin":{
-"text":["\\C[27]Pierce Resist decreased while a goblin is present."]
+"text":["\\C[27]Pierce Resist disminuyó mientras un goblin está presente."]
 },
 "peffect_pierceresistdown_slime":{
-"text":["\\C[27]Pierce Resist decreased while a slime is present."]
+"text":["\\C[27]Pierce Resist disminuyó mientras hay un Slime presente."]
 },
 "peffect_bluntresistdown_thug":{
-"text":["\\C[27]Blunt Resist decreased while a thug is present."]
+"text":["\\C[27]Blunt Resist disminuyó mientras un matón está presente."]
 },
 "peffect_bluntresistdown_yeti":{
-"text":["\\C[27]Blunt Resist decreased while a yeti is present."]
+"text":["\\C[27]Blunt Resist disminuyó mientras un yeti está presente."]
 },
 "peffect_slashresistdown_rogue":{
-"text":["\\C[27]Slash Resist decreased while a rogue is present."]
+"text":["\\C[27]Slash Resisted reducido mientras un ladron está presente."]
 },
 "peffect_slashresistdown_werewolf":{
-"text":["\\C[27]Slash Resist decreased while a werewolf is present."]
+"text":["\\C[27]Slash resistido mientras un hombre lobo está presente."]
 },
 
 "peffect_talkresistdown":{
-"text":["\\C[1]Talk Resist decreased."]
+"text":["\\C[1]Disminución de la resistencia al habla."]
 },
 "peffect_talkresistdown_bj_people_battle":{
-"text":["\\C[27]Talk Resist decreases from every new cock sucked in the same battle."]
+"text":["\\C[27]Talk Resist disminuye con cada nueva polla chupada en la misma batalla."]
 },
 "peffect_talkresistdown_dp_day":{
-"text":["\\C[27]Talk Resist decreases from every double penetration in the same day."]
+"text":["\\C[27]Talk Resist disminuye con cada doble penetración en el mismo día."]
 },
 "peffect_talkresistdown_thug":{
-"text":["\\C[27]Talk Resist decreased while a thug is present."]
+"text":["\\C[27]Se ha reducido la resistencia a hablar mientras hay un matón presente."]
 },
 "peffect_talkresistdown_restrain":{
-"text":["\\C[1]Talk Resist decreased while not restrained in any way."]
+"text":["\\C[1]La resistencia al habla disminuyó mientras no estaba restringida de ninguna manera."]
 },
 
 "peffect_sightresistdown":{
-"text":["\\C[1]Sight Resist decreased."]
+"text":["\\C[1]Disminución de la resistencia a la vista."]
 },
 "peffect_sightresistdown_wet":{
-"text":["\\C[1]Sight Resist decreased while Wet."]
+"text":["\\C[1]La resistencia a la vista disminuyó mientras estaba mojada."]
 },
 "peffect_sightresistdown_talkboobs_people_battle":{
-"text":["\\C[27]Sight Resist decreases every time someone new talks degradingly about Karryn's boobs in the same battle."]
+"text":["\\C[27]Sight Resist disminuye cada vez que alguien nuevo habla de manera degradante sobre las tetas de Karryn en la misma batalla."]
 },
 "peffect_sightresistdown_sight_people_battle":{
-"text":["\\C[27]Sight Resist decreases every time someone new stares in the same battle."]
+"text":["\\C[27]Sight Resist disminuye cada vez que alguien nuevo mira en la misma batalla."]
 },
 "peffect_sightresistdown_tj_people_battle":{
-"text":["\\C[27]Sight Resist decreases from every new cock titty fucked in the same battle."]
+"text":["\\C[27]Sight Resist disminuye con cada nueva polla follada en la misma batalla."]
 },
 "peffect_sightresistdown_toy_battle":{
-"text":["\\C[27]Sight Resist decreases every time toys get used in the same battle."]
+"text":["\\C[27]Sight Resist disminuye cada vez que se usan juguetes en la misma batalla."]
 },
 "peffect_sightresistdown_rogue":{
-"text":["\\C[27]Sight Resist decreased while a rogue is present."]
+"text":["\\C[27]La resistencia a la vista se redujo mientras un pícaro está presente."]
 },
 
 "peffect_talkandsightresistdown":{
-"text":["\\C[1]Talk and Sight Resist decreased."]
+"text":["\\C[1]Talk and Sight Resist Se redujo"]
 },
 "peffect_talkandsightresistdown_bukkake":{
-"text":["\\C[27]Talk and Sight Resist decreases from every drop of cum covering the skin."]
+"text":["\\C[27]Talk and Sight Resist disminuye con cada gota de semen que cubre la piel."]
 },
 "peffect_talkandsightresistdown_cockiness":{
-"text":["\\C[27]Talk Resist decreases based on Cockiness."]
+"text":["\\C[27]Talk Resist disminuye según la arrogancia."]
 },
 "peffect_talkandsightresistdown_bb":{
-"text":["\\C[1]Talk and Sight Resist decreased while giving handjobs and blowjobs at the same time."]
+"text":["\\C[1]Hablar y Sight Resist disminuyó al dar handjobs y mamadas al mismo tiempo."]
 },
 "peffect_talkandsightresistdown_hobo":{
-"text":["\\C[27]Talk and Sight Resist decreased while there is a hobo present."]
+"text":["\\C[27]Se ha reducido la resistencia a hablar y a la vista cuando hay un vagabundo presente."]
 },
 "peffect_talkandsightresistdown_underground":{
-"text":["\\C[1]Talk and Sight Resist decreased while underground."]
+"text":["\\C[1]Hablar y la resistencia a la vista se redujeron mientras estaba bajo tierra."]
 },
 
 "peffect_stripresistdown":{
-"text":["\\C[1]Strip Resist decreased."]
+"text":["\\C[1]Se redujo la resistencia al desnudo."]
 },
 "peffect_stripresistdown_bukkake":{
-"text":["\\C[27]Strip Resist decreases from every drop of cum covering the skin."]
+"text":["\\C[27]resistencia al desnudo disminuye con cada gota de semen que cubre la piel."]
 },
 "peffect_stripresistdown_boobs_count_day":{
-"text":["\\C[27]Strip Resist decreases from every time breasts get groped in the same day."]
+"text":["\\C[27]resistencia al desnudo disminuye cada vez que se tocan los senos en el mismo día."]
 },
 "peffect_stripresistdown_clit_people_day":{
-"text":["\\C[27]Strip Resist decreases from every time clit gets pinched by new hands in the same day."]
+"text":["\\C[27]resistencia al desnudo disminuye cada vez que el clítoris es pellizcado por nuevas manos en el mismo día."]
 },
 
 "peffect_talkandstripresistdown_kickcounter_day":{
-"text":["\\C[1]Talk and Strip Resists decreases from every enemy sexual counterattack in the same day."]
+"text":["\\C[1]Resistencia deHablar y desnudarse Disminuye por cada contraataque sexual enemigo en el mismo día."]
 },
 
 "peffect_pettingresistdown":{
-"text":["\\C[1]Petting Resist decreased."]
+"text":["\\C[1]Se redujo la resistencia a las caricias."]
 },
 "peffect_pettingresistdown_nude":{
-"text":["\\C[1]Petting Resist decreased while nude."]
+"text":["\\C[1]La resistencia a las caricias disminuyó mientras este desnuda."]
 },
 "peffect_pettingresistdown_talk_people_battle":{
-"text":["\\C[27]Petting Resist decreases every time someone new talks degradingly in the same battle."]
+"text":["\\C[27]Resistencia a las caricias disminuye cada vez que alguien nuevo habla degradantemente en la misma batalla."]
 },
 "peffect_pettingresistdown_talkbutt_battle":{
-"text":["\\C[27]Petting Resist decreases every time someone new talks degradingly about Karryn's butt in the same battle."]
+"text":["\\C[27]Resistencia a las caricias disminuye cada vez que alguien nuevo habla degradantemente sobre el culo de Karryn en la misma batalla."]
 },
 "peffect_pettingresistdown_butt_count_day":{
-"text":["\\C[27]Petting Resist decreases from every time butt gets petted in the same day."]
+"text":["\\C[27]Resistencia a las caricias disminuye cada vez que se acaricia el trasero en el mismo día."]
 },
 "peffect_pettingresistdown_sightbutt_people_day":{
-"text":["\\C[27]Petting Resist decreases every time someone new stares at Karryn's behind in the same day."]
+"text":["\\C[27]Resistencia a las caricias disminuye cada vez que alguien nuevo mira el trasero de Karryn en el mismo día."]
 },
 "peffect_pettingresistdown_dp":{
-"text":["\\C[1]Petting Resist decreased while being double penetrated."]
+"text":["\\C[1]Resistencia a las caricias disminuyó durante la doble penetración."]
 },
 "peffect_pettingresistdown_bb":{
-"text":["\\C[1]Petting Resist decreased while giving handjobs and blowjobs at the same time."]
+"text":["\\C[1]Resistencia a las caricias disminuyó al dar pajas y mamadas al mismo tiempo."]
 },
 
 "peffect_pettingandstripresistdown":{
-"text":["\\C[1]Petting and Strip Resist decreased."]
+"text":["\\C[1]Se redujo la resistencia a las caricias y al desnudo."]
 },
 
 "peffect_sightandpettingresistdown_hobo":{
-"text":["\\C[27]Sight and Petting Resist decreased while there is a hobo present."]
+"text":["\\C[27]La vista y la resistencia a las caricias se reducen mientras hay un vagabundo presente."]
 },
 "peffect_sightandpettingresistdown_restrain":{
-"text":["\\C[27]Sight and Petting Resist decreased while restrained in any way."]
+"text":["\\C[27]La resistencia a la vista y las caricias se redujeron mientras estaba sujeto de alguna manera."]
 },
 
 
 "peffect_sexresistdown":{
-"text":["\\C[1]Sex Resist decreased."]
+"text":["\\C[1]Resistencia sexual disminuida."]
 },
 "peffect_sexresistdown_cockpet_count_today":{
-"text":["\\C[27]Sex Resist decreases from every cock petted in the same day."]
+"text":["\\C[27]Sex Resist disminuye con cada polla acariciada en el mismo día."]
 },
 "peffect_sexresistdown_talkcock_battle":{
-"text":["\\C[27]Sex Resist decreases from every time someone new talks about cocks in the same battle."]
+"text":["\\C[27]Sex Resist disminuye cada vez que alguien nuevo habla sobre gallos en la misma batalla."]
 },
 "peffect_sexresistdown_buttspank_count_day":{
-"text":["\\C[27]Sex Resist decreases from every time butt gets spanked in the same day."]
+"text":["\\C[27]Sex Resist disminuye cada vez que se azota el trasero en el mismo día."]
 },
 "peffect_sexresistdown_dp":{
-"text":["\\C[1]Sex Resist decreased while being double penetrated."]
+"text":["\\C[1]Sex Resist disminuyó durante la doble penetración."]
 },
 "peffect_sexresistdown_gb":{
-"text":["\\C[1]Sex Resist decreased while being gangbanged."]
+"text":["\\C[1]Sex Resist disminuyó durante el gangbang."]
 },
 "peffect_sexresistdown_bb":{
-"text":["\\C[1]Sex Resist decreased while giving handjobs and blowjobs at the same time."]
+"text":["\\C[1]Sex Resist disminuyó al dar handjobs y mamadas al mismo tiempo."]
 },
 "peffect_sexresistdown_hobo":{
-"text":["\\C[27]Sex Resist decreased while there a hobo is present."]
+"text":["\\C[27]Sex Resist disminuyó mientras hay un vagabundo presente."]
 },
 "peffect_sexresistdown_werewolf":{
-"text":["\\C[27]Sex Resist decreased while there a werewolf is present."]
+"text":["\\C[27]Sex Resist disminuyó mientras hay un hombre lobo presente."]
 },
 
 
 "peffect_pettingandsexresistdown":{
-"text":["\\C[1]Petting and Sex Resist decreased."]
+"text":["\\C[1]Las caricias y la resistencia sexual disminuyeron."]
 },
 "peffect_pettingandsexresistdown_bukkake":{
-"text":["\\C[27]Petting and Sex Resist decreases from every drop of cum covering the skin."]
+"text":["\\C[27]La resistencia a las caricias y al sexo disminuye con cada gota de semen que cubre la piel."]
 },
 "peffect_pettingandsexresistdown_hj":{
-"text":["\\C[27]Petting and Sex Resist decreased while giving handjobs."]
+"text":["\\C[27]Las caricias y la resistencia sexual disminuyeron al hacer pajas."]
 },
 "peffect_pettingandsexresistdown_cockiness":{
-"text":["\\C[27]Petting and Sex Resist decreases based on Cockiness."]
+"text":["\\C[27]Las caricias y la resistencia sexual disminuyen según la arrogancia."]
 },
 
 "peffect_allresistdown_orgasm_battle":{
-"text":["\\C[27]All Resists decreases from every orgasm in the same battle."]
+"text":["\\C[27]Todas las resistencia disminuye de cada orgasmo en la misma batalla."]
 },
 "peffect_allresistdown_orgasm_day":{
-"text":["\\C[27]All Resists decreases from every orgasm in the same day."]
+"text":["\\C[27]Todas las resistencia disminuye de cada orgasmo en el mismo día."]
 },
 "peffect_allresistdown_defeat":{
-"text":["\\C[27]All Resists decreased when Karryn has been recently defeated."]
+"text":["\\C[27]Todas las resistencias disminuyeron cuando Karryn fue derrotado recientemente."]
 },
 "peffect_allresistdown_lizardman":{
-"text":["\\C[27]All Resists decreased while there are multiple lizardmen are present."]
+"text":["\\C[27]Todas las resistencias disminuyeron mientras hay varios hombres lagarto presentes."]
 },
 "peffect_allresistdown_rj_people_day":{
-"text":["\\C[27]All Resists decreases from every rimjob given to a new ass in the same day."]
+"text":["\\C[27]Todas las resistencias disminuyen por cada rimjob dado a un nuevo culo en el mismo día."]
 },
 
 "peffect_squirt_orgasm":{
-"text":["\\C[1]Squirt more when orgasming."]
+"text":["\\C[1]Squirt más al orgasmo."]
 },
 "peffect_squirt_orgasm_dp":{
-"text":["\\C[1]Squirt more when orgasming while being double penetrated."]
+"text":["\\C[1]Eyacula más cuando tengas un orgasmo mientras te penetran por partida doble."]
 },
 "peffect_squirt_fatigue":{
-"text":["\\C[27]Fatigue Recovery and Fatigue Gain increased based on amount of liquid squirted out in the same day."]
+"text":["\\C[27]La recuperación de fatiga y la ganancia de fatiga aumentaron en función de la cantidad de líquido expulsado en el mismo día."]
 },
 
 "peffect_orgasm_energydmg_down":{
-"text":["\\C[27]Energy damage from orgasms decreased."]
+"text":["\\C[27]El daño energético de los orgasmos disminuyó."]
 },
 "peffect_orgasm_bliss_down":{
-"text":["\\C[1]Chance of getting Bliss after orgasming decreased."]
+"text":["\\C[1]Disminución de la probabilidad de obtener Bliss después del orgasmo."]
 },
 "peffect_orgasm_revive":{
-"text":["\\C[27]Once a battle, Energy gets halfway restored after losing remaining Energy from orgasming."]
+"text":["\\C[27]Una vez que una batalla, la energía se restaura a la mitad después de perder la energía restante del orgasmo."]
 },
 "peffect_orgasm_bliss_down_subdued_battle":{
-"text":["\\C[27]Chance of getting Bliss after orgasming decreases from every person subdued with an attack in the same battle."]
+"text":["\\C[27]La posibilidad de obtener Bliss después de tener un orgasmo disminuye con cada persona sometida a un ataque en la misma batalla."]
 },
 
 "peffect_alljob_initialdesire":{
-"text":["\\C[27]All Initial Desires increased when working in side jobs."]
+"text":["\\C[27]Todos los deseos iniciales aumentaron al trabajar en trabajos secundarios."]
 },
 "peffect_alljob_desiregainrate":{
-"text":["\\C[27]All Desire Gain Rates increased when working in side jobs."]
+"text":["\\C[27]Todas las Tasas de Ganancia de Deseo aumentaron cuando se trabajaba en trabajos secundarios."]
 },
 
 "peffect_waitressjob_initialdesire":{
-"text":["\\C[27]All Initial Desires increased while working as a waitress."]
+"text":["\\C[27]Todos los deseos iniciales aumentaron mientras trabajaba como camarera."]
 },
 "peffect_waitressjob_desiregainrate":{
-"text":["\\C[27]All Desire Gain Rates increased while working as a waitress."]
+"text":["\\C[27]Todas las tasas de aumento de deseo aumentaron mientras trabajaba como camarera."]
 },
 "peffect_receptionistjob_initialdesire":{
-"text":["\\C[27]All Initial Desires increased while working as a receptionist."]
+"text":["\\C[27]Todos los deseos iniciales aumentaron mientras trabajaba como recepcionista."]
 },
 "peffect_receptionistjob_desiregainrate":{
-"text":["\\C[27]All Desire Gain Rates increased while working as a receptionist."]
+"text":["\\C[27]Todas las tasas de aumento de deseo aumentaron mientras trabajaba como recepcionista."]
 },
 "peffect_toiletjob_initialdesire":{
-"text":["\\C[1]All Initial Desires increased while in Bathroom."]
+"text":["\\C[1]Todos los deseos iniciales aumentaron mientras estaba en el baño."]
 },
 "peffect_toiletjob_initialcockdesire":{
-"text":["\\C[1]Initial Cock Desire increased while in Bathroom. "]
+"text":["\\C[1]El deseo inicial de polla aumentó mientras estaba en el baño."]
 },
 "peffect_toiletjob_cockdesiregainrate":{
-"text":["\\C[1]Cock Desire Gain Rate increased while in Bathroom."]
+"text":["\\C[1]La tasa de ganancia de deseo de polla aumentó mientras estaba en el baño."]
 },
 "peffect_stripperjob_initialdesire":{
-"text":["\\C[27]All Initial Desires increased while working as a stripper."]
+"text":["\\C[27]Todos los deseos iniciales aumentaron mientras trabajaba como stripper."]
 },
 "peffect_stripperjob_desiregainrate":{
-"text":["\\C[27]All Desire Gain Rates increased while working as a stripper."]
+"text":["\\C[27]Todas las tasas de aumento de deseo aumentaron mientras trabajaba como stripper."]
 },
 
 "peffect_waitressjob_releasedesire":{
-"text":["\\C[27]Release Desire skills usable when working as a waitress."]
+"text":["\\C[27]Libere las habilidades de Deseos que se pueden usar cuando se trabaja como camarera."]
 },
 "peffect_receptionistjob_releasedesire":{
-"text":["\\C[27]Release Desire skills usable when working as a receptionist."]
+"text":["\\C[27]Libere las habilidades de deseo que se pueden usar cuando se trabaja como recepcionista."]
 },
 "peffect_stripperjob_releasedesire":{
-"text":["\\C[27]Release Desire skills usable when working as a stripper."]
+"text":["\\C[27]Habilidades de Liberar deseo utilizables cuando se trabaja como stripper."]
 },
 
 "peffect_waitress_money":{
-"text":["\\C[27]Tip earnings increased when working as a waitress."]
+"text":["\\C[27]Las ganancias de propinas aumentaron cuando trabajaba como camarera."]
 },
 "peffect_receptionist_noise":{
-"text":["\\C[27]Chance of other visitors noticing sexual acts while working as a receptionist increased."]
+"text":["\\C[27]La probabilidad de que otros visitantes noten actos sexuales mientras trabajaba como recepcionista aumentó."]
 },
 
 "peffect_stripper_condom_belt":{
-"text":["\\C[27]Garter belt can now be used to hold patrons' filled up condoms during the stripper side job."]
+"text":["\\C[27]El liguero ahora se puede usar para sostener los condones llenos de los clientes durante el trabajo secundario de stripper."]
 },
 "peffect_stripper_condom_bra":{
-"text":["\\C[27]Bra can now be used to hold patrons' filled up condoms during the stripper side job."]
+"text":["\\C[27]El sostén ahora se puede usar para sostener los condones llenos de los clientes durante el trabajo secundario de stripper."]
 },
 "peffect_stripper_condom_bodypart":{
-"text":["\\C[27]Head area and nipples can now be used to hold patrons' filled up condoms during the stripper side job."]
+"text":["\\C[27]El área de la cabeza y los pezones ahora se pueden usar para sostener los condones llenos durante el trabajo secundario de stripper."]
 },
 
 "peffect_strippervip_money":{
-"text":["\\C[27]Revenue sharing from private dancing increased."]
+"text":["\\C[27]Se incrementó el reparto de ingresos por baile privado."]
 },
 
 "peffect_maxstamina_up":{
-"text":["\\C[1]Max Stamina increased."]
+"text":["\\C[1]Resistencia máxima aumentada."]
 },
 
 "peffect_revitalize_buff":{
-"text":["\\C[27]Revitalize restores more Stamina."]
+"text":["\\C[27]Revitalizar restaura más Vigor."]
 },
 "peffect_revitalize_downstamina":{
-"text":["\\C[27]Chance of Revitalize not being usable after running out of Stamina mid-combat increased."]
+"text":["\\C[27]Se incrementó la probabilidad de que Revitalizar no se pueda usar después de quedarse sin Stamina en medio del combate."]
 },
 
 "peffect_maxenergy_down_orgasm_battle":{
-"text":["\\C[27]Max Energy decreases from every orgasm in the same battle."]
+"text":["\\C[27]Max energia disminuye de cada orgasmo en la misma batalla."]
 },
 "peffect_maxenergy_down_orgasm_day":{
-"text":["\\C[27]Max Energy decreases from every orgasm in the same day."]
+"text":["\\C[27]Max energia disminuye de cada orgasmo en el mismo día."]
 },
 
 "peffect_str_up":{
-"text":["\\C[1]Strength increased."]
+"text":["\\C[1]Fuerza aumentada."]
 },
 "peffect_str_up_asex_people_day":{
-"text":["\\C[1]Strength increases every time anus gets fucked by a new cock in the same day."]
+"text":["\\C[1]La fuerza aumenta cada vez que el ano es follado por una nueva polla en el mismo día."]
 },
 "peffect_str_down_analcreampie_battle":{
-"text":["\\C[27]Strength decreases for every drop of cum ejaculated into ass in the same battle."]
+"text":["\\C[27]La fuerza disminuye por cada gota de semen eyaculado en el culo en la misma batalla."]
 },
 "peffect_str_down_orc":{
-"text":["\\C[27]Strength decreased while there is an orc present."]
+"text":["\\C[27]La fuerza disminuyó mientras hay un orco presente."]
 },
 
 "peffect_dex_up":{
-"text":["\\C[1]Dexterity increased."]
+"text":["\\C[1]Destreza aumentada."]
 },
 "peffect_dex_up_tj_people_day":{
-"text":["\\C[27]Dexterity increases from every new cock titty fucked in the same day."]
+"text":["\\C[27]La destreza aumenta con cada nueva polla follada en el mismo día."]
 },
 
 "peffect_agi_up":{
-"text":["\\C[1]Agility increased."]
+"text":["\\C[1]Agilidad aumentada."]
 },
 "peffect_agi_down_bukkake":{
-"text":["\\C[27]Agility decreases from every drop of cum covering the skin."]
+"text":["\\C[27]La agilidad disminuye con cada gota de semen que cubre la piel."]
 },
 "peffect_agi_down_pussycreampie_battle":{
-"text":["\\C[27]Agility decreases from every drop of cum ejaculated into pussy in the same battle."]
+"text":["\\C[27]La agilidad disminuye con cada gota de semen eyaculado en el coño en la misma batalla."]
 },
 
 "peffect_end_up":{
-"text":["\\C[1]Endurance increased."]
+"text":["\\C[1]La resistencia aumentó."]
 },
 "peffect_end_up_psex_people_day":{
-"text":["\\C[1]Endurance increases every time pussy gets fucked by a new cock in the same day."]
+"text":["\\C[1]La resistencia aumenta cada vez que una nueva polla folla el coño en el mismo día."]
 },
 
 "peffect_end_down_pussycreampie_battle":{
-"text":["\\C[27]Endurance decreases from every drop of cum ejaculated into pussy in the same battle."]
+"text":["\\C[27]La resistencia disminuye con cada gota de semen eyaculado en el coño en la misma batalla."]
 },
 
 "peffect_mind_up":{
-"text":["\\C[1]Mind increased."]
+"text":["\\C[1]La mente aumentó."]
 },
 "peffect_mind_down":{
-"text":["\\C[1]Mind decreased."]
+"text":["\\C[1]Mente disminuida."]
 },
 "peffect_mind_down_bj_count_day":{
-"text":["\\C[27]Mind decreases from every cock sucked in the same day."]
+"text":["\\C[27]La mente disminuye por cada polla chupada en el mismo día."]
 },
 "peffect_mind_down_swallow_battle":{
-"text":["\\C[27]Mind decreases for every drop of semen swallowed in the same battle."]
+"text":["\\C[27]La mente decrece por cada gota de semen tragada en la misma batalla."]
 },
 "peffect_mind_down_orgasm_people_battle":{
-"text":["\\C[27]Mind decreases from every person witness to Karryn's orgasms in the same battle."]
+"text":["\\C[27]La mente disminuye de cada persona que presencia los orgasmos de Karryn en la misma batalla."]
 },
 "peffect_mind_down_talk_people_battle":{
-"text":["\\C[27]Mind decreases every time someone new talks degradingly in the same battle."]
+"text":["\\C[27]La mente decrece cada vez que alguien nuevo habla degradantemente en la misma batalla."]
 },
 "peffect_mind_down_dp_battle":{
-"text":["\\C[27]Mind decreases from every double penetration in the same battle."]
+"text":["\\C[27]La mente disminuye por cada doble penetración en la misma batalla."]
 },
 
 "peffect_charm_up":{
-"text":["\\C[1]Charm increased."]
+"text":["\\C[1]El encanto aumentó."]
 },
 "peffect_charm_up_bj":{
-"text":["\\C[27]Charm increased while there is a cock in mouth."]
+"text":["\\C[27]El encanto aumenta mientras hay una polla en la boca."]
 },
 "peffect_charm_up_bukkake":{
-"text":["\\C[27]Charm increases from every drop of cum covering the skin."]
+"text":["\\C[27]El encanto aumenta con cada gota de semen que cubre la piel."]
 },
 "peffect_charm_up_orgasm_battle":{
-"text":["\\C[27]Charm increases from every orgasm in the same battle."]
+"text":["\\C[27]El encanto aumenta con cada orgasmo en la misma batalla.."]
 },
 "peffect_charm_up_condom":{
-"text":["\\C[27]Charm increased for each worn condom during the stripper side job."]
+"text":["\\C[27]El encanto aumentó por cada condón usado durante el trabajo de striptease."]
 },
 "peffect_charm_up_tj_count_day":{
-"text":["\\C[27]Charm increases from every cock titty fucked in the same day."]
+"text":["\\C[27]El encanto aumenta con cada titty polla follada en el mismo día."]
 },
 "peffect_charm_up_onani":{
-"text":["\\C[27]Charm increased while masturbating mid-battle."]
+"text":["\\C[27]El encanto aumentó mientras se masturbaba en medio de la batalla."]
 },
 "peffect_charm_up_toy":{
-"text":["\\C[27]Charm increases from every toy currently attached."]
+"text":["\\C[27]El encanto aumenta con cada juguete conectado actualmente."]
 },
 "peffect_charm_up_pole":{
-"text":["\\C[27]Charm increased while holding a halberd or a pole."]
+"text":["\\C[27]Encanto aumentado mientras se sostiene una alabarda o un palo."]
 },
 "peffect_charm_up_kiss_people_battle":{
-"text":["\\C[27]Charm increases from every new person kissed in the same battle."]
+"text":["\\C[27]El encanto aumenta con cada nueva persona besada en la misma batalla.."]
 },
 "peffect_charm_up_attackpose":{
-"text":["\\C[27]Charm temporarily rises for a turn after attacking with halberd."]
+"text":["\\C[27]Charm aumenta temporalmente durante un turno después de atacar con alabarda."]
 },
 "peffect_charm_up_evadepose":{
-"text":["\\C[27]Charm temporarily rises for a turn after evading."]
+"text":["\\C[27]Charm se eleva temporalmente por un turno después de evadir."]
 },
 
 "peffect_charmgrowth_up":{
-"text":["\\C[1]Charm Growth increased."]
+"text":["\\C[1]Aumento del crecimiento del encanto."]
 },
 "peffect_exprate_up_analcreampie":{
-"text":["\\C[27]Exp Rate increases from every drop of cum inside ass."]
+"text":["\\C[27]Exp Rate aumenta con cada gota de semen dentro del culo."]
 },
 
 "peffect_atk_up":{
-"text":["\\C[1]Attack increased."]
+"text":["\\C[1]Ataque aumentado."]
 },
 "peffect_atk_up_talk_people_battle":{
-"text":["\\C[27]Attack increases every time someone new talks degradingly in the same battle."]
+"text":["\\C[27]El ataque aumenta cada vez que alguien nuevo habla degradantemente en la misma batalla."]
 },
 "peffect_atk_up_subdued_battle":{
-"text":["\\C[27]Attack increases from every person subdued with an attack in the same battle."]
+"text":["\\C[27]El ataque aumenta por cada persona sometida con un ataque en la misma batalla."]
 },
 
 "peffect_atk_down":{
-"text":["\\C[1]Attack decreased."]
+"text":["\\C[1]Ataque disminuido."]
 },
 "peffect_atk_down_talk_people_battle":{
-"text":["\\C[27]Attack decreases every time someone new talks degradingly in the same battle."]
+"text":["\\C[27]El ataque disminuye cada vez que alguien nuevo habla degradantemente en la misma batalla."]
 },
 "peffect_atk_down_psex_people_battle":{
-"text":["\\C[27]Attack decreases from every time pussy gets fucked by a new cock in the same battle."]
+"text":["\\C[27]El ataque disminuye cada vez que el coño es follado por una nueva polla en la misma batalla.."]
 },
 "peffect_atk_down_psex_people_day":{
-"text":["\\C[27]Attack decreases from every time pussy gets fucked by a new cock in the same day."]
+"text":["\\C[27]El ataque disminuye cada vez que una nueva polla folla el coño en el mismo día."]
 },
 "peffect_atk_down_buttspank_people_day":{
-"text":["\\C[27]Attack decreases from every time butt gets spanked by new hands in the same day."]
+"text":["\\C[27]El ataque disminuye cada vez que nuevas manos azotan el trasero en el mismo día."]
 },
 
 "peffect_unarmedatk_down_kickcounter_battle":{
-"text":["\\C[27]Unarmed Attack decreases from every enemy sexual counterattack in the same battle."]
+"text":["\\C[27]El ataque desarmado disminuye con cada contraataque sexual del enemigo en la misma batalla."]
 },
 
 "peffect_def_up_sight_people_battle":{
-"text":["\\C[27]Defense increases every time someone new stares in the same battle."]
+"text":["\\C[27]La defensa aumenta cada vez que alguien nuevo mira en la misma batalla."]
 },
 "peffect_def_down_sight_people_battle":{
-"text":["\\C[27]Defense decreases every time someone new stares in the same battle."]
+"text":["\\C[27]La defensa disminuye cada vez que alguien nuevo mira en la misma batalla."]
 },
 "peffect_def_down_pussycreampie_day":{
-"text":["\\C[27]Defense decreases from every drop of cum ejaculated into pussy in the same day."]
+"text":["\\C[27]La defensa disminuye por cada gota de semen eyaculado en la vagina en el mismo día."]
 },
 "peffect_def_down_butt_people_day":{
-"text":["\\C[27]Defense decreases every time butt gets petted by new hands in the same day."]
+"text":["\\C[27]La defensa disminuye cada vez que nuevas manos acarician el trasero en el mismo día."]
 },
 "peffect_def_down_asex_people_battle":{
-"text":["\\C[27]Defense decreases every time anus gets fucked by a new cock in the same battle."]
+"text":["\\C[27]La defensa disminuye cada vez que el ano es follado por una nueva polla en la misma batalla."]
 },
 "peffect_def_down_asex_people_day":{
-"text":["\\C[27]Defense decreases every time anus gets fucked by a new cock in the same day."]
+"text":["\\C[27]La defensa disminuye cada vez que el ano es follado por una nueva polla en el mismo día."]
 },
 
 "peffect_acc_down":{
-"text":["\\C[27]Accuracy decreased."]
+"text":["\\C[27]La precisión disminuyó."]
 },
 "peffect_acc_down_cunni_count_battle":{
-"text":["\\C[27]Accuracy decreases from every time pussy gets licked in the same battle."]
+"text":["\\C[27]La precisión disminuye cada vez que se lame el coño en la misma batalla."]
 },
 "peffect_acc_down_nerd":{
-"text":["\\C[27]Accuracy decreased while a nerd is present."]
+"text":["\\C[27]La precisión disminuyó mientras una nerd está presente."]
 },
 "peffect_acc_down_facial":{
-"text":["\\C[27]Accuracy decreases from every drop of cum on the face."]
+"text":["\\C[27]La precisión disminuye con cada gota de semen en la cara."]
 },
 
 "peffect_eva_down_boobs_people_day":{
-"text":["\\C[27]Evasion decreases from every time breasts get groped by new hands in the same day."]
+"text":["\\C[27]La evasión disminuye cada vez que manos nuevas manosean los senos en el mismo día."]
 },
 "peffect_eva_down_fj_people_battle":{
-"text":["\\C[27]Evasion decreases based on every footjob given to new cock in the same battle."]
+"text":["\\C[27]La evasión disminuye en función de cada footjob que se le dé a una nueva polla en la misma batalla."]
 },
 
 "peffect_critrate_up_buttspank_count_battle":{
-"text":["\\C[27]Critical Rate increases from every time butt gets spanked in the same battle."]
+"text":["\\C[27]La tasa crítica aumenta cada vez que se azota el trasero en la misma batalla."]
 },
 "peffect_critrate_up_gb":{
-"text":["\\C[1]Critical Rate increased while being gangbanged."]
+"text":["\\C[1]Se incrementó la tasa crítica al ser gangbanged."]
 },
 
 "peffect_criteva_down_kiss_count_battle":{
-"text":["\\C[27]Critical Evasion decreases from every kiss in the same battle."]
+"text":["\\C[27]La evasión crítica disminuye con cada beso en la misma batalla."]
 },
 "peffect_criteva_down_gb_battle":{
-"text":["\\C[27]Critical Evasion decreases from every gangbang in the same battle."]
+"text":["\\C[27]La evasión crítica disminuye con cada gangbang en la misma batalla."]
 },
 "peffect_criteva_down_toyp_battle":{
-"text":["\\C[27]Critical Evasion decreases every time dildo gets used in the same battle."]
+"text":["\\C[27]La evasión crítica disminuye cada vez que se usa un consolador en la misma batalla."]
 },
 
 "peffect_critevaandstripresist_down_restrain":{
-"text":["\\C[27]Critical Evasion and Sex Resist decreased while restrained in any way."]
+"text":["\\C[27]La evasión crítica y la resistencia sexual disminuyeron mientras estabas restringido de alguna manera."]
 },
 
 "peffect_critdmg_up_toy_battle":{
-"text":["\\C[27]Critical Damage increases every time toys get used in the same battle."]
+"text":["\\C[27]El daño crítico aumenta cada vez que se usan juguetes en la misma batalla."]
 },
 "peffect_critdmg_up_fj_people_day":{
-"text":["\\C[27]Critical Damage increases from every footjob given to a new cock in the same day."]
+"text":["\\C[27]El daño crítico aumenta con cada paja con los pies que se le da a una nueva polla en el mismo día."]
 },
 
 "peffect_critdmg_down_toya_battle":{
-"text":["\\C[27]Critical Damage decreases every time anal beads get used in the same battle."]
+"text":["\\C[27]El daño crítico disminuye cada vez que se usan bolas anales en la misma batalla."]
 },
 
 "peffect_graze_down_analcreampie_battle":{
-"text":["\\C[27]Graze decreases from every drop of cum ejaculated inside ass in the same battle."]
+"text":["\\C[27]El roce disminuye con cada gota de semen eyaculado dentro del culo en la misma batalla."]
 },
 
 "peffect_staregen_up_swallow_battle":{
-"text":["\\C[27]Stamina Regen increases from every drop of cum swallowing in the same battle."]
+"text":["\\C[27]La regeneración de vigor aumenta con cada gota de semen tragada en la misma batalla."]
 },
 "peffect_staregen_up_bukkake":{
-"text":["\\C[27]Stamina Regen increases from every drop of cum covering the skin."]
+"text":["\\C[27]La regeneración de vigor aumenta con cada gota de semen que cubre la piel."]
 },
 "peffect_staregen_up_strippercondom":{
-"text":["\\C[27]Stamina Regen increased for each worn condom during the stripper side job."]
+"text":["\\C[27]La regeneración de resistencia aumentó por cada condón usado durante el trabajo secundario de stripper."]
 },
 
 "peffect_energyregen_up_pussycreampie":{
-"text":["\\C[27]Energy Regen increases from every drop of cum inside pussy."]
+"text":["\\C[27]La regeneración de energía aumenta con cada gota de semen dentro de la vagina."]
 },
 
 "peffect_wpregen_down":{
-"text":["\\C[1]Willpower Regen decreased."]
+"text":["\\C[1]Regeneración de fuerza de voluntad reducida."]
 },
 "peffect_wpregen_down_bj":{
-"text":["\\C[27]Willpower Regen decreased until someone's cock is sucked in the same battle."]
+"text":["\\C[27]Willpower Regen disminuyó hasta que la polla de alguien es chupada en la misma batalla."]
 },
 
 "peffect_fatiguegain_up_hj_people_battle":{
-"text":["\\C[27]Fatigue Gain increases from every handjob given to a new cock in the same battle."]
+"text":["\\C[27]La ganancia de fatiga aumenta con cada paja que se le da a una nueva polla en la misma batalla."]
 },
 
 "peffect_fatiguerec_bathroom":{
-"text":["\\C[27]Fatigue Recovery increased while masturbating on the toilet."]
+"text":["\\C[27]La recuperación de la fatiga aumentó mientras se masturbaba en el inodoro."]
 },
 
 "peffect_appearance_virgin":{
-"text":["\\C[1]Virgins' Appearance Rate increased."]
+"text":["\\C[1]Tasa de aparición de vírgenes aumentada."]
 },
 "peffect_initialpleasure_virgin":{
-"text":["\\C[1]Virgins' Initial Pleasure increased."]
+"text":["\\C[1]El placer inicial de las vírgenes aumentó."]
 },
 "peffect_charmreq_virgin":{
-"text":["\\C[1]Virgins' Charm Requirement decreased."]
+"text":["\\C[1]Se redujo el requisito de encanto de las vírgenes."]
 },
 
 "peffect_attackchance_down":{
-"text":["\\C[1]Enemy Attack Chance decreased."]
+"text":["\\C[1]Probabilidad de ataque enemigo reducida."]
 },
 "peffect_attackchance_down_cockpet":{
-"text":["\\C[27]Enemy's Attack Chance is decreased after their cock is petted."]
+"text":["\\C[27]La probabilidad de ataque del enemigo se reduce después de acariciar su polla."]
 },
 "peffect_attackchance_taunt_day":{
-"text":["\\C[27]Enemy Attack Chance increases from every Taunt done in the same day."]
+"text":["\\C[27]La probabilidad de ataque enemigo aumenta con cada burla realizada en el mismo día."]
 },
 
 "peffect_attackchance_down_virgin":{
-"text":["\\C[1]Virgins' Attack Chance decreased."]
+"text":["\\C[1]Se redujo la probabilidad de ataque de las vírgenes."]
 },
 "peffect_attackchance_down_goblin":{
-"text":["\\C[1]Goblins' Attack Chance decreased."]
+"text":["\\C[1]Se ha reducido la probabilidad de ataque de los goblins."]
 },
 "peffect_attackchance_down_thug":{
-"text":["\\C[1]Thugs' Attack Chance decreased."]
+"text":["\\C[1]Se ha reducido la probabilidad de ataque de los matones."]
 },
 "peffect_attackchance_down_guard":{
-"text":["\\C[1]Guards' Attack Chance decreased."]
+"text":["\\C[1]Se ha reducido la probabilidad de ataque de los guardias."]
 },
 "peffect_attackchance_down_rogue":{
-"text":["\\C[1]Rogues' Attack Chance decreased."]
+"text":["\\C[1]Se ha reducido la probabilidad de ataque de los ladrones."]
 },
 "peffect_attackchance_down_slime":{
-"text":["\\C[1]Slimes' Attack Chance decreased."]
+"text":["\\C[1]Se redujo la probabilidad de ataque de los limos."]
 },
 "peffect_attackchance_down_lizardman":{
-"text":["\\C[1]Lizardmen's Attack Chance decreased."]
+"text":["\\C[1]Se ha reducido la probabilidad de ataque de los hombres lagarto."]
 },
 "peffect_attackchance_down_orc":{
-"text":["\\C[1]Orcs' Attack Chance decreased."]
+"text":["\\C[1]Se ha reducido la probabilidad de ataque de los orcos."]
 },
 "peffect_attackchance_down_werewolf":{
-"text":["\\C[1]Werewolves' Attack Chance decreased."]
+"text":["\\C[1]Disminución de la probabilidad de ataque de los hombres lobo."]
 },
 "peffect_attackchance_down_yeti":{
-"text":["\\C[1]Yetis' Attack Chance decreased."]
+"text":["\\C[1]Se ha reducido la probabilidad de ataque de los Yetis."]
 },
 
 "peffect_goblin_agi_down":{
-"text":["\\C[1]Goblins' Agility decreased."]
+"text":["\\C[1]Se redujo la agilidad de los goblins."]
 },
 "peffect_thug_str_down":{
-"text":["\\C[1]Thugs' Strength decreased."]
+"text":["\\C[1]Se ha reducido la fuerza de los matones."]
 },
 "peffect_nerd_noangry":{
-"text":["\\C[27]Nerds will no longer get angry."]
+"text":["\\C[27]Los nerds ya no se enfadarán."]
 },
 "peffect_nerd_petting":{
-"text":["\\C[27]Nerds will use petting skills in more situations."]
+"text":["\\C[27]Los nerds utilizarán habilidades de caricias en más situaciones."]
 },
 "peffect_rogue_agi_down":{
-"text":["\\C[1]Rogues' Agility decreased."]
+"text":["\\C[1]Se redujo la agilidad de los pícaros."]
 },
 "peffect_slime_agi_down":{
-"text":["\\C[1]Slimes' Agility decreased."]
+"text":["\\C[1]Se redujo la agilidad de los Slimes."]
 },
 "peffect_lizardman_str_down":{
-"text":["\\C[1]Lizardmen's Strength decreased."]
+"text":["\\C[1]Se ha reducido la fuerza de los hombres lagarto."]
 },
 "peffect_orc_agi_down":{
-"text":["\\C[1]Orcs' Agility decreased."]
+"text":["\\C[1]La agilidad de los orcos disminuyó."]
 },
 "peffect_werewolf_str_down":{
-"text":["\\C[1]Werewolves' Strength decreased."]
+"text":["\\C[1]La fuerza de los hombres lobo disminuyó."]
 },
 "peffect_yeti_str_down":{
-"text":["\\C[1]Yetis' Strength decreased."]
+"text":["\\C[1]La Fuerza de los Yetis disminuyó."]
 },
 
 "peffect_staminadmg_mashalb":{
-"text":["\\C[27]Stamina damage from masturbating with a halberd decreased."]
+"text":["\\C[27]Se redujo el daño de Vigor por masturbarse con una alabarda."]
 },
 "peffect_staminacost_pole":{
-"text":["\\C[27]Stamina cost for pole dancing decreased."]
+"text":["\\C[27]Se redujo el costo de resistencia para el baile en tubo."]
 },
 
 
 "peffect_recoverenergy_swallow":{
-"text":["\\C[27]Energy is recovered based on amount of cum ejaculated into mouth."]
+"text":["\\C[27]La energía se recupera en función de la cantidad de semen eyaculado en la boca."]
 },
 "peffect_recoverenergy_pussycreampie":{
-"text":["\\C[27]Energy is recovered based on amount of cum ejaculated into pussy."]
+"text":["\\C[27]La energía se recupera en función de la cantidad de semen eyaculado en el coño."]
 },
 "peffect_recoverenergy_analcreampie":{
-"text":["\\C[27]Energy is recovered based on amount of cum ejaculated into ass."]
+"text":["\\C[27]La energía se recupera en función de la cantidad de semen eyaculado en el culo."]
 },
 
 "peffect_invasion_underground":{
-"text":["\\C[27]Invasion Chance increased while underground."]
+"text":["\\C[27]Probabilidad de invasión aumentada bajo tierra."]
 },
 
 "peffect_sleepquality_onani":{
-"text":["\\C[27]Sleep Quality increased after masturbating right before sleeping."]
+"text":["\\C[27]La calidad del sueño aumentó después de masturbarse justo antes de dormir."]
 },
 "peffect_sleepquality_no_onani":{
-"text":["\\C[27]Sleep Quality lowered after going to bed while Aroused without masturbating."]
+"text":["\\C[27]La calidad del sueño disminuyó después de acostarse mientras estaba excitado sin masturbarse."]
 },
 "peffect_sleepquality_lv1":{
-"text":["\\C[27]Sleeping Quality increased in Bar Storage."]
+"text":["\\C[27]La calidad del sueño aumentó en el almacenamiento de barras."]
 },
 "peffect_sleepquality_guard":{
-"text":["\\C[27]Sleeping Quality increased in Guard Stations."]
+"text":["\\C[27]La calidad del sueño aumentó en las estaciones de guardia."]
 },
 "peffect_sleepquality_lv2":{
-"text":["\\C[27]Sleeping Quality increased in Bathroom."]
+"text":["\\C[27]La calidad del sueño aumentó en el baño."]
 },
 "peffect_sleepquality_lv3":{
-"text":["\\C[27]Sleeping Quality increased in Solitary Cell."]
+"text":["\\C[27]La calidad del sueño aumentó en la celda solitaria."]
 },
 "peffect_sleepquality_lv4":{
-"text":["\\C[27]Sleeping Quality increased in Abandoned Area."]
+"text":["\\C[27]La calidad del sueño aumentó en el área abandonada."]
 },
 
 "peffect_suppressmouth":{
-"text":["\\C[27]Suppress Mouth Desire is less effective."]
+"text":["\\C[27]Suprimir deseo de la boca es menos eficaz."]
 },
 "peffect_suppressboobs":{
-"text":["\\C[27]Suppress Boobs Desire is less effective."]
+"text":["\\C[27]Suprimir deseo de los pechos es menos efectivo."]
 },
 "peffect_suppresspussy":{
-"text":["\\C[27]Suppress Pussy Desire is less effective."]
+"text":["\\C[27]Suprimir deseo de la vagina es menos efectivo."]
 },
 "peffect_suppressbutt":{
-"text":["\\C[27]Suppress Butt Desire is less effective."]
+"text":["\\C[27]Suprimir deseo del culo es menos efectivo."]
 },
 "peffect_suppressmouthboobspussybutt":{
-"text":["\\C[27]Suppress Mouth, Boobs, Pussy and Butt Desire are less effective."]
+"text":["\\C[27]Suprimir deseos de la  boca, pechos, vagina y culo son menos efectivos."]
 },
 "peffect_suppresscock":{
-"text":["\\C[27]Suppress Cock Desire is less effective."]
+"text":["\\C[27]Suprimir el deseo de polla es menos efectivo."]
 },
 
 "peffect_startlv2onanilvl":{
-"text":["\\C[1]Start with Level 2 Masturbation."]
+"text":["\\C[1]Comience con la masturbación de nivel 2."]
 },
 "peffect_startlv2masolvl":{
-"text":["\\C[1]Start with Level 2 Masochism."]
+"text":["\\C[1]Comience con el masoquismo de nivel 2."]
 },
 "peffect_startlv2sadolvl":{
-"text":["\\C[1]Start with Level 2 Sadism."]
+"text":["\\C[1]Comience con el Sadismo de Nivel 2."]
 },
 
 "peffect_allpassivesunlockfaster":{
-"text":["\\C[27]All Passives unlock faster."]
+"text":["\\C[27]Todos los Pasivos se desbloquean más rápido."]
 },
 
 "peffect_higherdesire_mouth":{
-"text":["\\C[1]Higher Max Mouth Desire."]
+"text":["\\C[1]Mayor deseo máximo de boca."]
 },
 "peffect_higherdesire_boobs":{
-"text":["\\C[1]Higher Max Boobs Desire."]
+"text":["\\C[1]mayor deseo máximo de pechos."]
 },
 "peffect_higherdesire_pussy":{
-"text":["\\C[1]Higher Max Pussy Desire."]
+"text":["\\C[1]Mayor deseo máximo de vagina."]
 },
 "peffect_higherdesire_butt":{
-"text":["\\C[1]Higher Max Butt Desire."]
+"text":["\\C[1]Mayor deseo máximo del culo."]
 },
 "peffect_higherdesire_mouthboobspussybutt":{
-"text":["\\C[1]Higher Max Mouth, Boobs, Pussy and Butt Desires."]
+"text":["\\C[1]Mayor deseo máximo boca, pechos, vagina y culo."]
 },
 
 "peffect_highersensitivity_mouth":{
-"text":["\\C[27]Higher Mouth Sensitivity."]
+"text":["\\C[27]Mayor sensibilidad oral."]
 },
 "peffect_highersensitivity_boobs":{
-"text":["\\C[27]Higher Boobs Sensitivity."]
+"text":["\\C[27]Mayor sensibilidad de los pechos."]
 },
 "peffect_highersensitivity_nipples":{
-"text":["\\C[27]Higher Nipples Sensitivity."]
+"text":["\\C[27]Mayor sensibilidad de los pezones."]
 },
 "peffect_highersensitivity_clit":{
-"text":["\\C[27]Higher Clitoris Sensitivity."]
+"text":["\\C[27]Mayor sensibilidad del clítoris."]
 },
 "peffect_highersensitivity_pussy":{
-"text":["\\C[27]Higher Pussy Sensitivity."]
+"text":["\\C[27]Mayor sensibilidad de la vagina."]
 },
 "peffect_highersensitivity_butt":{
-"text":["\\C[27]Higher Butt Sensitivity."]
+"text":["\\C[27]Mayor sensibilidad del culo."]
 },
 "peffect_highersensitivity_anal":{
-"text":["\\C[27]Higher Anal Sensitivity."]
+"text":["\\C[27]Mayor sensibilidad anal."]
 },
 "peffect_highersensitivity_overall":{
-"text":["\\C[27]Higher Overall Sensitivity."]
+"text":["\\C[27]Mayor sensibilidad general."]
 },
 
 "effect_first_seven_days":{
-"text":["\\C[0] (During first seven days)"]
+"text":["\\C[0] (Durante los primeros siete días)"]
 },
 "effect_during_battle":{
-"text":["\\C[0] (During Battles)"]
+"text":["\\C[0] (Durante las batallas)"]
 },
 "effect_during_combat":{
-"text":["\\C[0] (During Combat)"]
+"text":["\\C[0] (Durante el combate)"]
 },
 "effect_during_riots":{
-"text":["\\C[0] (During Riot Battles)"]
+"text":["\\C[0] (Durante las batallas revuelta)"]
 },
 "effect_during_receptionist":{
-"text":["\\C[0] (During Receptionist)"]
+"text":["\\C[0] (durante recepcionista)"]
 },
 "effect_during_strippershow":{
-"text":["\\C[0] (During Stripper Show)"]
+"text":["\\C[0] (Durante el Show de Stripper)"]
 },
 "effect_during_bliss":{
-"text":["\\C[0] (During Bliss)"]
+"text":["\\C[0] (Durante la dicha)"]
 },
 "effect_during_counterstance":{
-"text":["\\C[0] (During \\I[325]Counter Stance)"]
+"text":["\\C[0] (Durante la \\I[325] postura contraria)"]
 },
 
 "effect_while_bankrupted":{
-"text":["\\C[10] (While bankrupted)"]
+"text":["\\C[10] (Mientras está en bancarrota)"]
 },
 
 "effect_equip_wholeday":{
-"text":["\\C[0] (Equip for whole day)"]
+"text":["\\C[0] (Equipamiento para todo el día)"]
 },
 "effect_subduing_rioters":{
-"text":["\\C[0] (Subduing rioters)"]
+"text":["\\C[0] (Dominando a los alborotadores)"]
 },
 
 
@@ -2022,156 +2022,156 @@
 
 
 "effect_initialmouthdesire_exact_plus":{
-"text":["\\C[10]\\I[57]Initial Mouth Desire "]
+"text":["\\C[10]\\I[57]Deseo de boca inicial "]
 },
 "effect_initialboobsdesire_exact_plus":{
-"text":["\\C[10]\\I[58]Initial Boobs Desire "]
+"text":["\\C[10]\\I[58]Deseo inicial de pechos "]
 },
 "effect_initialpussydesire_exact_plus":{
-"text":["\\C[10]\\I[59]Initial Pussy Desire "]
+"text":["\\C[10]\\I[59]Deseo inicial de la vagina "]
 },
 "effect_initialbuttdesire_exact_plus":{
-"text":["\\C[10]\\I[60]Initial Butt Desire "]
+"text":["\\C[10]\\I[60]deseo inicial del culo "]
 },
 "effect_initialcockdesire_exact_plus":{
-"text":["\\C[10]\\I[61]Initial Cock Desire "]
+"text":["\\C[10]\\I[61]deseo de polla inicial "]
 },
 
 "effect_mouthdesiregain_exact_plus":{
-"text":["\\C[10]\\I[267]Mouth Desire Gain Rate "]
+"text":["\\C[10]\\I[267]Tasa de ganancia de deseo de boca "]
 },
 "effect_mouthdesiregain_exact_minus":{
-"text":["\\C[11]\\I[262]Mouth Desire Gain Rate "]
+"text":["\\C[11]\\I[262]Tasa de ganancia de deseo de boca "]
 },
 "effect_boobsdesiregain_exact_plus":{
-"text":["\\C[10]\\I[268]Boobs Desire Gain Rate "]
+"text":["\\C[10]\\I[268]Tasa de ganancia de deseo de tetas "]
 },
 "effect_boobsdesiregain_exact_minus":{
-"text":["\\C[11]\\I[263]Boobs Desire Gain Rate "]
+"text":["\\C[11]\\I[263]Tasa de ganancia de deseo de tetas "]
 },
 "effect_pussydesiregain_exact_plus":{
-"text":["\\C[10]\\I[269]Pussy Desire Gain Rate "]
+"text":["\\C[10]\\I[269]Tasa de ganancia de deseo de la vagina "]
 },
 "effect_pussydesiregain_exact_minus":{
-"text":["\\C[11]\\I[264]Pussy Desire Gain Rate "]
+"text":["\\C[11]\\I[264]Tasa de ganancia de deseo de la vagina "]
 },
 "effect_buttdesiregain_exact_plus":{
-"text":["\\C[10]\\I[270]Butt Desire Gain Rate "]
+"text":["\\C[10]\\I[270]Tasa de ganancia de deseo del culo "]
 },
 "effect_buttdesiregain_exact_minus":{
-"text":["\\C[11]\\I[265]Butt Desire Gain Rate "]
+"text":["\\C[11]\\I[265]Tasa de ganancia de deseo del culo "]
 },
 "effect_cockdesiregain_exact_plus":{
-"text":["\\C[10]\\I[271]Cock Desire Gain Rate "]
+"text":["\\C[10]\\I[271]Tasa de ganancia de deseo de polla "]
 },
 "effect_cockdesiregain_exact_minus":{
-"text":["\\C[11]\\I[266]Cock Desire Gain Rate "]
+"text":["\\C[11]\\I[266]Tasa de ganancia de deseo de polla "]
 },
 "effect_alldesiregain_exact_plus":{
-"text":["\\C[10]\\I[271]All Desire Gain Rates "]
+"text":["\\C[10]\\I[271]Tasa de ganancia de todos los deseos "]
 },
 "effect_alldesiregain_exact_minus":{
-"text":["\\C[11]\\I[266]All Desire Gain Rates "]
+"text":["\\C[11]\\I[266]Tasa de ganancia de todos los deseos "]
 },
 
 "effect_kiss_mouthdesirereq_raise":{
-"text":["\\C[11]\\I[288]Mouth Desire required for Kiss "]
+"text":["\\C[11]\\I[288]Se requiere deseo de boca para besar "]
 },
 "effect_kiss_mouthdesirereq_lower":{
-"text":["\\C[1]\\I[288]Mouth Desire required for Kiss "]
+"text":["\\C[1]\\I[288]Se requiere deseo de boca para besar "]
 },
 "effect_hj_cockdesirereq_raise":{
-"text":["\\C[11]\\I[289]Cock Desire required for Handjob "]
+"text":["\\C[11]\\I[289]Se requiere deseo de polla para masturbación "]
 },
 "effect_hj_cockdesirereq_lower":{
-"text":["\\C[1]\\I[289]Cock Desire required for Handjob "]
+"text":["\\C[1]\\I[289]Se requiere deseo de polla para masturbación "]
 },
 "effect_bj_mouthcockdesirereq_lower":{
-"text":["\\C[1]\\I[294]Mouth and Cock Desire required for Blowjob "]
+"text":["\\C[1]\\I[294]Se requiere deseo de boca y polla para mamada "]
 },
 "effect_tj_cockdesirereq_raise":{
-"text":["\\C[11]\\I[293]Cock Desire required for Titjob "]
+"text":["\\C[11]\\I[293]Deseo de polla requerido para titjob "]
 },
 "effect_tj_boobscockdesirereq_lower":{
-"text":["\\C[1]\\I[293]Boobs and Cock Desire required for Titjob "]
+"text":["\\C[1]\\I[293]Tetas y deseo de polla necesarios para titjob"]
 },
 "effect_pussysex_pussycockdesirereq_lower":{
-"text":["\\C[1]\\I[295]Pussy and Cock Desire required for Vaginal Sex "]
+"text":["\\C[1]\\I[295]Se requiere deseo de coño y polla para el sexo vaginal "]
 },
 "effect_pussysexcreampie_cockdesirereq_raise":{
-"text":["\\C[11]\\I[295]Cock Desire required for Vaginal Sex and Pussy Creampie "]
+"text":["\\C[11]\\I[295]Se requiere deseo de polla para el sexo vaginal y el creampie en la vagina"]
 },
 "effect_buttspank_buttdesirereq_raise":{
-"text":["\\C[11]\\I[297]Butt Desire required for Butt Spanking "]
+"text":["\\C[11]\\I[297]Deseo de culo requerido para Nalgadas"]
 },
 "effect_analsexcreampie_cockdesirereq_raise":{
-"text":["\\C[11]\\I[296]Cock Desire required for Anal Sex and Anal Creampie "]
+"text":["\\C[11]\\I[296]Se requiere deseo de polla para el sexo anal y el creampie anal "]
 },
 "effect_analsex_buttcockdesirereq_raise":{
-"text":["\\C[1]\\I[296]Butt and Cock Desire required for Anal Sex "]
+"text":["\\C[1]\\I[296]Se requiere deseo de culo y polla para el sexo anal "]
 },
 "effect_rj_mouthdesirereq_raise":{
-"text":["\\C[11]\\I[299]Mouth Desire required for Rimjob "]
+"text":["\\C[11]\\I[299]Deseo de boca requerido para beso negro "]
 },
 "effect_fj_cockdesirereq_raise":{
-"text":["\\C[11]\\I[219]Cock Desire required for Footjob "]
+"text":["\\C[11]\\I[219]Se requiere deseo de polla para el Footjob "]
 },
 
 "effect_confident_start_plus":{
-"text":["\\C[11]\\I[290]Chance to start battle Confident"]
+"text":["\\C[11]\\I[290]Oportunidad de comenzar la batalla Confiado"]
 },
 
 "effect_funding_exact_plus":{
-"text":["\\C[11]\\I[410]Funding "]
+"text":["\\C[11]\\I[410] Fondos "]
 },
 "effect_funding_exact_minus":{
-"text":["\\C[10]\\I[411]Funding "]
+"text":["\\C[10]\\I[411] Fondos "]
 },
 "effect_income_exact_plus":{
-"text":["\\C[11]\\I[410]Income "]
+"text":["\\C[11]\\I[410] Ingreso "]
 },
 "effect_income_exact_minus":{
-"text":["\\C[10]\\I[411]Income "]
+"text":["\\C[10]\\I[411] Ingreso "]
 },
 "effect_barincome_exact_plus":{
-"text":["\\C[11]\\I[410]Bar Income "]
+"text":["\\C[11]\\I[410] Ingreo del bar "]
 },
 "effect_barincome_exact_minus":{
-"text":["\\C[10]\\I[411]Bar Income "]
+"text":["\\C[10]\\I[411] Ingreo del bar "]
 },
 "effect_workshopincome_exact_plus":{
-"text":["\\C[11]\\I[410]Workshop Income "]
+"text":["\\C[11]\\I[410] Ingresos del taller "]
 },
 "effect_workshopincome_exact_minus":{
-"text":["\\C[10]\\I[411]Workshop Income "]
+"text":["\\C[10]\\I[411] Ingresos del taller "]
 },
 "effect_storeincome_exact_plus":{
-"text":["\\C[11]\\I[410]Store Income "]
+"text":["\\C[11]\\I[410] Ingreso de la tienda "]
 },
 "effect_storeincome_exact_minus":{
-"text":["\\C[10]\\I[411]Store Income "]
+"text":["\\C[10]\\I[411] Ingreso de la tienda "]
 },
 
 "effect_expense_exact_plus":{
-"text":["\\C[10]\\I[401]Expense "]
+"text":["\\C[10]\\I[401] Gastos "]
 },
 "effect_expense_exact_minus":{
-"text":["\\C[11]\\I[400]Expense "]
+"text":["\\C[11]\\I[400] Gastos "]
 },
 "effect_order_exact_plus":{
-"text":["\\C[11]\\I[408]Order "]
+"text":["\\C[11]\\I[408] Pedido "]
 },
 "effect_order_exact_minus":{
-"text":["\\C[10]\\I[409]Order "]
+"text":["\\C[10]\\I[409] Pedido "]
 },
 "effect_order_gain_plus":{
-"text":["\\C[11]\\I[408]Order Gain "]
+"text":["\\C[11]\\I[408] Ganancia de Pedido "]
 },
 "effect_order_gain_minus":{
-"text":["\\C[10]\\I[409]Order Gain "]
+"text":["\\C[10]\\I[409] Ganancia de Pedido "]
 },
 "effect_order_gain_no_battle":{
-"text":["\\C[10]\\I[409]Gain no Order from battles"]
+"text":["\\C[10]\\I[409] No obtenga Pedido de las batallas"]
 },
 "effect_control_exact_plus":{
 "text":["\\C[11]\\I[376]Control "]
@@ -2180,73 +2180,73 @@
 "text":["\\C[10]\\I[377]Control "]
 },
 "effect_control_half":{
-"text":["\\C[11]\\I[376]Control is halved"]
+"text":["\\C[11]\\I[376] El control se reduce a la mitad"]
 },
 "effect_corruption_exact":{
-"text":["\\C[31]\\I[10]Corruption "]
+"text":["\\C[31]\\I[10] Corrupción "]
 },
 "effect_global_riotchance_plus":{
-"text":["\\C[10]\\I[407]Riot Chance"]
+"text":["\\C[10]\\I[407] Probabilidad de revuelta"]
 },
 "effect_global_riotchance_minus":{
-"text":["\\C[11]\\I[406]Riot Chance"]
+"text":["\\C[11]\\I[406] Probabilidad de revuelta"]
 },
 "effect_lv1_riotchance_plus":{
-"text":["\\C[10]\\I[407]Level 1 Riot Chance"]
+"text":["\\C[10]\\I[407]Level 1 Probabilidad de disturbios"]
 },
 "effect_lv1_riotchance_minus":{
-"text":["\\C[11]\\I[406]Level 1 Riot Chance"]
+"text":["\\C[11]\\I[406]Level 1 Probabilidad de disturbios"]
 },
 "effect_lv2_riotchance_plus":{
-"text":["\\C[10]\\I[407]Level 2 Riot Chance"]
+"text":["\\C[10]\\I[407]Level 2 Probabilidad de disturbios"]
 },
 "effect_lv2_riotchance_minus":{
-"text":["\\C[11]\\I[406]Level 2 Riot Chance"]
+"text":["\\C[11]\\I[406]Level 2 Probabilidad de disturbios"]
 },
 "effect_lv3_riotchance_plus":{
-"text":["\\C[10]\\I[407]Level 3 Riot Chance"]
+"text":["\\C[10]\\I[407]Level 3 Probabilidad de disturbios"]
 },
 "effect_lv3_riotchance_minus":{
-"text":["\\C[11]\\I[406]Level 3 Riot Chance"]
+"text":["\\C[11]\\I[406]Level 3 Probabilidad de disturbios"]
 },
 "effect_lv4_riotchance_plus":{
-"text":["\\C[10]\\I[407]Level 4 Riot Chance"]
+"text":["\\C[10]\\I[407]Level 4 Probabilidad de disturbios"]
 },
 "effect_lv4_riotchance_minus":{
-"text":["\\C[11]\\I[406]Level 4 Riot Chance"]
+"text":["\\C[11]\\I[406]Level 4 Probabilidad de disturbios"]
 },
 
 "effect_noriot_unlessbankrupt":{
-"text":["\\C[11]\\I[406]Riots will not happen unless bankrupted"]
+"text":["\\C[11]\\I[406] Los disturbios no ocurrirán a menos que esté en bancarrota"]
 },
 "effect_noriot_cost":{
-"text":["\\C[10]\\I[401]Expense per Subjugated Level "]
+"text":["\\C[10]\\I[401] Gasto por Nivel Subyugado "]
 },
 "effect_riotminimumdays_plus2":{
-"text":["\\C[11]\\I[406]Minimum days before riots can occur in the same Level +2"]
+"text":["\\C[11]\\I[406]Días mínimos antes de que puedan ocurrir disturbios en el mismo Nivel +2"]
 },
 "effect_riotchance_edictsdouble":{
-"text":["\\C[11]\\I[406]\\I[407]Riot chance effects from enacted Edicts are doubled"]
+"text":["\\C[11]\\I[406]\\I[407] Los efectos de probabilidad de disturbios de los Mandatos promulgados se duplican"]
 },
 
 
 "effect_global_invasionchance_plus":{
-"text":["\\C[10]\\I[421]Invasion Chance"]
+"text":["\\C[10]\\I[421]Probabilidad de invasión"]
 },
 "effect_global_invasionchance_minus":{
-"text":["\\C[11]\\I[420]Invasion Chance"]
+"text":["\\C[11]\\I[420]probabilidad de invasióne"]
 },
 "effect_office_invasionchance_plus":{
-"text":["\\C[10]\\I[421]Office Invasion Chance"]
+"text":["\\C[10]\\I[421]Probabilidad de invasión de la oficina"]
 },
 "effect_office_invasionchance_minus":{
-"text":["\\C[11]\\I[420]Office Invasion Chance"]
+"text":["\\C[11]\\I[420]Probabilidad de invasión de la oficina"]
 },
 "effect_guardstation_invasionchance_minus":{
-"text":["\\C[11]\\I[420]Guard Station Invasion Chance"]
+"text":["\\C[11]\\I[420]Probabilidad de invasión de la estación de guardia"]
 },
 "effect_visitorcenter_invasionchance_plus":{
-"text":["\\C[10]\\I[487]Visitor Center Goblins"]
+"text":["\\C[10]\\I[487]Goblin del centro de visitantes"]
 },
 
 
@@ -13836,10 +13836,10 @@
 
 
 "armor_title_passive":{
-"text":["\\C[0]Pasivo: "]
+"text":["\\C[0]Pasiva: "]
 },
 "armor_title_equipeffects":{
-"text":["\\C[0]Equipar efectos:"]
+"text":["\\C[0]Al equipar:"]
 },
 
 "armor_2_name":{
